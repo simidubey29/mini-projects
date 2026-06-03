@@ -1,1 +1,3278 @@
-
+[
+    {
+        "title": "Close Ad",
+        "url": "#"
+    },
+    {
+        "title": "English",
+        "url": "https://www.moneycontrol.com/"
+    },
+    {
+        "title": "Hindi",
+        "url": "https://hindi.moneycontrol.com"
+    },
+    {
+        "title": "Gujarati",
+        "url": "https://gujarati.moneycontrol.com/"
+    },
+    {
+        "title": "Loans up to ₹50 Lakhs",
+        "url": "https://www.moneycontrolpay.com/"
+    },
+    {
+        "title": "HDFC Bank",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/hdfcbank/HDF01"
+    },
+    {
+        "title": "Vodafone Idea",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/telecommunication-service-provider/vodafoneidea/IC8"
+    },
+    {
+        "title": "Infosys",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/computers-software/infosys/IT"
+    },
+    {
+        "title": "Suzlon Energy",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/power-generationdistribution/suzlonenergy/SE17"
+    },
+    {
+        "title": "Ola Electric",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/auto-ancillaries-brakes/olaelectricmobility/OEM"
+    },
+    {
+        "title": "My Alerts",
+        "url": "https://www.moneycontrol.com/my-alerts"
+    },
+    {
+        "title": "My Profile",
+        "url": "https://www.moneycontrol.com/portfolio-management/user/update_profile"
+    },
+    {
+        "title": "My PRO",
+        "url": "https://www.moneycontrol.com/promos/pro.php"
+    },
+    {
+        "title": "My Portfolio",
+        "url": "https://www.moneycontrol.com/india/bestportfoliomanager/investment-tool"
+    },
+    {
+        "title": "My Watchlist",
+        "url": "https://www.moneycontrol.com/watchlist"
+    },
+    {
+        "title": "My Messages",
+        "url": "https://mmb.moneycontrol.com/"
+    },
+    {
+        "title": "Price Alerts",
+        "url": "https://www.moneycontrol.com/alerts/manage-alerts.php"
+    },
+    {
+        "title": "Logout",
+        "url": "https://www.moneycontrol.com/mcplus/portfolio/logout.php?ref=https://www.moneycontrol.com/mcplus/portfolio/loginportfolio.php"
+    },
+    {
+        "title": "Fixed Deposits",
+        "url": "https://www.moneycontrol.com/fixed-deposit"
+    },
+    {
+        "title": "Credit Cards",
+        "url": "https://www.moneycontrol.com/credit-cards"
+    },
+    {
+        "title": "Credit Score",
+        "url": "https://www.moneycontrol.com/credit-score"
+    },
+    {
+        "title": "Loan against Mutual Funds",
+        "url": "https://www.moneycontrolpay.com/loan-against-mutual-funds/"
+    },
+    {
+        "title": "Android",
+        "url": "https://play.google.com/store/apps/details?id=com.divum.MoneyControl&hl=en_IN"
+    },
+    {
+        "title": "IOS",
+        "url": "https://apps.apple.com/in/app/moneycontrol-markets-news/id408654600"
+    },
+    {
+        "title": "Facebook",
+        "url": "https://www.facebook.com/moneycontrol"
+    },
+    {
+        "title": "Twitter",
+        "url": "https://twitter.com/moneycontrolcom"
+    },
+    {
+        "title": "Instagram",
+        "url": "https://www.instagram.com/moneycontrolcom/"
+    },
+    {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/company/moneycontrol"
+    },
+    {
+        "title": "Network 18",
+        "url": "https://www.nw18.com/home"
+    },
+    {
+        "title": "Moneycontrol PRO",
+        "url": "https://www.moneycontrol.com/pro-top-stories"
+    },
+    {
+        "title": "Markets",
+        "url": "https://www.moneycontrol.com/stocksmarketsindia/"
+    },
+    {
+        "title": "Indian Indices",
+        "url": "https://www.moneycontrol.com/markets/indian-indices/"
+    },
+    {
+        "title": "All Stats",
+        "url": "https://www.moneycontrol.com/stocks/marketstats/index.php"
+    },
+    {
+        "title": "Top Gainers",
+        "url": "https://www.moneycontrol.com/stocks/market-stats/top-gainers-nse/"
+    },
+    {
+        "title": "Top Losers",
+        "url": "https://www.moneycontrol.com/stocks/market-stats/top-losers-nse/"
+    },
+    {
+        "title": "Only Buyers",
+        "url": "https://www.moneycontrol.com/stocks/market-stats/only-buyers-nse/"
+    },
+    {
+        "title": "Only Sellers",
+        "url": "https://www.moneycontrol.com/stocks/market-stats/only-sellers-nse/"
+    },
+    {
+        "title": "52 Week High",
+        "url": "https://www.moneycontrol.com/stocks/market-stats/52-week-high-nse/"
+    },
+    {
+        "title": "52 Week Low",
+        "url": "https://www.moneycontrol.com/stocks/market-stats/52-week-low-nse/"
+    },
+    {
+        "title": "Price Shockers",
+        "url": "https://www.moneycontrol.com/stocks/market-stats/price-shockers-nse/"
+    },
+    {
+        "title": "Volume Shockers",
+        "url": "https://www.moneycontrol.com/stocks/market-stats/volume-shockers-nse/"
+    },
+    {
+        "title": "Most Active Stocks",
+        "url": "https://www.moneycontrol.com/stocks/market-stats/most-active-stocks-nse/"
+    },
+    {
+        "title": "Stock Updates",
+        "url": "https://www.moneycontrol.com/markets/stockupdates/"
+    },
+    {
+        "title": "Global Markets",
+        "url": "https://www.moneycontrol.com/markets/global-indices/"
+    },
+    {
+        "title": "Technical Trends",
+        "url": "https://www.moneycontrol.com/markets/technical-trends/"
+    },
+    {
+        "title": "Open Interest Trends",
+        "url": "https://www.moneycontrol.com/markets/open-interest-trends/options"
+    },
+    {
+        "title": "Trending Stocks",
+        "url": "https://www.moneycontrol.com/stocks/market-stats/most-visited-trending-stocks/"
+    },
+    {
+        "title": "Unlisted Shares",
+        "url": "https://www.moneycontrol.com/markets/unlisted-shares/top-companies/"
+    },
+    {
+        "title": "Economic Calendar",
+        "url": "https://www.moneycontrol.com/economic-calendar"
+    },
+    {
+        "title": "Economic Indicators",
+        "url": "https://www.moneycontrol.com/economic-indicators/"
+    },
+    {
+        "title": "Fundamental Scanner",
+        "url": "https://www.moneycontrol.com/stock-scanner/fundamental/"
+    },
+    {
+        "title": "Technical Scanner",
+        "url": "https://www.moneycontrol.com/stock-scanner/technical/"
+    },
+    {
+        "title": "Earnings",
+        "url": "https://www.moneycontrol.com/markets/earnings/"
+    },
+    {
+        "title": "Sector Analysis",
+        "url": "https://www.moneycontrol.com/markets/sector-analysis"
+    },
+    {
+        "title": "IPO",
+        "url": "https://www.moneycontrol.com/ipo/"
+    },
+    {
+        "title": "US Markets",
+        "url": "https://www.moneycontrol.com/us-markets"
+    },
+    {
+        "title": "Pre Market",
+        "url": "https://www.moneycontrol.com/markets/premarket/"
+    },
+    {
+        "title": "F&O",
+        "url": "https://www.moneycontrol.com/markets/fno-market-snapshot"
+    },
+    {
+        "title": "FII & DII Activity",
+        "url": "https://www.moneycontrol.com/markets/fii-dii-data/"
+    },
+    {
+        "title": "Corporate Action",
+        "url": "https://www.moneycontrol.com/markets/corporate-action/"
+    },
+    {
+        "title": "PRO Stock Lists",
+        "url": "https://www.moneycontrol.com/pro-stock-lists/"
+    },
+    {
+        "title": "Seasonality Analysis",
+        "url": "https://www.moneycontrol.com/markets/seasonality-analysis/"
+    },
+    {
+        "title": "ETFs",
+        "url": "https://www.moneycontrol.com/etfs-exchange-traded-funds/"
+    },
+    {
+        "title": "Big Shark Portfolios",
+        "url": "https://www.moneycontrol.com/india-investors-portfolio/"
+    },
+    {
+        "title": "Stock Ideas",
+        "url": "https://www.moneycontrol.com/markets/stock-ideas/"
+    },
+    {
+        "title": "Bonds",
+        "url": "https://www.moneycontrol.com/bonds/"
+    },
+    {
+        "title": "Deals",
+        "url": "https://www.moneycontrol.com/markets/stock-deals/"
+    },
+    {
+        "title": "Bulk Deals",
+        "url": "https://www.moneycontrol.com/markets/stock-deals/bulk-deals/"
+    },
+    {
+        "title": "Block Deals",
+        "url": "https://www.moneycontrol.com/markets/stock-deals/block-deals/"
+    },
+    {
+        "title": "Intraday Large Deals",
+        "url": "https://www.moneycontrol.com/markets/stock-deals/large-deals/"
+    },
+    {
+        "title": "Commodity",
+        "url": "https://www.moneycontrol.com/commodity/"
+    },
+    {
+        "title": "Currency",
+        "url": "https://www.moneycontrol.com/markets/currencies/"
+    },
+    {
+        "title": "Cryptocurrency",
+        "url": "https://www.moneycontrol.com/crypto-market/market-movers/top-cryptos/inr"
+    },
+    {
+        "title": "News",
+        "url": "https://www.moneycontrol.com/news/"
+    },
+    {
+        "title": "Elections 2026",
+        "url": "https://www.moneycontrol.com/elections/assembly-election/"
+    },
+    {
+        "title": "Business",
+        "url": "https://www.moneycontrol.com/news/business/"
+    },
+    {
+        "title": "Economy",
+        "url": "https://www.moneycontrol.com/news/business/economy/"
+    },
+    {
+        "title": "Companies",
+        "url": "https://www.moneycontrol.com/news/business/companies/"
+    },
+    {
+        "title": "Mutual Funds",
+        "url": "https://www.moneycontrol.com/news/business/mutual-funds/"
+    },
+    {
+        "title": "Personal Finance",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/"
+    },
+    {
+        "title": "IPO",
+        "url": "https://www.moneycontrol.com/news/business/ipo/"
+    },
+    {
+        "title": "Startup",
+        "url": "https://www.moneycontrol.com/news/business/startup/"
+    },
+    {
+        "title": "Real Estate",
+        "url": "https://www.moneycontrol.com/news/business/real-estate/"
+    },
+    {
+        "title": "Bank Holidays 2026",
+        "url": "https://www.moneycontrol.com/banking/bank-holidays/"
+    },
+    {
+        "title": "Banking",
+        "url": "https://www.moneycontrol.com/banking/"
+    },
+    {
+        "title": "India",
+        "url": "https://www.moneycontrol.com/news/india/"
+    },
+    {
+        "title": "City",
+        "url": "https://www.moneycontrol.com/city/"
+    },
+    {
+        "title": "World",
+        "url": "https://www.moneycontrol.com/world/"
+    },
+    {
+        "title": "Politics",
+        "url": "https://www.moneycontrol.com/news/politics/"
+    },
+    {
+        "title": "Defence",
+        "url": "https://www.moneycontrol.com/defence/"
+    },
+    {
+        "title": "Markets",
+        "url": "https://www.moneycontrol.com/news/business/markets/"
+    },
+    {
+        "title": "Stocks",
+        "url": "https://www.moneycontrol.com/news/business/stocks/"
+    },
+    {
+        "title": "Technical Analysis",
+        "url": "https://www.moneycontrol.com/news/tags/technical-analysis.html"
+    },
+    {
+        "title": "Equity Research",
+        "url": "https://www.moneycontrol.com/equity-research/"
+    },
+    {
+        "title": "Commodities",
+        "url": "https://www.moneycontrol.com/news/business/commodities/"
+    },
+    {
+        "title": "Gold Rate",
+        "url": "https://www.moneycontrol.com/news/gold-rates-today/"
+    },
+    {
+        "title": "Silver Rate",
+        "url": "https://www.moneycontrol.com/news/silver-rates-today/"
+    },
+    {
+        "title": "AQI",
+        "url": "https://www.moneycontrol.com/aqi/"
+    },
+    {
+        "title": "Earnings",
+        "url": "https://www.moneycontrol.com/news/business/earnings/"
+    },
+    {
+        "title": "Trends",
+        "url": "https://www.moneycontrol.com/news/trends/"
+    },
+    {
+        "title": "Opinion",
+        "url": "https://www.moneycontrol.com/news/opinion/"
+    },
+    {
+        "title": "Explainers",
+        "url": "https://www.moneycontrol.com/explainers/"
+    },
+    {
+        "title": "MC Buzz",
+        "url": "https://www.moneycontrol.com/mc-buzz/"
+    },
+    {
+        "title": "MC Features",
+        "url": "https://www.moneycontrol.com/features/"
+    },
+    {
+        "title": "Personal Tech",
+        "url": "https://www.moneycontrol.com/technology/"
+    },
+    {
+        "title": "Auto",
+        "url": "https://www.moneycontrol.com/automobile/"
+    },
+    {
+        "title": "Fintech",
+        "url": "https://www.moneycontrol.com/news/fintech/"
+    },
+    {
+        "title": "Podcast",
+        "url": "https://www.moneycontrol.com/podcast/"
+    },
+    {
+        "title": "Photos",
+        "url": "https://www.moneycontrol.com/news/photos/"
+    },
+    {
+        "title": "Videos",
+        "url": "https://www.moneycontrol.com/news/videos/"
+    },
+    {
+        "title": "Web Stories",
+        "url": "https://www.moneycontrol.com/web-stories/"
+    },
+    {
+        "title": "Crypto Dashboard",
+        "url": "https://www.moneycontrol.com/cryptocurrency/"
+    },
+    {
+        "title": "IFSC Code Finder",
+        "url": "https://www.moneycontrol.com/banking/ifsc/"
+    },
+    {
+        "title": "Petrol Price in India",
+        "url": "https://www.moneycontrol.com/fuel-price/petrol-price-in-india/"
+    },
+    {
+        "title": "Diesel Price in India",
+        "url": "https://www.moneycontrol.com/fuel-price/diesel-price-in-india/"
+    },
+    {
+        "title": "Eco Pulse",
+        "url": "https://www.moneycontrol.com/mc-business-index/"
+    },
+    {
+        "title": "MC Learn",
+        "url": "https://www.moneycontrol.com/mc-learn"
+    },
+    {
+        "title": "Entertainment",
+        "url": "https://www.moneycontrol.com/entertainment/"
+    },
+    {
+        "title": "Sports",
+        "url": "https://www.moneycontrol.com/sports/"
+    },
+    {
+        "title": "Lifestyle",
+        "url": "https://www.moneycontrol.com/lifestyle/"
+    },
+    {
+        "title": "Health and Fitness",
+        "url": "https://www.moneycontrol.com/health-and-fitness/"
+    },
+    {
+        "title": "Education",
+        "url": "https://www.moneycontrol.com/education/"
+    },
+    {
+        "title": "Jobs",
+        "url": "https://www.moneycontrol.com/jobs/"
+    },
+    {
+        "title": "Science",
+        "url": "https://www.moneycontrol.com/science/"
+    },
+    {
+        "title": "Astro",
+        "url": "https://www.moneycontrol.com/astrology/"
+    },
+    {
+        "title": "Religion",
+        "url": "https://www.moneycontrol.com/religion/"
+    },
+    {
+        "title": "Travel",
+        "url": "https://www.moneycontrol.com/news/trends/travel/"
+    },
+    {
+        "title": "Editorâs Picks",
+        "url": "https://www.moneycontrol.com/editors-picks/"
+    },
+    {
+        "title": "Tech",
+        "url": "https://www.moneycontrol.com/news/technology-startups"
+    },
+    {
+        "title": "Learning Curve",
+        "url": "https://www.moneycontrol.com/courses/"
+    },
+    {
+        "title": "Mutual Funds",
+        "url": "https://www.moneycontrol.com/mutual-funds/"
+    },
+    {
+        "title": "Find Fund",
+        "url": "https://www.moneycontrol.com/mutual-funds/find-fund/"
+    },
+    {
+        "title": "Top Ranked Funds",
+        "url": "https://www.moneycontrol.com/mutual-funds/find-fund/top-rated-schemes/"
+    },
+    {
+        "title": "Performance Tracker",
+        "url": "https://www.moneycontrol.com/mutual-funds/performance-tracker/returns/large-cap-fund.html?invCatgryId=925732860"
+    },
+    {
+        "title": "Gold Loan",
+        "url": "https://www.moneycontrolpay.com/gold-loan/"
+    },
+    {
+        "title": "NFO",
+        "url": "https://www.moneycontrol.com/mutual-funds/new-fund-offers"
+    },
+    {
+        "title": "Learn",
+        "url": "https://www.moneycontrol.com/mutualfundindia/learn/"
+    },
+    {
+        "title": "Returns Calculator",
+        "url": "https://www.moneycontrol.com/mutual-funds/sip-planner"
+    },
+    {
+        "title": "Lumpsum SIP Balancer",
+        "url": "https://www.moneycontrol.com/mutual-funds/tools/lumpsum-sip-balancer"
+    },
+    {
+        "title": "Delay Cost Calculator",
+        "url": "https://www.moneycontrol.com/mutual-funds/tools/delay-cost-calculator"
+    },
+    {
+        "title": "MF Forum",
+        "url": "https://www.moneycontrol.com/mutualfundindia/mutual-fund-discussion-forum/"
+    },
+    {
+        "title": "Your MF Investment",
+        "url": "https://www.moneycontrol.com/personal-finance/portfolio-management/PORTFOLIO/returns"
+    },
+    {
+        "title": "MF Prices",
+        "url": "https://www.moneycontrol.com/personal-finance/portfolio-management/WATCHLIST/returns"
+    },
+    {
+        "title": "Personal Finance",
+        "url": "https://www.moneycontrol.com/personal-finance/"
+    },
+    {
+        "title": "Investing",
+        "url": "https://www.moneycontrol.com/personal-finance/investing/"
+    },
+    {
+        "title": "Insurance",
+        "url": "https://www.moneycontrol.com/personal-finance/insurance/"
+    },
+    {
+        "title": "Banking",
+        "url": "https://www.moneycontrol.com/personal-finance/banking/"
+    },
+    {
+        "title": "Financial Planning",
+        "url": "https://www.moneycontrol.com/personal-finance/financialplanning/"
+    },
+    {
+        "title": "Property",
+        "url": "https://www.moneycontrol.com/real-estate-property/"
+    },
+    {
+        "title": "Tools",
+        "url": "https://www.moneycontrol.com/personal-finance/tools/"
+    },
+    {
+        "title": "Video",
+        "url": "https://www.moneycontrol.com/personal-finance/videos/"
+    },
+    {
+        "title": "Ask Expert",
+        "url": "https://www.moneycontrol.com/forum-topics/ask-the-expert/"
+    },
+    {
+        "title": "Explainer",
+        "url": "https://www.moneycontrol.com/personal-finance/explainer/"
+    },
+    {
+        "title": "National Pension Scheme",
+        "url": "https://www.moneycontrol.com/personal-finance/nps-national-pension-scheme"
+    },
+    {
+        "title": "Fixed Deposit Comparison",
+        "url": "https://www.moneycontrol.com/fixed-deposit/fd-interest-rates/"
+    },
+    {
+        "title": "Fixed Deposit Interest Calculator",
+        "url": "https://www.moneycontrol.com/fixed-income/calculator/fixed-deposit-calculator.html"
+    },
+    {
+        "title": "Corporate Deposits",
+        "url": "https://www.moneycontrol.com/news/tags/company-fixed-deposits.html"
+    },
+    {
+        "title": "Income tax Filing Guide",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/income-tax-filing/"
+    },
+    {
+        "title": "Income Tax Calculator",
+        "url": "https://www.moneycontrol.com/personal-finance/tools/income-tax-calculator"
+    },
+    {
+        "title": "LTCG Tax on Property",
+        "url": "https://www.moneycontrol.com/personal-finance/tools/capital-gain-tax-calculator.html"
+    },
+    {
+        "title": "Loans",
+        "url": "https://www.moneycontrol.com/loans/"
+    },
+    {
+        "title": "Personal Loan",
+        "url": "https://www.moneycontrol.com/loans/personal-loan/"
+    },
+    {
+        "title": "Instant Loan",
+        "url": "https://www.moneycontrol.com/loans/instant-loan/"
+    },
+    {
+        "title": "EMI Calculator",
+        "url": "https://www.moneycontrol.com/personal-finance/loans/personal-loan/calculator"
+    },
+    {
+        "title": "Personal Loan Articles",
+        "url": "https://www.moneycontrol.com/news/tags/personal-loan.html"
+    },
+    {
+        "title": "Provident Fund Calculator",
+        "url": "https://www.moneycontrol.com/personal-finance/tools/provident-fund-calculator.html"
+    },
+    {
+        "title": "Assets Allocation Planning",
+        "url": "https://www.moneycontrol.com/personal-finance/tools/asset-allocation-calculator.html"
+    },
+    {
+        "title": "Debt Reduction Planner",
+        "url": "https://www.moneycontrol.com/personal-finance/tools/debt-reduction-plan-calculator.html"
+    },
+    {
+        "title": "Debt Evaluation Calculator",
+        "url": "https://www.moneycontrol.com/personal-finance/tools/debt-evaluation-calculator.html"
+    },
+    {
+        "title": "Current Expense Calculator",
+        "url": "https://www.moneycontrol.com/personal-finance/tools/current-expenses-calculator.html"
+    },
+    {
+        "title": "Finance Tracker",
+        "url": "https://www.moneycontrol.com/account-aggregator"
+    },
+    {
+        "title": "Real Estate : Trends & Analytics",
+        "url": "https://www.moneycontrol.com/property-rates/mumbai"
+    },
+    {
+        "title": "Gold Price Today",
+        "url": "https://www.moneycontrol.com/news/gold-rates-today/?utm_source=mcpf&utm_medium=desktop&utm_campaign=L1PF"
+    },
+    {
+        "title": "Upcoming Chat",
+        "url": "https://www.moneycontrol.com/news/mgmtinterviews/chats/detail_new.php?type=upcoming"
+    },
+    {
+        "title": "Previous Transcripts",
+        "url": "https://www.moneycontrol.com/news/mgmtinterviews/chats/archives_new.php"
+    },
+    {
+        "title": "All Schedule",
+        "url": "https://www.moneycontrol.com/news/mgmtinterviews/chats/detail_new.php"
+    },
+    {
+        "title": "Membership Rules",
+        "url": "https://mmb.moneycontrol.com/membership-rules/"
+    },
+    {
+        "title": "Forum Topics",
+        "url": "https://mmb.moneycontrol.com/forum-topics/"
+    },
+    {
+        "title": "Ask the Expert",
+        "url": "https://mmb.moneycontrol.com/forum-topics/ask-the-expert/"
+    },
+    {
+        "title": "Top Boarders",
+        "url": "https://mmb.moneycontrol.com/top-boarders/"
+    },
+    {
+        "title": "User Profile",
+        "url": "javascript:;"
+    },
+    {
+        "title": "Latest Threads",
+        "url": "https://mmb.moneycontrol.com/forum-topics/latest-threads.html"
+    },
+    {
+        "title": "Stocks",
+        "url": "https://mmb.moneycontrol.com/forum-topics/stocks-1.html"
+    },
+    {
+        "title": "Index",
+        "url": "https://mmb.moneycontrol.com/forum-topics/market-view/index-246280.html"
+    },
+    {
+        "title": "Gold",
+        "url": "https://mmb.moneycontrol.com/forum-topics/commodity/gold-509313.html"
+    },
+    {
+        "title": "Personal Finance",
+        "url": "https://mmb.moneycontrol.com/forum-topics/personal-finance-5.html"
+    },
+    {
+        "title": "Just Posted",
+        "url": "https://mmb.moneycontrol.com/forum-topics/market-view/just-posted-509249.html"
+    },
+    {
+        "title": "Latest Polls",
+        "url": "https://mmb.moneycontrol.com/poll/"
+    },
+    {
+        "title": "Historical Polls",
+        "url": "https://mmb.moneycontrol.com/poll/historical-polls/"
+    },
+    {
+        "title": "Market Sentiments",
+        "url": "https://mmb.moneycontrol.com/poll/market-sentiments/"
+    },
+    {
+        "title": "FAQs",
+        "url": "https://mmb.moneycontrol.com/faq/"
+    },
+    {
+        "title": "Code of Conduct",
+        "url": "https://mmb.moneycontrol.com/code-of-conduct/"
+    },
+    {
+        "title": "Feedback",
+        "url": "https://mmb.moneycontrol.com/forum-topics/feedback/about-mmb-160978.html"
+    },
+    {
+        "title": "Write to us",
+        "url": "mailto:forum@moneycontrol.com"
+    },
+    {
+        "title": "Videos",
+        "url": "https://www.moneycontrol.com/video-shows/"
+    },
+    {
+        "title": "Opening & Closing Bell",
+        "url": "https://www.moneycontrol.com/shows/markets-with-moneycontrol/"
+    },
+    {
+        "title": "The Tenant",
+        "url": "https://www.moneycontrol.com/shows/the-tenant/"
+    },
+    {
+        "title": "Drive Report",
+        "url": "https://www.moneycontrol.com/shows/drive-report/"
+    },
+    {
+        "title": "Podcast on Demand",
+        "url": "https://www.moneycontrol.com/news/tags/podcast.html"
+    },
+    {
+        "title": "The Week on Dalal Street",
+        "url": "https://www.moneycontrol.com/news/podcast/the-week-on-dalal-street"
+    },
+    {
+        "title": "Market Minutes",
+        "url": "https://www.moneycontrol.com/news/podcast/market-minutes"
+    },
+    {
+        "title": "MC Special Podcast",
+        "url": "https://www.moneycontrol.com/news/podcast/mc-special-podcast"
+    },
+    {
+        "title": "Simply Save",
+        "url": "https://www.moneycontrol.com/news/podcast/simply-save"
+    },
+    {
+        "title": "Policy Talks",
+        "url": "https://www.moneycontrol.com/news/podcast/policy-talks"
+    },
+    {
+        "title": "Hindi",
+        "url": "https://hindi.moneycontrol.com/tv/"
+    },
+    {
+        "title": "Gujarati",
+        "url": "https://gujarati.moneycontrol.com/tv/"
+    },
+    {
+        "title": "Moneycontrol",
+        "url": "https://www.moneycontrol.com"
+    },
+    {
+        "title": "Invest in top cryptocurrencies all over the world",
+        "url": "https://www.moneycontrol.com/msite/mudrex"
+    },
+    {
+        "title": "Invest in Unlisted Shares",
+        "url": "https://www.moneycontrol.com/msite/incred-money/"
+    },
+    {
+        "title": "#MFSimplified",
+        "url": "https://www.moneycontrol.com/msite/mc-explains-mutual-fund-simplified"
+    },
+    {
+        "title": "#TheCryptoCapsuleSeries",
+        "url": "https://www.moneycontrol.com/msite/binance"
+    },
+    {
+        "title": "Get App",
+        "url": "https://play.google.com/store/apps/details?id=com.divum.MoneyControl&referrer=utm_source%3Dgoogle_play%26utm_medium%3Dorganic%26utm_campaign%3Dgetappbanner_eng"
+    },
+    {
+        "title": "Open in App",
+        "url": "https://wz7ux.app.goo.gl/?link=https://www.moneycontrol.com/&utm_source=MC_OpeninApp&utm_medium=MC_WAP&utm_campaign=OpeninApp_Button&apn=com.divum.MoneyControl&ibi=com.moneycontrol.mc&isi=408654600"
+    },
+    {
+        "title": "News on WhatsApp",
+        "url": "https://wa.me/918375815914?text=I want to receive news updates on WhatsApp"
+    },
+    {
+        "title": "Instant Cash up to 50 Lakhs",
+        "url": "https://www.moneycontrolpay.com/?utm_source=headbands_web"
+    },
+    {
+        "title": "Zerodha to refund DP charges on transfer-in of stocks; will simplify investment and tax tracking, says Nithin Kamath",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/zerodha-to-refund-dp-charges-on-transfer-in-of-stocks-will-simplify-investment-and-tax-tracking-says-nithin-kamath-13940406.html"
+    },
+    {
+        "title": "Cabinet clears Rs 10,000-crore package to stabilise ATF prices to shield airlines from crude shock",
+        "url": "https://www.moneycontrol.com/news/business/cabinet-clear-rs-10-000-crore-package-to-stabilise-atf-prices-to-cushion-airlines-from-iran-war-price-shock-13940231.html"
+    },
+    {
+        "title": "SEBI flags Rs 15.15 lakh crore revenue misstatement in 5 Years, Interim order against Rajesh Exports",
+        "url": "https://www.moneycontrol.com/news/business/markets/sebi-flags-rs-15-15-lakh-crore-revenue-misstatement-in-interim-order-against-rajesh-exports-13940424.html"
+    },
+    {
+        "title": "Join Us on Telegram",
+        "url": "https://t.me/moneycontrolcom"
+    },
+    {
+        "title": "Live TV",
+        "url": "https://m.moneycontrol.com/live_tv.php"
+    },
+    {
+        "title": "Nifty 50",
+        "url": "https://www.moneycontrol.com/indian-indices/nifty-50-9.html"
+    },
+    {
+        "title": "Sensex",
+        "url": "https://www.moneycontrol.com/indian-indices/sensex-4.html"
+    },
+    {
+        "title": "MC INTERVIEW",
+        "url": "https://www.moneycontrol.com/banking/sbi-will-take-the-lead-in-diversifying-liability-options-says-chairman-cs-setty-article-13940308.html"
+    },
+    {
+        "title": "Zepto nears $1 billion quarterly net order value milestone ahead of IPO",
+        "url": "https://www.moneycontrol.com/news/business/zepto-nears-1-billion-net-order-value-milestone-ahead-of-ipo-13940410.html"
+    },
+    {
+        "title": "ITC needs to increase cigarette costs by 35%, Motilal Oswal explains why",
+        "url": "https://www.moneycontrol.com/news/business/markets/itc-needs-to-increase-cigarette-costs-by-35-motilal-oswal-explains-why-13940357.html"
+    },
+    {
+        "title": "See More News",
+        "url": "/news/"
+    },
+    {
+        "title": "Need to relook at liabilities, canât rely only on deposits, says SBI Chairman",
+        "url": "https://www.moneycontrol.com/news/business/need-to-relook-at-liabilities-can-t-rely-only-on-deposits-says-sbi-chairman-13940524.html"
+    },
+    {
+        "title": "SBI Chairman speaks exclusively to Moneycontrol",
+        "url": "https://www.moneycontrol.com/news/videos/business/sbi-chairman-speaks-exclusively-to-moneycontrol-13940511.html"
+    },
+    {
+        "title": "Trump Tariffs: U.S. Proposes Additional 12.5% Tariffs On India",
+        "url": "https://www.moneycontrol.com/world/trump-tariffs-u-s-proposes-additional-12-5-tariffs-on-india-videoshow-13940515.html"
+    },
+    {
+        "title": "Trump Says Iran Wants A Deal Despite Fresh US Strikes And Iranian Retaliation",
+        "url": "https://www.moneycontrol.com/world/trump-says-iran-wants-a-deal-despite-fresh-us-strikes-and-iranian-retaliation-videoshow-13937766.html"
+    },
+    {
+        "title": "Trump Hits Pause On Iran Deal Again, Demands More Changes",
+        "url": "https://www.moneycontrol.com/world/trump-hits-pause-on-iran-deal-again-demands-more-changes-videoshow-13937590.html"
+    },
+    {
+        "title": "Anthropic brings Project Glasswing to India and 14 more countries with access to controversial Mythos AI model",
+        "url": "https://www.moneycontrol.com/technology/anthropic-brings-project-glasswing-to-india-and-14-more-countries-with-access-to-controversial-mythos-ai-model-article-13940096.html"
+    },
+    {
+        "title": "Cabinet approves Rs 9,585 crore scheme to replace old trucks and buses in Delhi-NCR, auto industry welcomes move",
+        "url": "https://www.moneycontrol.com/automobile/cabinet-approves-rs-9585-crore-scheme-to-replace-old-trucks-and-buses-in-delhi-ncr-auto-industry-welcomes-move-article-13940516.html"
+    },
+    {
+        "title": "MC EXPLAINER",
+        "url": "https://www.moneycontrol.com/news/india/bharatpe-flex-explained-how-the-new-credit-on-upi-product-lets-users-pay-first-and-settle-later-13940494.html"
+    },
+    {
+        "title": "Suryakumar Yadav to be axed as India's T20 captain; Iyer, Tilak Varma among top contenders to replace SKY: Source",
+        "url": "https://www.moneycontrol.com/sports/cricket/suryakumar-yadav-to-be-axed-as-india-s-t20-captain-iyer-tilak-varma-among-top-contenders-to-replace-sky-source-article-13940474.html"
+    },
+    {
+        "title": "Bengaluru ORR flooding: Outer Ring Road Companies Association calls for corridor-wide drainage overhaul, real-time response system",
+        "url": "https://www.moneycontrol.com/news/india/bengaluru-orr-flooding-outer-ring-road-companies-association-calls-for-corridor-wide-drainage-overhaul-real-time-response-system-13940452.html"
+    },
+    {
+        "title": "Dhurandhar The Revenge lands 50 sponsors ahead of JioHotstar debut",
+        "url": "https://www.moneycontrol.com/entertainment/dhurandhar-the-revenge-lands-50-sponsors-ahead-of-jiohotstar-debut-article-13940487.html"
+    },
+    {
+        "title": "'It's not over in Iran yet': Netanyahu says Israel, US ready for military action, leaves decision to Trump",
+        "url": "https://www.moneycontrol.com/world/it-s-not-over-in-iran-yet-netanyahu-says-israel-us-ready-for-military-action-leaves-decision-to-trump-article-13940481.html"
+    },
+    {
+        "title": "More News",
+        "url": "#keynwstb1_in_focus"
+    },
+    {
+        "title": "Recent News",
+        "url": "#keynwstb2_in_the_news"
+    },
+    {
+        "title": "India eyes $2 billion tactical drone procurement in major military push: Report",
+        "url": "https://www.moneycontrol.com/defence/india-eyes-2-billion-tactical-drone-procurement-in-major-military-push-report-article-13940139.html"
+    },
+    {
+        "title": "New Bengal LoP and leader of the rebel camp: Who is Ritabrata Banerjee?",
+        "url": "https://www.moneycontrol.com/news/india/new-bengal-lop-and-leader-of-the-rebel-camp-who-is-ritabrata-banerjee-13940422.html"
+    },
+    {
+        "title": "SpaceX, OpenAI and Anthropic IPOs are coming: Can Indian investors participate?",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/spacex-openai-and-anthropic-ipos-are-coming-can-indian-investors-participate-13939808.html"
+    },
+    {
+        "title": "RBI denies selling gold, says holdings unchanged at 880.52 tonnes",
+        "url": "https://www.moneycontrol.com/news/business/economy/rbi-rejects-report-of-gold-sale-says-physical-stock-remains-unchanged-at-880-52-tonnes-13939739.html"
+    },
+    {
+        "title": "While large-cap and flexi-cap funds faltered, this category surged 9% in last 3 months",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/while-large-cap-and-flexi-cap-funds-faltered-this-category-surged-9-in-last-3-months-13940150.html"
+    },
+    {
+        "title": "21 killed in Delhi's Malviya Nagar hotel fire; several foreign nationals among dead",
+        "url": "https://www.moneycontrol.com/city/delhi-restaurant-fire-kills-10-as-massive-blaze-engulfs-multi-storey-building-in-malviya-nagar-article-13939687.html"
+    },
+    {
+        "title": "More News",
+        "url": "#keynwstb1"
+    },
+    {
+        "title": "Recent News",
+        "url": "#keynwstb2"
+    },
+    {
+        "title": "Vance or Rubio? Trump drops his biggest clue yet about who could lead Republicans after him",
+        "url": "https://www.moneycontrol.com/world/vance-or-rubio-trump-drops-his-biggest-clue-yet-about-who-could-lead-republicans-after-him-article-13940463.html"
+    },
+    {
+        "title": "TCS shares slide to 6-year low after 9% crash; what lies ahead?",
+        "url": "https://www.moneycontrol.com/news/business/markets/tcs-shares-slide-to-6-year-low-after-9-crash-what-lies-ahead-13940159.html"
+    },
+    {
+        "title": "S&P 500 falls as deadly US-Iran flareup threatens peace hopes",
+        "url": "https://www.moneycontrol.com/news/business/markets/s-p-500-falls-as-deadly-us-iran-flareup-threatens-peace-hopes-13940428.html"
+    },
+    {
+        "title": "US proposes 12.5% 'forced labour' tariff on India while others face 10%: Why New Delhi is in higher bracket",
+        "url": "https://www.moneycontrol.com/world/us-proposes-12-5-forced-labour-tariff-on-india-while-others-face-10-why-new-delhi-is-in-higher-bracket-explained-article-13939991.html"
+    },
+    {
+        "title": "US-India trade deal 99% complete; Sergio Gor to meet Goyal tomorrow as both sides work through final 1% technical hurdles",
+        "url": "https://www.moneycontrol.com/news/business/markets/us-india-trade-deal-99-complete-sergio-gor-to-meet-goyal-tomorrow-as-both-sides-work-through-final-1-technical-hurdles-13940193.html"
+    },
+    {
+        "title": "Before cashing out your EPF, understand these important tax consequences",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/before-cashing-out-your-epf-understand-these-important-tax-consequences-13940339.html"
+    },
+    {
+        "title": "TCS, Infosys, Wipro took over 300,000 Microsoft Copilot licences in 6 months",
+        "url": "https://www.moneycontrol.com/news/business/information-technology/tcs-infosys-wipro-took-over-300-000-microsoft-copilot-licences-in-6-months-13939791.html"
+    },
+    {
+        "title": "T Gnanasekar",
+        "url": "http://www.moneycontrol.com/gamechangers/tgnanasekar?utm_source=bottomfive"
+    },
+    {
+        "title": "Gujarat to set up separate Service Commissionerate; minister says first such move in country",
+        "url": "https://www.moneycontrol.com/news/india/gujarat-to-set-up-separate-service-commissionerate-minister-says-first-such-move-in-country-13940548.html"
+    },
+    {
+        "title": "Coal block 'scam': Delhi court discharges Hindalco",
+        "url": "https://www.moneycontrol.com/news/business/coal-block-scam-delhi-court-discharges-hindalco-13940547.html"
+    },
+    {
+        "title": "Suzlon to diversify beyond wind; pump Rs 500 cr in new arm this fiscal",
+        "url": "https://www.moneycontrol.com/news/business/suzlon-to-diversify-beyond-wind-pump-rs-500-cr-in-new-arm-this-fiscal-13940546.html"
+    },
+    {
+        "title": "WHO says Ebola response catching up as confirmed DRC cases hit 344",
+        "url": "https://www.moneycontrol.com/world/who-says-ebola-response-catching-up-as-confirmed-drc-cases-hit-344-article-13940544.html"
+    },
+    {
+        "title": "Oshea Herbals sets Rs 650 crore target amid expansion push",
+        "url": "https://www.moneycontrol.com/news/business/oshea-herbals-sets-rs-650-crore-target-amid-expansion-push-13940534.html"
+    },
+    {
+        "title": "Owner of Malviya Nagar hotel arrested hours after devastating fire kills 21",
+        "url": "https://www.moneycontrol.com/city/owner-of-malviya-nagar-hotel-arrested-hours-after-devastating-fire-kills-21-article-13940539.html"
+    },
+    {
+        "title": "Niharika Chouksey breaks silence on Tumm Se Tumm Tak exit rumours, says âI am not going anywhereâ",
+        "url": "https://www.moneycontrol.com/entertainment/niharika-chouksey-breaks-silence-on-tumm-se-tumm-tak-exit-rumours-says-i-am-not-going-anywhere-article-13940538.html"
+    },
+    {
+        "title": "California bank hostage standoff ends after 15 hours; FBI shoots suspect, hostages safe",
+        "url": "https://www.moneycontrol.com/world/california-bank-hostage-standoff-ends-after-15-hours-fbi-shoots-suspect-hostages-safe-article-13940535.html"
+    },
+    {
+        "title": "Free bus passes for students, private employment exchange: Shivakumar's first Cabinet decisions as Karnataka CM",
+        "url": "https://www.moneycontrol.com/news/india/free-bus-passes-for-students-private-employment-exchange-shivakumar-s-first-cabinet-decisions-as-karnataka-cm-13940527.html"
+    },
+    {
+        "title": "Nine residential societies in Ahmedabad affected with contaminated water; 50 fall ill",
+        "url": "https://www.moneycontrol.com/city/nine-residential-societies-in-ahmedabad-affected-with-contaminated-water-50-fall-ill-article-13940525.html"
+    },
+    {
+        "title": "Peddi Twitter Review: Ram Charan's performance wins hearts; netizens hail powerful interval, electrifying cricket sequences",
+        "url": "https://www.moneycontrol.com/entertainment/peddi-twitter-review-ram-charan-s-performance-wins-hearts-netizens-hail-powerful-interval-electrifying-cricket-sequences-article-13940521.html"
+    },
+    {
+        "title": "UP Cabinet approves amendments to Semiconductor Policy 2024",
+        "url": "https://www.moneycontrol.com/news/india/up-cabinet-approves-amendments-to-semiconductor-policy-2024-13940520.html"
+    },
+    {
+        "title": "Ethiopian Wolf: Africaâs most endangered wolf that eats flower",
+        "url": "https://www.moneycontrol.com/science/ethiopian-wolf-africas-most-endangered-wolf-that-eats-flower-visual-story-3690466.html"
+    },
+    {
+        "title": "Smooth-coated Otter: Meet endangered otter species of India",
+        "url": "https://www.moneycontrol.com/science/smooth-coated-otter-meet-one-of-the-endagered-otter-species-of-india-2-visual-story-3685835.html"
+    },
+    {
+        "title": "World Fish Migration Day 2026: 8 fishes migrate to India in Summers",
+        "url": "https://www.moneycontrol.com/science/world-fish-migration-day-2026-8-fishes-migrate-to-india-in-summers-visual-story-3680964.html"
+    },
+    {
+        "title": "World Bee Day 2026: Meet 10 most poisonous bees of India!",
+        "url": "https://www.moneycontrol.com/science/world-bee-day-2026-meet-10-most-poisonous-bees-of-india-visual-story-3678079.html"
+    },
+    {
+        "title": "Meet White-tailed Ptarmigan: This bird can change its colour seasonally!",
+        "url": "https://www.moneycontrol.com/science/meet-white-tailed-ptarmigan-this-0-5-kg-bird-change-its-colour-according-to-seasons-visual-story-3677911.html"
+    },
+    {
+        "title": "Endangered Species Day 2026: Meet 10 endangered animals of India fighting for survival",
+        "url": "https://www.moneycontrol.com/science/endangered-species-day-2026-meet-10-endangered-animals-of-india-fighting-for-survival-visual-story-3672692.html"
+    },
+    {
+        "title": "Markets end on weak note amid FII selling; rupee extends gains",
+        "url": "https://www.moneycontrol.com/news/photos/business/markets/markets-end-on-weak-note-amid-fii-selling-rupee-extends-gains-13936185.html"
+    },
+    {
+        "title": "Rishabh Pant's IPL contract 5x more than total prize pool of PSL 2026",
+        "url": "https://www.moneycontrol.com/sports/cricket/rishabh-pant-s-ipl-contract-5x-more-than-total-prize-pool-of-psl-2026-photo-gallery-13908385.html"
+    },
+    {
+        "title": "Markets fall for fifth straight week, longest losing streak since August 2025; Rupee at record low",
+        "url": "https://www.moneycontrol.com/news/photos/business/markets/markets-fall-for-fifth-straight-week-longest-losing-streak-since-august-2025-rupee-at-record-low-13873081.html"
+    },
+    {
+        "title": "Benchmarks flat in volatile week; rupee weakens against dollar",
+        "url": "https://www.moneycontrol.com/news/photos/business/markets/benchmarks-flat-in-volatile-week-rupee-weakens-against-dollar-13776595.html"
+    },
+    {
+        "title": "Team India's probable playing 11 for T20 World Cup 2026",
+        "url": "https://www.moneycontrol.com/sports/cricket/team-india-s-probable-playing-11-for-t20-world-cup-2026-photo-gallery-13737108.html"
+    },
+    {
+        "title": "Lionel Messi visits wildlife conservation centre Vantara in Jamnagar | In Pictures",
+        "url": "https://www.moneycontrol.com/news/photos/india/lionel-messi-s-visit-to-vantara-wildlife-centre-in-pictures-13728705.html"
+    },
+    {
+        "title": "Market climbs to fresh high amid volatility; rupee at record low",
+        "url": "https://www.moneycontrol.com/news/photos/business/markets/market-climbs-to-fresh-high-amid-volatility-rupee-at-record-low-13713427.html"
+    },
+    {
+        "title": "Modiâs handcrafted diplomacy: Special gifts presented to President Putin | See pics",
+        "url": "https://www.moneycontrol.com/world/modi-s-handcrafted-diplomacy-six-special-gifts-presented-to-president-putin-see-pics-photo-gallery-13713276.html"
+    },
+    {
+        "title": "The IndiaâRussia arms equation | In Pics",
+        "url": "https://www.moneycontrol.com/news/india/the-india-russia-arms-equation-in-pics-13709306.html"
+    },
+    {
+        "title": "Pause in repo rate would be an appropriate decision by MPC, says SBI Chairman",
+        "url": "https://www.moneycontrol.com/banking/pause-in-repo-rate-would-be-an-appropriate-decision-by-mpc-says-sbi-chairman-article-13939313.html"
+    },
+    {
+        "title": "Anthropic offers Mythos access to organisations in India and other countries",
+        "url": "https://www.moneycontrol.com/artificial-intelligence/anthropic-expands-mythos-access-to-150-organisations-across-15-countries-article-13939004.html"
+    },
+    {
+        "title": "India's tyre exports defy Trump tariffs to hit a record high in FY26",
+        "url": "https://www.moneycontrol.com/automobile/india-s-tyre-exports-defy-trump-tariffs-to-hit-a-record-high-in-fy26-article-13940013.html"
+    },
+    {
+        "title": "UAE beats Saudi to emerge India's second-largest crude supplier in May",
+        "url": "https://www.moneycontrol.com/news/india/uae-beats-saudi-to-emerge-india-s-second-largest-crude-supplier-in-may-13939682.html"
+    },
+    {
+        "title": "At Rs 400 crore every trading hour, FII secondary market selling in 2026 so far runs at twice the 2025 pace",
+        "url": "https://www.moneycontrol.com/news/business/earnings/at-rs-400-crore-every-trading-hour-fii-secondary-market-selling-in-2026-so-far-runs-at-twice-the-2025-pace-13938984.html"
+    },
+    {
+        "title": "AI is splitting Dalal Street on IT stocks â and nobody knows who wins yet",
+        "url": "https://www.moneycontrol.com/news/business/markets/ai-is-splitting-dalal-street-on-it-stocks-and-nobody-knows-who-wins-yet-13939810.html"
+    },
+    {
+        "title": "AI startup funding falls 10% to $725 million in Jan-May as investors shift to smaller, early-stage bets",
+        "url": "https://www.moneycontrol.com/news/business/funding/ai-startup-funding-falls-10-to-725-million-in-jan-may-as-investors-shift-to-smaller-early-stage-bets-13939218.html"
+    },
+    {
+        "title": "Why more companies are choosing SEBI's confidential IPO filing route",
+        "url": "https://www.moneycontrol.com/news/business/markets/why-more-companies-are-choosing-sebi-s-confidential-ipo-filing-route-13939224.html"
+    },
+    {
+        "title": "Government wants AI to write tenders and check them for compliance too",
+        "url": "https://www.moneycontrol.com/artificial-intelligence/government-wants-ai-to-write-tenders-and-check-them-for-compliance-too-article-13939324.html"
+    },
+    {
+        "title": "Bengaluru leads India's bus travel boom as more women, Gen Z hit the road",
+        "url": "https://www.moneycontrol.com/travel/bengaluru-leads-india-s-bus-travel-boom-as-more-women-gen-z-hit-the-road-article-13939327.html"
+    },
+    {
+        "title": "Book Extract | Chinaâs Wars: The Politics And Diplomacy Behind Its Military Coercion",
+        "url": "https://www.moneycontrol.com/books/book-extract-china-s-wars-the-politics-and-diplomacy-behind-its-military-coercion-article-13940250.html"
+    },
+    {
+        "title": "'Doctors in Mumbai have BMW, Mercedes, Audi': IIT grad laid off from big tech backs MBBS as safest career",
+        "url": "https://www.moneycontrol.com/news/trends/doctors-in-mumbai-have-bmw-mercedes-audi-iit-grad-laid-off-from-big-tech-backs-mbbs-as-safest-career-13940434.html"
+    },
+    {
+        "title": "Gujarat tourists perform garba at landslide site, trigger backlash: 'Money can't buy class'",
+        "url": "https://www.moneycontrol.com/news/trends/gujarat-tourists-perform-garba-at-landslide-site-trigger-backlash-money-can-t-buy-class-13940450.html"
+    },
+    {
+        "title": "Long hours, hidden rules, no job satisfaction: Indian woman shares brutal reality of working in South Korea",
+        "url": "https://www.moneycontrol.com/news/trends/long-hours-hidden-rules-no-job-satisfaction-indian-woman-shares-brutal-reality-of-working-in-south-korea-13940493.html"
+    },
+    {
+        "title": "When Aamir Khan opened up about his future plans with Gauri Spratt: \"We are really serious about each other...\"",
+        "url": "https://www.moneycontrol.com/entertainment/when-aamir-khan-opened-up-about-his-future-plans-with-gauri-spratt-we-are-really-serious-about-each-other-article-13940364.html"
+    },
+    {
+        "title": "Meet Kovid Boob: JEE Advanced 2026 SC category topper from Nagpur who secured AIR 82 after 3 years of preparation",
+        "url": "https://www.moneycontrol.com/education/meet-kovid-boob-jee-advanced-2026-sc-category-topper-from-nagpur-who-secured-air-82-after-3-years-of-preparation-article-13939755.html"
+    },
+    {
+        "title": "Re-NEET Question Paper for Rs 50,000? Telegram channels claim to sell 'Re-NEET' test paper, cybercrime complaint filed in Ahmedabad",
+        "url": "https://www.moneycontrol.com/education/re-neet-question-paper-for-rs-50-000-telegram-channels-claim-to-sell-re-neet-test-paper-cybercrime-complaint-filed-in-ahmedabad-article-13939972.html"
+    },
+    {
+        "title": "'Edison of India': Meet GD Naidu â a school dropout who built India's first electric motor in 1930",
+        "url": "https://www.moneycontrol.com/education/edison-of-india-meet-gd-naidu-a-school-dropout-who-built-india-s-first-electric-motor-in-1930-article-13940148.html"
+    },
+    {
+        "title": "Meet the 'Potato Patch': A giant 1,800-year-old coral in Lakshadweep is size of a football-field",
+        "url": "https://www.moneycontrol.com/science/meet-the-potato-patch-a-giant-1-800-year-old-coral-in-lakshadweep-is-size-of-a-football-field-article-13939452.html"
+    },
+    {
+        "title": "Vibhuvana Sankashti Chaturthi 2026: Is this event on June 3 or June 4? Correct vrat date, moonrise time and shubh muhurat",
+        "url": "https://www.moneycontrol.com/religion/vibhuvana-sankashti-chaturthi-2026-is-this-event-on-june-3-or-june-4-correct-vrat-date-moonrise-time-and-shubh-muhurat-article-13939557.html"
+    },
+    {
+        "title": "Zohoâs Sridhar Vembu outlines Karuviâs strategy against Chinese power tool imports; says âMatching global quality was...\"",
+        "url": "https://www.moneycontrol.com/technology/zoho-s-sridhar-vembu-outlines-karuvi-s-strategy-against-chinese-power-tool-imports-says-matching-global-quality-was-article-13939279.html"
+    },
+    {
+        "title": "Apple iPhone 16 price drops to Rs 40,041 in Croma Apple sale; buyers will also get an free Apple charger worth Rs 2,190",
+        "url": "https://www.moneycontrol.com/technology/apple-iphone-16-price-drops-to-rs-40-041-in-croma-apple-sale-buyers-will-also-get-an-free-apple-charger-worth-rs-2-190-article-13938746.html"
+    },
+    {
+        "title": "7 best hill stations to visit this summer for peace, cool breeze and zero chaos",
+        "url": "https://www.moneycontrol.com/lifestyle/7-best-hill-stations-to-visit-this-summer-for-peace-cool-breeze-and-zero-chaos-article-13938210.html"
+    },
+    {
+        "title": "Your kitchen sponge is quietly releasing microplastics in your dishes, study finds",
+        "url": "https://www.moneycontrol.com/health-and-fitness/your-kitchen-sponge-is-quietly-releasing-microplastics-in-your-dishes-study-finds-article-13938237.html"
+    },
+    {
+        "title": "This is the best breakfast for weight loss, according to a gut doctor",
+        "url": "https://www.moneycontrol.com/health-and-fitness/this-is-the-best-breakfast-for-weight-loss-according-to-a-gut-doctor-article-13937702.html"
+    },
+    {
+        "title": "Sensex",
+        "url": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-03-06-2026-liveblog-13939139.html"
+    },
+    {
+        "title": "US tariffs on India",
+        "url": "https://www.moneycontrol.com/world/us-proposes-up-to-12-5-tariff-on-india-59-other-economies-over-forced-labour-article-13939235.html"
+    },
+    {
+        "title": "IT shares crash",
+        "url": "https://www.moneycontrol.com/news/business/markets/it-index-crashes-3-5-snaps-3-day-rally-amid-profit-booking-tcs-techm-infy-fall-up-to-6-13939287.html"
+    },
+    {
+        "title": "Ananya Birla",
+        "url": "https://www.moneycontrol.com/lifestyle/fashion/ananya-birla-wears-blazers-80-of-the-time-the-one-styling-trick-that-makes-it-never-look-boring-article-13939453.html"
+    },
+    {
+        "title": "DK Shivakumar",
+        "url": "https://www.moneycontrol.com/news/india/dk-shivakumar-to-take-oath-as-karnataka-cm-today-state-set-for-leadership-transition-13939194.html"
+    },
+    {
+        "title": "Ask the Xpert",
+        "url": "https://www.moneycontrol.com/pro-live-advisor/"
+    },
+    {
+        "title": "My Alerts",
+        "url": "https://www.moneycontrol.com/my-alerts?utm_source=market_action&utm_medium=web&utm_campaign=my_feed_cta"
+    },
+    {
+        "title": "My Alerts",
+        "url": "https://www.moneycontrol.com/my-alerts?utm_source=market_action&utm_medium=wap&utm_campaign=my_feed_cta"
+    },
+    {
+        "title": "NIFTY 50",
+        "url": "https://www.moneycontrol.com/indian-indices/cnx-nifty-9.html"
+    },
+    {
+        "title": "1 day",
+        "url": "#mac1d"
+    },
+    {
+        "title": "Advance / Decline (NSE)",
+        "url": "https://www.moneycontrol.com/stocksmarketsindia/heat-map-advance-decline-ratio-nse-bse"
+    },
+    {
+        "title": "Nasdaq",
+        "url": "https://www.moneycontrol.com/live-index/nasdaq"
+    },
+    {
+        "title": "FTSE",
+        "url": "https://www.moneycontrol.com/live-market/ftse"
+    },
+    {
+        "title": "India",
+        "url": "#inBN"
+    },
+    {
+        "title": "United States",
+        "url": "#usM"
+    },
+    {
+        "title": "TCS",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/computers-software/tataconsultancyservices/TCS"
+    },
+    {
+        "title": "SBI",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/banks-public-sector/statebankindia/SBI"
+    },
+    {
+        "title": "Reliance",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/refineries/relianceindustries/RI"
+    },
+    {
+        "title": "Apollo Hospital",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/hospitals-medical-services/apollohospitalsenterprises/AHE"
+    },
+    {
+        "title": "TMPV",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/automobile-passenger-cars/tatamotorspassengervehicles/TM03"
+    },
+    {
+        "title": "Max Healthcare",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/hospital-healthcare-services/maxhealthcareinstitute/MHI"
+    },
+    {
+        "title": "ICICI Bank",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/icicibank/ICI02"
+    },
+    {
+        "title": "Trent",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/retail/trent/T04"
+    },
+    {
+        "title": "Interglobe Avi",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/transport-logistics/interglobeaviation/IA04"
+    },
+    {
+        "title": "Power Grid Corp",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/power-generation-distribution/powergridcorporationindia/PGC"
+    },
+    {
+        "title": "Tech Mahindra",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/computers-software/techmahindra/TM4"
+    },
+    {
+        "title": "HCL Tech",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/computers-software/hcltechnologies/HCL02"
+    },
+    {
+        "title": "Wipro",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/computers-software/wipro/W"
+    },
+    {
+        "title": "ITC",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/diversified/itc/ITC"
+    },
+    {
+        "title": "Hourly Gainers",
+        "url": "https://www.moneycontrol.com/stocks/marketstats/hourly_gain/bse/curr_hour/index.php"
+    },
+    {
+        "title": "Hourly Losers",
+        "url": "https://www.moneycontrol.com/stocks/marketstats/hourly_loss/bse/curr_hour/index.php"
+    },
+    {
+        "title": "Volume Shockers",
+        "url": "https://www.moneycontrol.com/stocks/market-stats/volume-shockers-bse/"
+    },
+    {
+        "title": "Price Shockers",
+        "url": "https://www.moneycontrol.com/stocks/market-stats/price-shockers-bse/"
+    },
+    {
+        "title": "F&O Top Gainers",
+        "url": "https://www.moneycontrol.com/stocks/fno/marketstats/futures/gainers/homebody.php?opttopic=&optinst=allfut&sel_mth=all&sort_order=0"
+    },
+    {
+        "title": "F&O Top Losers",
+        "url": "https://www.moneycontrol.com/stocks/fno/marketstats/futures/losers/homebody.php?opttopic=&optinst=allfut&sel_mth=all&sort_order=0"
+    },
+    {
+        "title": "Sector Scan",
+        "url": "https://www.moneycontrol.com/stocks/marketstats/sector-scan/bse/today.html"
+    },
+    {
+        "title": "Delivery Stats",
+        "url": "https://www.moneycontrol.com/india/stockmarket/stock-deliverables/marketstatistics/bse/abrasives.html"
+    },
+    {
+        "title": "Data Bank",
+        "url": "https://www.moneycontrol.com/stocks/data-bank/standalone/auto-2-3-wheelers.html"
+    },
+    {
+        "title": "Top Gainers",
+        "url": "https://www.moneycontrol.com/us-markets/market-movers/top-gainers?index=Dow%20jones"
+    },
+    {
+        "title": "Walmart",
+        "url": "https://www.moneycontrol.com/us-markets/stockpricequote/walmart/WMT"
+    },
+    {
+        "title": "Intel",
+        "url": "https://www.moneycontrol.com/us-markets/stockpricequote/intel/INTC"
+    },
+    {
+        "title": "Amgen",
+        "url": "https://www.moneycontrol.com/us-markets/stockpricequote/amgen/AMGN"
+    },
+    {
+        "title": "Chevron",
+        "url": "https://www.moneycontrol.com/us-markets/stockpricequote/chevron/CVX"
+    },
+    {
+        "title": "UnitedHealth",
+        "url": "https://www.moneycontrol.com/us-markets/stockpricequote/unitedhealth/UNH"
+    },
+    {
+        "title": "Top Losers",
+        "url": "https://www.moneycontrol.com/us-markets/market-movers/top-losers?index=Dow%20jones"
+    },
+    {
+        "title": "IBM",
+        "url": "https://www.moneycontrol.com/us-markets/stockpricequote/ibm/IBM"
+    },
+    {
+        "title": "Salesforce.com",
+        "url": "https://www.moneycontrol.com/us-markets/stockpricequote/salesforcecom/CRM"
+    },
+    {
+        "title": "Microsoft",
+        "url": "https://www.moneycontrol.com/us-markets/stockpricequote/microsoft/MSFT"
+    },
+    {
+        "title": "Nvidia",
+        "url": "https://www.moneycontrol.com/us-markets/stockpricequote/nvidia/NVDA"
+    },
+    {
+        "title": "Amazon",
+        "url": "https://www.moneycontrol.com/us-markets/stockpricequote/amazon/AMZN"
+    },
+    {
+        "title": "Top Companies",
+        "url": "https://www.moneycontrol.com/us-markets/market-movers/top-companies-by-market-cap?index=Dow%20jones"
+    },
+    {
+        "title": "Apple Inc",
+        "url": "https://www.moneycontrol.com/us-markets/stockpricequote/appleinc/AAPL"
+    },
+    {
+        "title": "HDFC Flexi Cap Fund - Direct Plan - (G)",
+        "url": "http://pubads.g.doubleclick.net/gampad/clk?id=7232791411&iu=/1039154/Moneycontrol/MC_Click_Tracker"
+    },
+    {
+        "title": "Motilal Oswal Midcap Fund - Direct Plan (G)",
+        "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6372401001&iu=/1039154/Moneycontrol/MC_Click_Tracker"
+    },
+    {
+        "title": "Motilal Oswal Small Cap Fund - Direct Plan - Growth",
+        "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7136984791&iu=/1039154/Moneycontrol/MC_Click_Tracker"
+    },
+    {
+        "title": "UTI Small Cap Fund - Regular Plan - (G)",
+        "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7278450473&iu=/1039154/Moneycontrol/MC_Click_Tracker"
+    },
+    {
+        "title": "HDFC Small Cap Fund - Direct Plan (G)",
+        "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7230567519&iu=/1039154/Moneycontrol/MC_Click_Tracker"
+    },
+    {
+        "title": "MCX",
+        "url": "#keymactb1"
+    },
+    {
+        "title": "NCDEX",
+        "url": "#keymactb2"
+    },
+    {
+        "title": "Gold-Jun 05",
+        "url": "https://www.moneycontrol.com/commodity/mcx-gold-price?type=futures&exp=2026-06-05"
+    },
+    {
+        "title": "Silver-Jul 03",
+        "url": "https://www.moneycontrol.com/commodity/mcx-silver-price?type=futures&exp=2026-07-03"
+    },
+    {
+        "title": "Crudeoil-Jun 18",
+        "url": "https://www.moneycontrol.com/commodity/mcx-crudeoil-price?type=futures&exp=2026-06-18"
+    },
+    {
+        "title": "Naturalgas-Jun 25",
+        "url": "https://www.moneycontrol.com/commodity/mcx-naturalgas-price?type=futures&exp=2026-06-25"
+    },
+    {
+        "title": "USDINR - Jun 25",
+        "url": "https://www.moneycontrol.com/currency/bse-usdinr-price.html#25JUN2026"
+    },
+    {
+        "title": "EURINR - Jun 25",
+        "url": "https://www.moneycontrol.com/currency/bse-eurinr-price.html#25JUN2026"
+    },
+    {
+        "title": "JPYINR - Jun 25",
+        "url": "https://www.moneycontrol.com/currency/bse-jpyinr-price.html#25JUN2026"
+    },
+    {
+        "title": "GBPINR - Jun 25",
+        "url": "https://www.moneycontrol.com/currency/bse-gbpinr-price.html#25JUN2026"
+    },
+    {
+        "title": "SAMMAAN CAPITAL LIMITED",
+        "url": "https://www.moneycontrol.com/bonds/corporate-bonds/9-2-sammaan-capital-limited-01-aug-2032/INE148I07XN4"
+    },
+    {
+        "title": "SAMMAAN CAPITAL LIMITED",
+        "url": "https://www.moneycontrol.com/bonds/corporate-bonds/10-03-sammaan-capital-limited-27-dec-2031/INE148I07VA5"
+    },
+    {
+        "title": "NATIONAL BANK FOR FINANCING INFRASTRUCTURE AND DEVELOPMENT",
+        "url": "https://www.moneycontrol.com/bonds/corporate-bonds/7-74-national-bank-for-financing-infrastructure-development-14-may-2036/INE0KUG08134"
+    },
+    {
+        "title": "More News",
+        "url": "#mob-keynwstb1"
+    },
+    {
+        "title": "Recent News",
+        "url": "#mob-keynwstb2"
+    },
+    {
+        "title": "Kriti Sanon shares BTS moment with Shahid Kapoor, Rashmika Mandanna from Cocktail 2 set: '3 kids with dreams in their eyes'",
+        "url": "https://www.moneycontrol.com/entertainment/kriti-sanon-shares-bts-moment-with-shahid-kapoor-rashmika-mandanna-from-cocktail-2-set-3-kids-with-dreams-in-their-eyes-article-13940509.html"
+    },
+    {
+        "title": "When Shruti Haasan went to school with a fake name and how friends never knew who she was",
+        "url": "https://www.moneycontrol.com/entertainment/when-shruti-haasan-went-to-school-with-a-fake-name-and-how-friends-never-knew-who-she-was-article-13940471.html"
+    },
+    {
+        "title": "Akshay Kumar pens heartfelt birthday note for Welcome To The Jungle director Ahmed Khan: 'May this film become the biggest gift of your career'",
+        "url": "https://www.moneycontrol.com/entertainment/akshay-kumar-pens-heartfelt-birthday-note-for-welcome-to-the-jungle-director-ahmed-khan-may-this-film-become-the-biggest-gift-of-your-career-article-13940496.html"
+    },
+    {
+        "title": "Sonakshi Sinha shares glimpses of her birthday celebration in UK with husband Zaheer Iqbal",
+        "url": "https://www.moneycontrol.com/entertainment/sonakshi-sinha-shares-glimpses-of-her-birthday-celebration-in-uk-with-husband-zaheer-iqbal-article-13940478.html"
+    },
+    {
+        "title": "Aamir khan",
+        "url": "https://www.moneycontrol.com/entertainment/why-aamir-khan-divorced-his-two-wives-reena-dutta-and-kiran-rao-actor-set-to-marry-with-girlfriend-gauri-spratt-on-july-5-article-13940272.html"
+    },
+    {
+        "title": "Jana Nayagan\n",
+        "url": "https://www.moneycontrol.com/entertainment/jana-nayagan-to-miss-june-18-release-cbfc-and-distribution-issues-put-vijay-s-film-on-hold-indefinitely-article-13940224.html"
+    },
+    {
+        "title": "Neetu kapoor\n\n",
+        "url": "https://www.moneycontrol.com/entertainment/neetu-kapoor-calls-kapil-sharma-amazing-human-praises-his-performance-in-daadi-ki-shaadi-he-has-done-a-very-good-job-article-13940254.html"
+    },
+    {
+        "title": "Jacqueline fernandez",
+        "url": "https://www.moneycontrol.com/entertainment/jacqueline-fernandez-appears-before-delhi-court-linked-to-sukesh-chandrashekhar-in-rs-200-crore-money-laundering-case-article-13940243.html"
+    },
+    {
+        "title": "lagaan \n",
+        "url": "https://www.moneycontrol.com/entertainment/aamir-khan-s-lagaan-to-re-release-in-theatres-to-mark-its-25th-anniversary-article-13940282.html"
+    },
+    {
+        "title": "B K Hariprasad new Karnataka Congress chief",
+        "url": "https://www.moneycontrol.com/news/india/b-k-hariprasad-new-karnataka-congress-chief-13940462.html"
+    },
+    {
+        "title": "Major boost to India's air defence with fourth Sudarshan S-400 squadron from Russia",
+        "url": "https://www.moneycontrol.com/news/india/major-boost-to-india-s-air-defence-with-fourth-sudarshan-s-400-squadron-from-russia-13940480.html"
+    },
+    {
+        "title": "DK Shivakumar swearing in live",
+        "url": "https://www.moneycontrol.com/news/india/karnataka-cm-dk-shivakumar-oath-swearing-in-ceremony-live-updates-karnataka-cabinet-ministers-list-liveblog-13939165.html"
+    },
+    {
+        "title": "Mamata Banerjee\n",
+        "url": "https://www.moneycontrol.com/news/india/suvendu-is-like-my-dada-mamata-banerjee-s-estranged-brother-babun-slams-tmc-hints-at-bjp-shift-13939170.html"
+    },
+    {
+        "title": "Nishikant Dubey\n\n\n",
+        "url": "https://www.moneycontrol.com/news/india/nishikant-dubey-hits-out-at-congress-says-nehru-gandhi-family-deserves-the-titles-of-traitor-deceiver-13939370.html"
+    },
+    {
+        "title": "G Parameshwara\n",
+        "url": "https://www.moneycontrol.com/news/india/parameshwara-all-set-to-be-deputy-cm-of-karnataka-13939805.html"
+    },
+    {
+        "title": "A babyâs gut health before age 1 shapes future autism and ADHD risk, finds study",
+        "url": "https://www.moneycontrol.com/health-and-fitness/a-baby-s-gut-health-before-age-1-shapes-future-autism-and-adhd-risk-finds-study-article-13940404.html"
+    },
+    {
+        "title": "OPINION | The Rising Cost of Healthcare: Why predictability in medical inflationÂ matters for health insuranceÂ ",
+        "url": "https://www.moneycontrol.com/news/opinion/the-rising-cost-of-healthcare-why-predictability-in-medical-inflation-matters-for-health-insurance-13940322.html"
+    },
+    {
+        "title": "Living with prediabetes? Research finds eating almonds can help boost memory and control blood sugar",
+        "url": "https://www.moneycontrol.com/health-and-fitness/living-with-prediabetes-research-finds-eating-almonds-can-help-boost-memory-and-control-blood-sugar-article-13939705.html"
+    },
+    {
+        "title": "What is the right way to check your BP at home? 7 common mistakes to avoid",
+        "url": "https://www.moneycontrol.com/health-and-fitness/what-is-the-right-way-to-check-your-bp-at-home-7-common-mistakes-to-avoid-article-13939406.html"
+    },
+    {
+        "title": "30-minute power walk vs 10 squats: Which one is more effective? Longevity expert Bryan Johnson weighs in",
+        "url": "https://www.moneycontrol.com/health-and-fitness/30-minute-power-walk-vs-10-squats-which-one-is-more-effective-longevity-expert-bryan-johnson-weighs-in-article-13939311.html"
+    },
+    {
+        "title": "5 clever ways to reuse cooking oil rather than throwing it away",
+        "url": "https://www.moneycontrol.com/health-and-fitness/5-clever-ways-to-reuse-cooking-oil-rather-than-throwing-it-away-article-13938736.html"
+    },
+    {
+        "title": "4 muscles that predict how you age, doctor reveals a test cheat sheet to assess your fitness",
+        "url": "https://www.moneycontrol.com/health-and-fitness/4-muscles-that-predict-how-you-age-doctor-reveals-a-test-cheat-sheet-to-assess-your-fitness-article-13938707.html"
+    },
+    {
+        "title": "Belly fat",
+        "url": "https://www.moneycontrol.com/health-and-fitness/what-is-the-best-exercise-for-a-flat-stomach-doctor-reveals-it-s-not-crunches-or-sit-ups-article-13938341.html"
+    },
+    {
+        "title": "Gut problems",
+        "url": "https://www.moneycontrol.com/health-and-fitness/late-night-snacking-is-one-of-the-biggest-culprits-for-gut-problems-warns-gastroenterologist-article-13938302.html"
+    },
+    {
+        "title": "Forget Goa, Manali, visit these 9 destinations this summer to truly unwind and feel refreshed",
+        "url": "https://www.moneycontrol.com/lifestyle/forget-goa-manali-visit-these-9-destinations-this-summer-to-truly-unwind-and-feel-refreshed-article-13940396.html"
+    },
+    {
+        "title": "Most expensive watches sported by celebs during IPL, from Anushka Sharmaâs Cartier to SRKâs Patek Philippe, more",
+        "url": "https://www.moneycontrol.com/lifestyle/fashion/most-expensive-watches-sported-by-celebs-during-ipl-from-anushka-sharma-s-cartier-to-srk-s-patek-philippe-more-article-13939785.html"
+    },
+    {
+        "title": "'Stop over-scheduling childhood': Educationist reveals the one thing kids actually need to be future-ready",
+        "url": "https://www.moneycontrol.com/lifestyle/stop-over-scheduling-childhood-educationist-reveals-the-one-thing-kids-actually-need-to-be-future-ready-article-13939563.html"
+    },
+    {
+        "title": "Virat Kohli and Anushka Sharma's ultra-luxurious Alibaug holiday home blends nature with stunning design",
+        "url": "https://www.moneycontrol.com/lifestyle/virat-kohli-and-anushka-sharma-s-ultra-luxurious-alibaug-holiday-home-blends-nature-with-stunning-design-article-13939283.html"
+    },
+    {
+        "title": "Quote of the day by Nikhil Kamath: 'Whoever is adding drama, write their name down and just eliminate...'",
+        "url": "https://www.moneycontrol.com/lifestyle/quote-of-the-day-by-nikhil-kamath-whoever-is-adding-drama-write-their-name-down-and-just-eliminate-article-13938800.html"
+    },
+    {
+        "title": "Scared of lizards and pests in your home? 10 home remedies to try to keep them away",
+        "url": "https://www.moneycontrol.com/lifestyle/home-garden/scared-of-lizards-and-pests-in-your-home-10-home-remedies-to-try-to-keep-them-away-article-13938762.html"
+    },
+    {
+        "title": "Katrina Kaif ",
+        "url": "https://www.moneycontrol.com/lifestyle/beauty/katrina-kaif-flaunts-long-and-shiny-hair-in-her-latest-instagram-post-her-mother-in-laws-homemade-oil-recipe-goes-viral-article-13938672.html"
+    },
+    {
+        "title": "Maharana Pratap\n",
+        "url": "https://www.moneycontrol.com/lifestyle/quote-of-the-day-by-maharana-pratap-defeat-comes-only-when-you-accept-it-article-13935360.html"
+    },
+    {
+        "title": "African Proverb of the Day: 'A child's lie is like a dead fish in a pond that...'- A lesson on dishonesty and trust",
+        "url": "https://www.moneycontrol.com/education/african-proverb-of-the-day-a-child-s-lie-is-like-a-dead-fish-in-a-pond-that-a-lesson-on-dishonesty-and-trust-article-13940344.html"
+    },
+    {
+        "title": "Quote of the day by ancient philosopher, Confucius: 'Everything has beauty, but not everyone...'",
+        "url": "https://www.moneycontrol.com/education/quote-of-the-day-by-ancient-philosopher-confucius-everything-has-beauty-but-not-everyone-article-13940271.html"
+    },
+    {
+        "title": "NIFT Result 2026 Stage 2 declared at exams.nta.nic.in; direct link here to check scorecards",
+        "url": "https://www.moneycontrol.com/education/nift-result-2026-stage-2-declared-at-exams-nta-nic-in-direct-link-here-to-check-scorecards-article-13940260.html"
+    },
+    {
+        "title": "Quote of the day by German-Russian journalist, Richard Sorge: 'This most difficult, daring, and noble ideology...'",
+        "url": "https://www.moneycontrol.com/education/quote-of-the-day-by-german-russian-journalist-richard-sorge-this-most-difficult-daring-and-noble-ideology-article-13940238.html"
+    },
+    {
+        "title": "French Proverb Of The Day: 'You have to break the shell to get...'â Timeless lessons on hard work, perseverance and achieving success",
+        "url": "https://www.moneycontrol.com/education/french-proverb-of-the-day-you-have-to-break-the-shell-to-get-timeless-lessons-on-hard-work-perseverance-and-achieving-success-article-13940216.html"
+    },
+    {
+        "title": "Quote of the day by Ernest Hemingway: 'When people talk, listen completely. Most...'",
+        "url": "https://www.moneycontrol.com/education/quote-of-the-day-by-ernest-hemingway-when-people-talk-listen-completely-most-article-13940111.html"
+    },
+    {
+        "title": "CBSE New Chairman",
+        "url": "https://www.moneycontrol.com/education/cbse-chairman-change-ias-rahul-singh-out-and-ias-lokhande-prashant-sitaram-in-all-about-the-outgoing-and-incoming-chiefs-article-13939584.html"
+    },
+    {
+        "title": "JEE Advanced 2026",
+        "url": "https://www.moneycontrol.com/education/jee-advanced-2026-data-leak-risk-teen-ethical-hacker-flags-major-security-flaw-iit-roorkee-rushes-fix-amid-ongoing-exam-tech-crisis-article-13939328.html"
+    },
+    {
+        "title": "TECHNOLOGY NEWS",
+        "url": "https://www.moneycontrol.com/news/technology/"
+    },
+    {
+        "title": "Meta bets on AI agents to turn WhatsApp into business operating layer",
+        "url": "https://www.moneycontrol.com/technology/meta-bets-on-ai-agents-to-turn-whatsapp-into-business-operating-layer-article-13940418.html"
+    },
+    {
+        "title": "Bank of America bucks AI job fears with 2,000 summer interns",
+        "url": "https://www.moneycontrol.com/artificial-intelligence/bank-of-america-bucks-ai-job-fears-with-2-000-summer-interns-article-13940296.html"
+    },
+    {
+        "title": "AI music startup Suno raises over $400 million at $5.4 billion valuation",
+        "url": "https://www.moneycontrol.com/artificial-intelligence/ai-music-startup-suno-raises-over-400-million-at-5-4-billion-valuation-article-13940379.html"
+    },
+    {
+        "title": "âNobody uses AI better than Meta...â: Jensen Huang backs Zuckerbergâs Meta AI strategy amid valuation debate",
+        "url": "https://www.moneycontrol.com/technology/nobody-uses-ai-better-than-meta-jensen-huang-backs-zuckerberg-s-meta-ai-strategy-amid-valuation-debate-article-13940297.html"
+    },
+    {
+        "title": "ChatGPT-maker OpenAI rolls out Codex for every role, tool and workflow",
+        "url": "https://www.moneycontrol.com/technology/chatgpt-maker-openai-rolls-out-codex-for-every-role-tool-and-workflow-article-13940291.html"
+    },
+    {
+        "title": "ViewSonic IN05 series interactive displays launched in India with AI classroom tools, Android 16 and 4K panels in three sizes",
+        "url": "https://www.moneycontrol.com/technology/viewsonic-in05-series-interactive-displays-launched-in-india-with-ai-classroom-tools-android-16-and-4k-panels-in-three-sizes-article-13940274.html"
+    },
+    {
+        "title": "Samsung Galaxy S25 Edge, the slimmest smartphone, receives Rs 40,000 discount and is now cheaper than Galaxy S26",
+        "url": "https://www.moneycontrol.com/technology/samsung-galaxy-s25-edge-the-slimmest-smartphone-receives-rs-40-000-and-is-now-cheaper-than-galaxy-s26-article-13940244.html"
+    },
+    {
+        "title": "Call of Duty Modern Warfare 4\n\n",
+        "url": "https://www.moneycontrol.com/technology/call-of-duty-modern-warfare-4-ballistic-authority-and-kill-block-explained-article-13938622.html"
+    },
+    {
+        "title": "Claude Down\n",
+        "url": "https://www.moneycontrol.com/technology/anthropic-claude-global-outage-resolved-company-confirms-issue-on-opus-4-6-reveals-what-went-wrong-article-13938947.html"
+    },
+    {
+        "title": "iPhone 18 Pro Max price\n",
+        "url": "https://www.moneycontrol.com/technology/iphone-18-pro-max-price-launch-details-camera-and-ai-upgrades-leaked-ahead-of-official-announcement-article-13938297.html"
+    },
+    {
+        "title": "Upcoming smartphones in June 2026\n",
+        "url": "https://www.moneycontrol.com/technology/upcoming-smartphones-in-june-2026-motorola-edge-70-pro-xiaomi-17t-redmi-turbo-5-and-more-article-13936898.html"
+    },
+    {
+        "title": "Bengaluru-Vijayawada greenfield highway to transform Kadapa, cut travel time by up to 4 hours",
+        "url": "https://www.moneycontrol.com/city/bengaluru-vijayawada-greenfield-highway-to-transform-kadapa-cut-travel-time-by-up-to-4-hours-article-13940507.html"
+    },
+    {
+        "title": "After Delhi fire tragedy, Ranchi steps up safety checks at restaurants and eateries",
+        "url": "https://www.moneycontrol.com/city/after-delhi-fire-tragedy-ranchi-steps-up-safety-checks-at-restaurants-and-eateries-article-13940483.html"
+    },
+    {
+        "title": "Fake Amazon call centre targeting US citizens busted in Panchkula; 21 held, crypto wallet seized",
+        "url": "https://www.moneycontrol.com/city/fake-amazon-call-centre-targeting-us-citizens-busted-in-panchkula-21-held-crypto-wallet-seized-article-13940431.html"
+    },
+    {
+        "title": "Liberia, Nigeria, Mozambique, Bangladesh citizens among victims of  Delhi's Malviya Nagar hotel fire",
+        "url": "https://www.moneycontrol.com/city/liberia-nigeria-mozambique-bangladesh-citizens-among-victims-of-delhis-malviya-nagar-hotel-fire-article-13940408.html"
+    },
+    {
+        "title": "Delhi Malviya Nagar Fire: What caused the blaze that killed 21 and what we know so far",
+        "url": "https://www.moneycontrol.com/city/delhi-malviya-nagar-fire-what-caused-the-blaze-that-killed-21-and-what-we-know-so-far-article-13940361.html"
+    },
+    {
+        "title": "UP Murder",
+        "url": "https://www.moneycontrol.com/city/up-woman-s-body-found-with-throat-slit-at-saharanpur-home-traders-shut-market-in-protest-article-13939478.html"
+    },
+    {
+        "title": "Malviya Nagar Fire",
+        "url": "https://www.moneycontrol.com/city/delhi-restaurant-fire-chilling-video-shows-2-women-jumping-from-malviya-nagar-building-to-escape-flames-article-13939792.html"
+    },
+    {
+        "title": "Twisha Sharma death case\n",
+        "url": "https://www.moneycontrol.com/city/twisha-sharma-case-former-judge-giribala-singh-son-samarth-sent-to-judicial-custody-till-june-16-article-13938629.html"
+    },
+    {
+        "title": "Khan Sir coaching attack\n",
+        "url": "https://www.moneycontrol.com/city/khan-sir-coaching-attack-police-say-no-evidence-of-firing-what-happened-and-who-are-the-rivals-blamed-article-13939476.html"
+    },
+    {
+        "title": "Viral video shows Tim David smoking cigar at Narendra Modi Stadium after IPL triumph - WATCH",
+        "url": "https://www.moneycontrol.com/sports/cricket/ipl/viral-video-shows-tim-david-smoking-cigar-at-narendra-modi-stadium-after-ipl-triumph-watch-article-13940435.html"
+    },
+    {
+        "title": "Sachin Tendulkar explains what went wrong for Punjab Kings in IPL 2026: 'They focused more on...'",
+        "url": "https://www.moneycontrol.com/sports/cricket/ipl/sachin-tendulkar-explains-what-went-wrong-for-punjab-kings-in-ipl-2026-they-focused-more-on-article-13940402.html"
+    },
+    {
+        "title": "Four players of Indian origin follow Vikash Dhorasoo's footsteps in FIFA World Cup 2026",
+        "url": "https://www.moneycontrol.com/sports/football/fifa-world-cup-2026/four-players-of-indian-origin-follow-vikash-dhorasoo-s-footsteps-in-fifa-world-cup-2026-article-13940383.html"
+    },
+    {
+        "title": "IIM Indore to conduct study on Vaibhav Sooryavanshi: 'We want to understand...'",
+        "url": "https://www.moneycontrol.com/sports/cricket/ipl/iim-indore-to-conduct-study-on-vaibhav-sooryavanshi-we-want-to-understand-article-13940345.html"
+    },
+    {
+        "title": "The return of Satwiksairaj Rankireddy and Chirag Shetty - Sport always gives you a second chance",
+        "url": "https://www.moneycontrol.com/sports/the-return-of-satwiksairaj-rankireddy-and-chirag-shetty-sport-always-gives-you-a-second-chance-article-13940330.html"
+    },
+    {
+        "title": "Ek Bihari, sab pe bhari: Details of Virat Kohli's pep talk to Vaibhav Sooryavanshi after IPL final finally revealed",
+        "url": "https://www.moneycontrol.com/sports/cricket/ipl/ek-bihari-sab-pe-bhari-details-of-virat-kohli-s-pep-talk-to-vaibhav-sooryavanshi-after-ipl-final-finally-revealed-article-13940235.html"
+    },
+    {
+        "title": "Shaheen Afridi\n",
+        "url": "https://www.moneycontrol.com/sports/cricket/shaheen-afridi-matches-legendary-duo-wasim-akram-and-waqar-younis-achieves-unique-feat-against-australia-article-13940060.html"
+    },
+    {
+        "title": "Sairaj Bahutule\n",
+        "url": "https://www.moneycontrol.com/sports/cricket/who-is-sairaj-bahutule-india-s-new-spin-bowling-coach-appointed-by-bcci-article-13938914.html"
+    },
+    {
+        "title": "Vaibhav Sooryavanshi\n\n",
+        "url": "https://www.moneycontrol.com/sports/cricket/ipl/rs-1-5-to-2-crore-for-endorsements-vaibhav-sooryavanshi-spikes-fee-by-almost-double-post-ipl-2026-report-article-13938686.html"
+    },
+    {
+        "title": "Virat kohli",
+        "url": "https://www.moneycontrol.com/sports/cricket/ipl/virat-kohli-is-a-huge-name-in-australia-australian-deputy-pm-cites-rcb-s-ipl-triumph-to-highlight-bilateral-ties-article-13938428.html"
+    },
+    {
+        "title": "Auqib Nabi \n",
+        "url": "https://www.moneycontrol.com/sports/cricket/auqib-nabi-among-7-picked-to-bowl-in-india-nets-ahead-of-afghanistan-test-article-13938567.html"
+    },
+    {
+        "title": "BharatPe Flex explained: How this credit-on-UPI product works and who should use it",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/bharatpe-flex-explained-how-this-credit-on-upi-product-works-and-who-should-use-it-13940506.html"
+    },
+    {
+        "title": "Can you apply for a credit card in India without income proof?",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/can-you-apply-for-a-credit-card-in-india-without-income-proof-13940359.html"
+    },
+    {
+        "title": "A single missed EMI can hurt your credit profile faster than you think",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/a-single-missed-emi-can-hurt-your-credit-profile-faster-than-you-think-13940352.html"
+    },
+    {
+        "title": "ITR 2026: 6 benefits of filing your income tax return before the dealine of 31st July",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/itr-2026-6-benefits-of-filing-your-income-tax-return-before-the-dealine-of-31st-july-13929236.html"
+    },
+    {
+        "title": "Travelling abroad often? Zero forex credit cards may save more money than forex cards",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/travelling-abroad-often-zero-forex-credit-cards-may-save-more-money-than-forex-cards-13940213.html"
+    },
+    {
+        "title": "EPF Interest Rate",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/epfo-maintains-8-25-interest-rate-on-epf-deposits-for-2025-26-13848349.html"
+    },
+    {
+        "title": "Gold Price Today",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-prices-climb-nearly-1-as-us-israel-iran-tensions-intensify-key-factors-investors-should-monitor-13848914.html"
+    },
+    {
+        "title": "What do cats do when they are happy? Science reveals it's more than just a 'purr...'",
+        "url": "https://www.moneycontrol.com/science/what-do-cats-do-when-they-are-happy-science-reveals-it-s-more-than-just-a-purr-article-13940276.html"
+    },
+    {
+        "title": "'The Red Light Dance': Rare red sprites caught 'dancing' over Tibetan Storms; but how is this possible?",
+        "url": "https://www.moneycontrol.com/science/the-red-light-dance-rare-red-sprites-caught-dancing-over-tibetan-storms-but-how-is-this-possible-article-13940201.html"
+    },
+    {
+        "title": "Heatwave 2026: First India now Europe, what's driving the 'extreme heat' across continents?",
+        "url": "https://www.moneycontrol.com/science/heatwave-2026-first-india-now-europe-what-s-driving-the-extreme-heat-across-continents-article-13938704.html"
+    },
+    {
+        "title": "World Environment Day 2026: What's so special about this global event, just 3 days away?",
+        "url": "https://www.moneycontrol.com/science/world-environment-day-2026-what-s-so-special-about-this-global-event-just-3-days-away-article-13938430.html"
+    },
+    {
+        "title": "Is Mount Everest safe? Inside the 7,900m trash crisis after Record 2026 climbing season",
+        "url": "https://www.moneycontrol.com/science/is-mount-everest-safe-inside-the-7-900m-trash-crisis-after-record-2026-climbing-season-article-13938255.html"
+    },
+    {
+        "title": "Remarkable Comeback! BNHS helps recover more than 700 'endangered vultures' in India",
+        "url": "https://www.moneycontrol.com/science/remarkable-comeback-bnhs-helps-recover-more-than-700-endangered-vultures-in-india-article-13937663.html"
+    },
+    {
+        "title": "Chandra Grahan 2026 ",
+        "url": "https://www.moneycontrol.com/science/chandra-grahan-2026-live-updates-total-lunar-eclipse-blood-moon-timings-and-city-wise-visibility-in-india-liveblog-13848824.html"
+    },
+    {
+        "title": "Total Lunar Eclipse ",
+        "url": "https://www.moneycontrol.com/science/last-total-lunar-eclipse-until-2029-arrives-tomorrow-why-you-should-not-miss-this-night-sky-event-article-13848164.html"
+    },
+    {
+        "title": "Artemis 2 launch live",
+        "url": "https://www.moneycontrol.com/science/nasa-artemis-2-launch-live-updates-moon-mission-countdown-photos-videos-livestreaming-april-1-liveblog-13876757.html"
+    },
+    {
+        "title": "Jupiter Juno",
+        "url": "https://www.moneycontrol.com/science/final-missing-auroral-footprint-from-jupiter-s-moons-found-by-juno-article-13519651.html"
+    },
+    {
+        "title": "TRAVEL NEWS",
+        "url": "https://www.moneycontrol.com/travel/"
+    },
+    {
+        "title": "Europe can wait: Southeast Asia is winning as Indians rethink foreign holidays",
+        "url": "https://www.moneycontrol.com/travel/europe-can-wait-southeast-asia-is-winning-as-indians-rethink-foreign-holidays-article-13938481.html"
+    },
+    {
+        "title": "MakeMyTrip, Ixigo, Yatra count on domestic travel to offset West Asia turmoil",
+        "url": "https://www.moneycontrol.com/travel/makemytrip-ixigo-yatra-count-on-domestic-travel-to-offset-west-asia-turmoil-article-13931480.html"
+    },
+    {
+        "title": "Rising fuel costs spark fresh momentum for electric buses in Indiaâs travel market",
+        "url": "https://www.moneycontrol.com/travel/rising-fuel-costs-spark-fresh-momentum-for-electric-buses-in-india-s-travel-market-article-13929397.html"
+    },
+    {
+        "title": "PM Modiâs domestic tourism pitch spurs surge in staycations, experiential travel",
+        "url": "https://www.moneycontrol.com/news/business/real-estate/pm-modi-s-domestic-tourism-pitch-spurs-surge-in-staycations-experiential-travel-13927814.html"
+    },
+    {
+        "title": "AI vs AI: ixigo, MakeMyTrip and Yatra race to reinvent travel booking",
+        "url": "https://www.moneycontrol.com/travel/ai-vs-ai-ixigo-makemytrip-and-yatra-race-to-reinvent-travel-booking-article-13927591.html"
+    },
+    {
+        "title": "ixigo's profit jumps to Rs 32 crore in Q4 FY26 despite Middle East crisis",
+        "url": "https://www.moneycontrol.com/travel/ixigo-s-profit-jumps-to-rs-32-crore-in-q4-fy26-despite-middle-east-crisis-article-13926902.html"
+    },
+    {
+        "title": "IndiGo Flight Status Today",
+        "url": "https://www.moneycontrol.com/travel/indigo-flight-status-today-december-22-full-list-of-cancelled-and-delayed-flights-across-delhi-mumbai-kolkata-and-other-cities-article-13736966.html"
+    },
+    {
+        "title": "New Visa Bond Rule ",
+        "url": "https://www.moneycontrol.com/travel/new-us-visa-bond-rule-may-require-tourists-to-pay-up-to-15-000-starting-august-2025-article-13390554.html"
+    },
+    {
+        "title": "UNESCO World Heritage",
+        "url": "https://www.moneycontrol.com/travel/unesco-world-heritage-railways-in-india-historic-train-routes-you-must-experience-article-13390438.html"
+    },
+    {
+        "title": "Gangaikonda Cholapuram",
+        "url": "https://www.moneycontrol.com/travel/why-gangaikonda-cholapuram-was-chosen-for-india-s-new-rs-1-000-coin-history-and-significance-article-13390842.html"
+    },
+    {
+        "title": "Mumbai Places to Visit",
+        "url": "https://www.moneycontrol.com/travel/10-iconic-attractions-in-mumbai-that-never-gets-old-photo-gallery-13390958.html"
+    },
+    {
+        "title": "Community Views",
+        "url": "https://mmb.moneycontrol.com/forum-topics/commodity-12.html"
+    },
+    {
+        "title": "NHPC",
+        "url": "https://mmb.moneycontrol.com/forum-topics/stocks/nhpc-509082.html"
+    },
+    {
+        "title": "Hold with patience. 30 percent upmove in 6 months for sure.",
+        "url": "https://mmb.moneycontrol.com/forum-topics/stocks/nhpc/thread-message-115564840-117364840.html"
+    },
+    {
+        "title": "sadana",
+        "url": "https://mmb.moneycontrol.com/sadana-user-profile-736164616e61.html"
+    },
+    {
+        "title": "Apollo Hospital",
+        "url": "https://mmb.moneycontrol.com/forum-topics/stocks/apollo-hospital-4161.html"
+    },
+    {
+        "title": "Apollo hospital buy 8290 targt 8500 this week join poojawealth on tele...",
+        "url": "https://mmb.moneycontrol.com/forum-topics/stocks/apollo-hospital/thread-message-115564839-117364839.html"
+    },
+    {
+        "title": "Poojawealth0134",
+        "url": "https://mmb.moneycontrol.com/poojawealth0134-user-profile-34507648324b787a784f.html"
+    },
+    {
+        "title": "Reliance",
+        "url": "https://mmb.moneycontrol.com/forum-topics/stocks/reliance-322.html"
+    },
+    {
+        "title": "Reliance best time to buy 1314 expecting targt 1400 by friday join poo...",
+        "url": "https://mmb.moneycontrol.com/forum-topics/stocks/reliance/thread-message-115564837-117364837.html"
+    },
+    {
+        "title": "Ambareesh Baliga",
+        "url": "https://www.moneycontrol.com/gamechangers/ambareeshbaliga?utm_source=mc_hp"
+    },
+    {
+        "title": "Sudarshan Sukhani",
+        "url": "https://www.moneycontrol.com/gamechangers/?utm_source=mc_hp"
+    },
+    {
+        "title": "T Gnanasekar",
+        "url": "https://www.moneycontrol.com/gamechangers/tgnanasekar?utm_source=mc_hp"
+    },
+    {
+        "title": "Mecklai Financial",
+        "url": "https://www.moneycontrol.com/gamechangers/mecklai?utm_source=mc_hp"
+    },
+    {
+        "title": "C. K. Narayan",
+        "url": "https://www.moneycontrol.com/gamechangers/cknarayan?utm_source=mc_hp"
+    },
+    {
+        "title": "World",
+        "url": "https://www.moneycontrol.com/news/world/"
+    },
+    {
+        "title": "CBS fires Scott Pelley from â60 Minutesâ after he confronted new boss",
+        "url": "https://www.moneycontrol.com/world/cbs-fires-scott-pelley-from-60-minutes-after-he-confronted-new-boss-article-13940059.html"
+    },
+    {
+        "title": "WATCH: Israeli Airstrikes Hit Tyre, Lebanon; Hospital Staff Wounded Despite Ceasefire",
+        "url": "https://www.moneycontrol.com/world/watch-israeli-airstrikes-hit-tyre-lebanon-hospital-staff-wounded-despite-ceasefire-videoshow-13937913.html"
+    },
+    {
+        "title": "Did Iran Use A Chinese Missile To Shoot Down A US F-15? New Report Raises Questions | US-IRAN WAR",
+        "url": "https://www.moneycontrol.com/world/did-iran-use-a-chinese-missile-to-shoot-down-a-us-f-15-new-report-raises-questions-us-iran-war-videoshow-13937892.html"
+    },
+    {
+        "title": "Companies",
+        "url": "https://www.moneycontrol.com/news/tags/business.html"
+    },
+    {
+        "title": "SMR Jewels IPO manages to sail through supported by QIB; check listing and allotment dates",
+        "url": "https://www.moneycontrol.com/news/business/ipo/smr-jewels-ipo-manages-to-sail-through-supported-by-qib-check-listing-and-allotment-dates-13940448.html"
+    },
+    {
+        "title": "Merritronix IPO attracts robust demand, subscribed over 293 times on final day; check GMP, allotment, listing dates",
+        "url": "https://www.moneycontrol.com/news/business/ipo/merritronix-ipo-attracts-robust-demand-subscribed-over-293-times-on-final-day-check-gmp-allotment-listing-dates-13940319.html"
+    },
+    {
+        "title": "Pfizer launches new myeloma therapy in India, targeting patients with limited options",
+        "url": "https://www.moneycontrol.com/news/business/pfizer-launches-new-myeloma-therapy-in-india-targeting-patients-with-limited-options-13940360.html"
+    },
+    {
+        "title": "Economy",
+        "url": "https://www.moneycontrol.com/news/tags/economy.html"
+    },
+    {
+        "title": "Moneycontrol Pro Panorama | Waiting",
+        "url": "https://www.moneycontrol.com/news/business/economy/moneycontrol-pro-panorama-waiting-13939623.html"
+    },
+    {
+        "title": "OPINION | Maritime disruptions are emerging as Indiaâs key risk",
+        "url": "https://www.moneycontrol.com/news/opinion/maritime-disruptions-are-emerging-as-india-s-key-risk-13939885.html"
+    },
+    {
+        "title": "OPINION | WhatÂ boardsÂ mustÂ do toÂ strengthenÂ taxÂ strategyÂ todayÂ ",
+        "url": "https://www.moneycontrol.com/news/opinion/what-boards-must-do-to-strengthen-tax-strategy-today-13939794.html"
+    },
+    {
+        "title": "TVK allocates lone Rajya Sabha seat to Congress",
+        "url": "https://www.moneycontrol.com/news/india/tvk-allocates-lone-rajya-sabha-seat-to-congress-13940454.html"
+    },
+    {
+        "title": "Setback for Mamata camp: Expelled TMC rebel Ritabrata Banerjee gets LoP status in Bengal assembly",
+        "url": "https://www.moneycontrol.com/news/india/setback-for-mamata-camp-expelled-tmc-rebel-ritabrata-banerjee-gets-lop-status-in-bengal-assembly-13940336.html"
+    },
+    {
+        "title": "Karnataka power shift: After years in the shadows, DK Shivakumar finally gets his moment in the sun",
+        "url": "https://www.moneycontrol.com/news/india/karnataka-power-shift-after-years-in-the-shadows-dk-shivakumar-finally-gets-his-moment-in-the-sun-13940294.html"
+    },
+    {
+        "title": "Gold Rate",
+        "url": "#gold_rate"
+    },
+    {
+        "title": "Real Estate",
+        "url": "#real_estate"
+    },
+    {
+        "title": "Health",
+        "url": "#health"
+    },
+    {
+        "title": "Reports of gold sale by RBI to save forex reserves false, says CNBC-TV18",
+        "url": "https://www.moneycontrol.com/news/business/economy/reports-of-gold-sale-by-rbi-to-save-forex-reserves-false-says-cnbc-tv18-13939408.html"
+    },
+    {
+        "title": "Gold rebounds Rs 1,050 on firm global cues; silver rises Rs 1,300",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-rebounds-rs-1-050-on-firm-global-cues-silver-rises-rs-1-300-13938804.html"
+    },
+    {
+        "title": "Gold holds decline as traders weigh confusion over US-Iran talks",
+        "url": "https://www.moneycontrol.com/news/business/gold-holds-decline-as-traders-weigh-confusion-over-us-iran-talks-13937990.html"
+    },
+    {
+        "title": "Gold falls nearly 2% with inflation worries rising on Middle East conflict",
+        "url": "https://www.moneycontrol.com/news/business/commodities/gold-falls-nearly-2-with-inflation-worries-rising-on-middle-east-conflict-13937858.html"
+    },
+    {
+        "title": "Show More News",
+        "url": "https://www.moneycontrol.com/news/tags/gold-prices.html"
+    },
+    {
+        "title": "Over 1.15 lakh housing, commercial units available in UP: RERA advises buyers against hasty decisions",
+        "url": "https://www.moneycontrol.com/news/business/real-estate/over-1-15-lakh-housing-commercial-units-available-in-up-rera-advises-buyers-against-hasty-decisions-13940445.html"
+    },
+    {
+        "title": "From private elevators to concierge services: Indiaâs billionaire boom fuels demand for bespoke homes",
+        "url": "https://www.moneycontrol.com/news/business/real-estate/from-private-elevators-to-concierge-services-india-s-billionaire-boom-fuels-demand-for-bespoke-homes-13938828.html"
+    },
+    {
+        "title": "Can your builder shrink or commercialise the clubhouse you paid for? The rules explained",
+        "url": "https://www.moneycontrol.com/news/business/real-estate/can-your-builder-shrink-or-commercialise-the-clubhouse-you-paid-for-the-rules-explained-13938760.html"
+    },
+    {
+        "title": "Radhakishan Damani-linked firm leases Worli apartment to Sanjay Ghodawat Group for Rs 27 lakh per month",
+        "url": "https://www.moneycontrol.com/news/business/real-estate/radhakishan-damani-linked-firm-leases-worli-apartment-to-sanjay-ghodawat-group-for-rs-27-lakh-per-month-13937672.html"
+    },
+    {
+        "title": "Godrej Properties buys 23-acre land in Greater Noida, eyes Rs 7,000 crore revenue from new housing project",
+        "url": "https://www.moneycontrol.com/news/business/real-estate/godrej-properties-buys-23-acre-land-in-greater-noida-eyes-rs-7-000-crore-revenue-from-new-housing-project-13937684.html"
+    },
+    {
+        "title": "Show More News",
+        "url": "https://www.moneycontrol.com/news/health-and-fitness/"
+    },
+    {
+        "title": "Open IPOs",
+        "url": "#keyiposctb1"
+    },
+    {
+        "title": "Upcoming IPOs",
+        "url": "#keyiposctb2"
+    },
+    {
+        "title": "Listed IPOs",
+        "url": "#keyiposctb3"
+    },
+    {
+        "title": "Closed IPOs",
+        "url": "#keyiposctb4"
+    },
+    {
+        "title": "CMR Green Technologies Ltd",
+        "url": "https://www.moneycontrol.com/ipo/cmr-green-technologies-ltd-cgtl-ipodetail"
+    },
+    {
+        "title": "Liotech Industries Ltd",
+        "url": "https://www.moneycontrol.com/ipo/liotech-industries-ltd-lil06-ipodetail"
+    },
+    {
+        "title": "Merritronix",
+        "url": "https://www.moneycontrol.com/ipo/merritronix-ml16-ipodetail"
+    },
+    {
+        "title": "SMR Jewels",
+        "url": "https://www.moneycontrol.com/ipo/smr-jewels-sjl-ipodetail"
+    },
+    {
+        "title": "See More Open IPOs",
+        "url": "https://www.moneycontrol.com/ipo/open-ipos/"
+    },
+    {
+        "title": "GenXAI Analytics Ltd",
+        "url": "https://www.moneycontrol.com/ipo/genxai-analytics-ltd-gal01-ipodetail"
+    },
+    {
+        "title": "Hexagon Nutrition Ltd",
+        "url": "https://www.moneycontrol.com/ipo/hexagon-nutrition-ltd-hnl01-ipodetail"
+    },
+    {
+        "title": "UHM Vacation Ltd",
+        "url": "https://www.moneycontrol.com/ipo/uhm-vacation-ltd-uvl-ipodetail"
+    },
+    {
+        "title": "Vahh Chemicals Ltd",
+        "url": "https://www.moneycontrol.com/ipo/vahh-chemicals-ltd-vcl05-ipodetail"
+    },
+    {
+        "title": "See More Upcoming IPOs",
+        "url": "https://www.moneycontrol.com/ipo/upcoming-ipos/"
+    },
+    {
+        "title": "Rajnandini Fashion India",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/textilesapparel/rajnandinifashionindia/RFI01"
+    },
+    {
+        "title": "Yaashvi Jewellers",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/diamondjewellery/yaashvijewellers/Y"
+    },
+    {
+        "title": "Harikanta Overseas",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/textilesapparel/harikantaoverseas/HOL"
+    },
+    {
+        "title": "M R Maniveni Foods",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/food-processing/mrmanivenifoods/MFL11"
+    },
+    {
+        "title": "Bio Medica Laboratories",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticalsdrugs/biomedicalaboratories/BMLL"
+    },
+    {
+        "title": "See More Listed IPOs",
+        "url": "https://www.moneycontrol.com/ipo/listed-ipos/"
+    },
+    {
+        "title": "Aureate Tradde Ltd",
+        "url": "https://www.moneycontrol.com/ipo/aureate-tradde-ltd-atl06-ipodetail"
+    },
+    {
+        "title": "Check",
+        "url": "https://in.mpms.mufg.com/Initial_Offer/public-issues.html"
+    },
+    {
+        "title": "See More Closed IPOs",
+        "url": "https://www.moneycontrol.com/ipo/closed-ipos/"
+    },
+    {
+        "title": "All Schedule",
+        "url": "https://m.moneycontrol.com/chat_more.php?flag=upcoming"
+    },
+    {
+        "title": "Previous Transcripts",
+        "url": "https://m.moneycontrol.com/chat_more.php?flag=transcript"
+    },
+    {
+        "title": "Mutual Funds",
+        "url": "#keypfactb1"
+    },
+    {
+        "title": "Insurance",
+        "url": "#keypfactb2"
+    },
+    {
+        "title": "Fixed Income",
+        "url": "#keypfactb3"
+    },
+    {
+        "title": "Tax",
+        "url": "#keypfactb4"
+    },
+    {
+        "title": "Investing",
+        "url": "#keypfactb5"
+    },
+    {
+        "title": "Property",
+        "url": "#keypfactb6"
+    },
+    {
+        "title": "Commodities",
+        "url": "#keypfactb7"
+    },
+    {
+        "title": "Retirement",
+        "url": "#keypfactb8"
+    },
+    {
+        "title": "Loans",
+        "url": "#keypfactb9"
+    },
+    {
+        "title": "Planning",
+        "url": "#keypfactb10"
+    },
+    {
+        "title": "Credit Cards",
+        "url": "#keypfactb11"
+    },
+    {
+        "title": "Profit-sharing PMS vs flat-fee PMS: Which option works better for investors?",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/profit-sharing-pms-vs-flat-fee-pms-which-option-works-better-for-investors-13938865.html"
+    },
+    {
+        "title": "Gold, equity or debt? Check how fund managers of top multi-asset funds are taking different calls",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/not-all-multi-asset-funds-diversify-the-same-way-here-s-how-the-top-performers-are-positioned-13939077.html"
+    },
+    {
+        "title": "How much SIP do you need to build Rs 1 crore in 5, 10 and 20 years?Â ",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/how-much-sip-do-you-need-to-build-rs-1-crore-in-5-10-and-20-years-13937740.html"
+    },
+    {
+        "title": "Are the best Multicap funds the most aggressive?",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/are-the-best-multicap-funds-the-most-aggressive-13936894.html"
+    },
+    {
+        "title": "Govt launches common landing portal for unclaimed financial assets",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/govt-launches-common-landing-portal-for-unclaimed-financial-assets-13936071.html"
+    },
+    {
+        "title": "5 money mistakes people make in their 20s",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/5-money-mistakes-people-make-in-their-20s-13935733.html"
+    },
+    {
+        "title": "Fixed income looks attractive now but invest gradually, says Axis Mutual Fund's Devang Shah",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/fixed-income-looks-attractive-now-but-invest-gradually-says-axis-mutual-fund-s-devang-shah-13935375.html"
+    },
+    {
+        "title": "See More Mutual Funds",
+        "url": "https://www.moneycontrol.com/news/tags/mf-experts.html"
+    },
+    {
+        "title": "ACKO strengthens leadership team ahead of IPO plans",
+        "url": "https://www.moneycontrol.com/news/business/ipo/acko-strengthens-leadership-team-ahead-of-ipo-plans-13940310.html"
+    },
+    {
+        "title": "Why Indiaâs top general insurance CEOs are quitting and why the sector may benefit",
+        "url": "https://www.moneycontrol.com/news/business/companies/why-india-s-top-general-insurance-ceos-are-quitting-and-why-the-sector-may-benefit-13939953.html"
+    },
+    {
+        "title": "General Insuran Consolidated March 2026 Net Sales at Rs 13,018.27 crore, down 1.44% Y-o-Y",
+        "url": "https://www.moneycontrol.com/news/business/earnings/general-insuran-consolidated-march-2026-net-sales-at-rs-13018-27-crore-down-1-44-y-o-y-13939439.html"
+    },
+    {
+        "title": "41% of Indians say financial goals cause stress: ManipalCigna study",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/41-of-indians-say-financial-goals-cause-stress-manipalcigna-study-13938555.html"
+    },
+    {
+        "title": "Indiaâs motor insurance story flips as mandatory third-party cover beats own-damage growth",
+        "url": "https://www.moneycontrol.com/banking/india-s-motor-insurance-story-flips-as-mandatory-third-party-cover-beats-own-damage-growth-article-13938501.html"
+    },
+    {
+        "title": "Trade Spotlight: How should you trade Adani Energy Solutions, AIA Engineering, NALCO, Infosys, Zydus Lifesciences, APL Apollo Tubes and others on June 2?",
+        "url": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-adani-energy-solutions-aia-engineering-nalco-infosys-zydus-lifesciences-apl-apollo-tubes-and-others-on-june-2-13937964.html"
+    },
+    {
+        "title": "LIC pivots to fintech, shelves health insurance plan to expand distribution",
+        "url": "https://www.moneycontrol.com/banking/lic-pivots-to-fintech-shelves-health-insurance-plan-to-expand-distribution-article-13937723.html"
+    },
+    {
+        "title": "See More Insurance",
+        "url": "https://www.moneycontrol.com/news/insurance-291-1-next-0.html"
+    },
+    {
+        "title": "Fixed income finds new relevance as investors chase stability, yield",
+        "url": "https://www.moneycontrol.com/news/business/markets/fixed-income-finds-new-relevance-as-investors-chase-stability-yield-13933028.html"
+    },
+    {
+        "title": "Municipal bond market gains traction as cities eye new-age infra financing models",
+        "url": "https://www.moneycontrol.com/news/business/markets/municipal-bond-market-gains-traction-as-cities-eye-new-age-infra-financing-models-13931995.html"
+    },
+    {
+        "title": "Fixed income mutual funds can offer better liquidity and yields than FDs: Basant Bafna of Mirae Asset",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/fixed-income-mutual-funds-can-offer-better-liquidity-and-yields-than-fds-basant-bafna-13931925.html"
+    },
+    {
+        "title": "InvIT fundraising could top Rs 25,000 cr in 2026 as investors rush to safety of yield products",
+        "url": "https://www.moneycontrol.com/news/business/ipo/invit-fundraising-could-top-rs-25-000-cr-in-2026-as-investors-rush-to-safety-of-yield-products-13890737.html"
+    },
+    {
+        "title": "Women above 60: Fixed income investment - Safe bets for 2025",
+        "url": "https://www.moneycontrol.com/news/photos/business/personal-finance/women-above-60-fixed-income-investment-safe-bets-for-2025-13457296.html"
+    },
+    {
+        "title": "How to fix fixed income allocations amid rate cuts? Focus on real rates",
+        "url": "https://www.moneycontrol.com/news/opinion/how-to-fix-fixed-income-allocations-amid-rate-cuts-focus-on-real-rates-13390316.html"
+    },
+    {
+        "title": "Fixed income strategies in a 'lower for longer' rate environment",
+        "url": "https://www.moneycontrol.com/news/opinion/fixed-income-strategies-in-a-lower-for-longer-rate-environment-13189036.html"
+    },
+    {
+        "title": "How is Bond Public Issue Beneficial and why invest in it?",
+        "url": "https://www.moneycontrol.com/news/videos/business/how-is-bond-public-issue-beneficial-and-why-invest-in-it-12995728.html"
+    },
+    {
+        "title": "See More Fixed Income",
+        "url": "https://www.moneycontrol.com/news/fixed-income-experts-310.html"
+    },
+    {
+        "title": "The unintended consequences of the RBIâs balance sheet use",
+        "url": "https://www.moneycontrol.com/news/opinion/the-unintended-consequences-of-the-rbi-s-balance-sheet-use-13936958.html"
+    },
+    {
+        "title": "India bond investors tap soaring swap rates to juice returns",
+        "url": "https://www.moneycontrol.com/news/business/india-bond-investors-tap-soaring-swap-rates-to-juice-returns-13929435.html"
+    },
+    {
+        "title": "Bond selloff threatens to knock AI stock frenzy off course",
+        "url": "https://www.moneycontrol.com/news/business/bond-selloff-threatens-to-knock-ai-stock-frenzy-off-course-13921189.html"
+    },
+    {
+        "title": "Global bond selloff worsens as rising oil prices spook investors",
+        "url": "https://www.moneycontrol.com/news/business/global-bond-selloff-worsens-as-rising-oil-prices-spook-investors-13920787.html"
+    },
+    {
+        "title": "Will West Asia keep the bond market addicted to the RBI?",
+        "url": "https://www.moneycontrol.com/news/opinion/will-west-asia-keep-the-bond-market-addicted-to-the-rbi-13896994.html"
+    },
+    {
+        "title": "A transparent states' borrowing plan is just a small blessing for the bond market",
+        "url": "https://www.moneycontrol.com/news/opinion/a-transparent-states-borrowing-plan-is-just-a-small-blessing-for-the-bond-market-13883003.html"
+    },
+    {
+        "title": "Three signs that policy rate cut transmission is likely over",
+        "url": "https://www.moneycontrol.com/news/opinion/three-signs-that-policy-rate-cut-transmission-is-likely-over-13857790.html"
+    },
+    {
+        "title": "Rupee under pressure: How the West Asia war is forcing RBI's hand on bonds",
+        "url": "https://www.moneycontrol.com/news/opinion/rupee-under-pressure-how-the-west-asia-war-is-forcing-rbi-s-hand-on-bonds-13855357.html"
+    },
+    {
+        "title": "See More Investing",
+        "url": "https://www.moneycontrol.com/news/investing-298.html"
+    },
+    {
+        "title": "OPINION | Indiaâs VDA Tax Framework: From tax clarity to competitive design",
+        "url": "https://www.moneycontrol.com/news/opinion/india-s-vda-tax-framework-from-tax-clarity-to-competitive-design-13939275.html"
+    },
+    {
+        "title": "ITR 2026: Still Waiting For Form 16? Know The June 15 Deadline And Filing Risks",
+        "url": "https://www.moneycontrol.com/news/videos/business/personal-finance/itr-2026-still-waiting-for-form-16-know-the-june-15-deadline-and-filing-risks-13938710.html"
+    },
+    {
+        "title": "ITR filing: How can non-salaried persons claim House Rent Allowance?",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/itr-filing-how-can-non-salaried-persons-claim-house-rent-allowance-13938779.html"
+    },
+    {
+        "title": "Bonus credited? Here's how to make the most of it before it disappears",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/from-shopping-to-sips-how-to-put-your-bonus-to-better-use-13938418.html"
+    },
+    {
+        "title": "Can both husband and wife claim LTCG tax benefits if only one paid for the property?",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/can-both-husband-and-wife-claim-ltcg-tax-benefits-if-only-one-paid-for-the-property-13938536.html"
+    },
+    {
+        "title": "RBI MPC this week: Why staying short in debt funds may be the smarter move",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/rbi-mpc-this-week-why-staying-short-in-debt-funds-may-be-the-smarter-move-13938189.html"
+    },
+    {
+        "title": "See More Tax",
+        "url": "https://www.moneycontrol.com/news/tax-292.html"
+    },
+    {
+        "title": "Dhruv Consultan Consolidated March 2026 Net Sales at Rs 8.32 crore, down 69.85% Y-o-Y",
+        "url": "https://www.moneycontrol.com/news/business/earnings/dhruv-consultan-consolidated-march-2026-net-sales-at-rs-8-32-crore-down-69-85-y-o-y-13940133.html"
+    },
+    {
+        "title": "Shristi Infra Consolidated March 2026 Net Sales at Rs 15.59 crore, down 62.29% Y-o-Y",
+        "url": "https://www.moneycontrol.com/news/business/earnings/shristi-infra-consolidated-march-2026-net-sales-at-rs-15-59-crore-down-62-29-y-o-y-13939856.html"
+    },
+    {
+        "title": "PVP Ventures Consolidated March 2026 Net Sales at Rs 41.44 crore, up 117.8% Y-o-Y",
+        "url": "https://www.moneycontrol.com/news/business/earnings/pvp-ventures-consolidated-march-2026-net-sales-at-rs-41-44-crore-up-117-8-y-o-y-13939782.html"
+    },
+    {
+        "title": "Ravinder Height Consolidated March 2026 Net Sales at Rs 0.01 crore, down 90.27% Y-o-Y",
+        "url": "https://www.moneycontrol.com/news/business/earnings/ravinder-height-consolidated-march-2026-net-sales-at-rs-0-01-crore-down-90-27-y-o-y-13939639.html"
+    },
+    {
+        "title": "Emami Realty  Consolidated March 2026 Net Sales at Rs 73.09 crore, up 435.06% Y-o-Y",
+        "url": "https://www.moneycontrol.com/news/business/earnings/emami-realty-consolidated-march-2026-net-sales-at-rs-73-09-crore-up-435-06-y-o-y-13939442.html"
+    },
+    {
+        "title": "KFG actor Yash and his wife Radhika Pandit buy beachfront Alibag land for Rs 24 Crore",
+        "url": "https://www.moneycontrol.com/entertainment/kfg-actor-yash-and-his-wife-radhika-pandit-buy-beachfront-alibag-land-for-rs-24-crore-article-13938972.html"
+    },
+    {
+        "title": "See More Property",
+        "url": "https://www.moneycontrol.com/news/tags/real-estate.html"
+    },
+    {
+        "title": "Gold declines Rs 2,500 to Rs 1.6 lakh/10g amid fresh US-Iran tensions",
+        "url": "https://www.moneycontrol.com/news/business/commodities/gold-declines-rs-2-500-to-rs-1-6-lakh-10g-amid-fresh-us-iran-tensions-13937792.html"
+    },
+    {
+        "title": "Domestic gold tracks global rally despite import duty hike; weak demand limits impact",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/domestic-gold-tracks-global-rally-despite-import-duty-hike-weak-demand-limits-impact-13937754.html"
+    },
+    {
+        "title": "See More Commodities",
+        "url": "https://www.moneycontrol.com/news/commodities-news-94.html"
+    },
+    {
+        "title": "Your retirement home can generate monthly income. Hereâs how senior citizens can do it",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/your-retirement-home-can-generate-monthly-income-here-s-how-senior-citizens-can-do-it-13937664.html"
+    },
+    {
+        "title": "NPS or Mutual Funds? Which Builds Better Retirement Income? | Explained",
+        "url": "https://www.moneycontrol.com/news/videos/business/personal-finance/nps-or-mutual-funds-which-builds-better-retirement-income-13933663.html"
+    },
+    {
+        "title": "Personal Finance | Five things to note about retirement planning",
+        "url": "https://www.moneycontrol.com/news/business/markets/personal-finance-five-things-to-note-about-retirement-planning-13932605.html"
+    },
+    {
+        "title": "Can the new NPS retirement income scheme beat the systematic withdrawal plan option for retirees after 60?",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/nps-retirement-income-can-new-ris-beat-slw-option-for-retirees-after-60-13928181.html"
+    },
+    {
+        "title": "âHad just Rs 23,712â: Woman who chose travelling in her 40s regrets not planning for retirement",
+        "url": "https://www.moneycontrol.com/news/trends/had-just-rs-23-712-woman-who-chose-travelling-in-her-40s-regrets-not-planning-for-retirement-13929589.html"
+    },
+    {
+        "title": "Retirement may end employment, but financial responsibilities continue for decades",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/retirement-may-end-employment-but-financial-responsibilities-continue-for-decades-13926979.html"
+    },
+    {
+        "title": "Fix your EPS records before itâs too late: Small errors can cost you your pension",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/fix-your-eps-records-before-it-s-too-late-small-errors-can-cost-you-your-pension-13925403.html"
+    },
+    {
+        "title": "EPF savings: Ignoring your EPS record can quietly cut your retirement income",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/epf-savings-ignoring-your-eps-record-can-quietly-cut-your-retirement-income-13925375.html"
+    },
+    {
+        "title": "See More Retirement",
+        "url": "https://www.moneycontrol.com/news/tags/retirement.html"
+    },
+    {
+        "title": "Bank lending in India hits two-year high as companies skip bonds",
+        "url": "https://www.moneycontrol.com/banking/bank-lending-in-india-hits-two-year-high-as-companies-skip-bonds-article-13939815.html"
+    },
+    {
+        "title": "Will the RBI raise interest rates in the June policy meeting amid global uncertainty? What borrowers should know",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/will-the-rbi-raise-interest-rates-in-the-june-policy-meeting-amid-global-uncertainty-what-borrowers-should-know-13934668.html"
+    },
+    {
+        "title": "Overseas education is expensive. Hereâs how young earners can start planning early",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/overseas-education-is-expensive-here-s-how-young-earners-can-start-planning-early-13932801.html"
+    },
+    {
+        "title": "Buying a house with family sounds smart until these money problems begin",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/buying-a-house-with-family-sounds-smart-until-these-money-problems-begin-13932794.html"
+    },
+    {
+        "title": "Personal Loan Vs. Credit Card Loan: Which Is More Affordable For Emergency Spending In 2025?",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/personal-loan-vs-credit-card-loan-which-is-more-affordable-for-emergency-spending-in-2025-13927641.html"
+    },
+    {
+        "title": "Can AI-Based Loan Approvals Provide You With A Better Sanction Amount?",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/can-ai-based-loan-approvals-provide-you-with-a-better-sanction-amount-13924923.html"
+    },
+    {
+        "title": "Applying for too many credit cards? Hereâs how it can quietly affect your credit report",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/applying-for-too-many-credit-cards-here-s-how-it-can-quietly-affect-your-credit-report-13927924.html"
+    },
+    {
+        "title": "Indiaâs gold loan boom is no longer just a south India story",
+        "url": "https://www.moneycontrol.com/news/business/economy/india-s-gold-loan-boom-is-no-longer-just-a-south-india-story-13927900.html"
+    },
+    {
+        "title": "See More Loans",
+        "url": "https://www.moneycontrol.com/news/loans-294.html"
+    },
+    {
+        "title": "Deepak Shenoy highlights two key Nasdaq-100 rule changes ahead of SpaceX IPO",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/deepak-shenoy-highlights-two-key-nasdaq-100-rule-changes-ahead-of-spacex-ipo-13939896.html"
+    },
+    {
+        "title": "Sold a flat for Rs 34 lakh, but tax records show Rs 80 lakh value? Here's what it could mean",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/how-does-capital-gains-tax-apply-when-selling-a-flat-with-stamp-duty-valuation-higher-than-purchase-price-13939575.html"
+    },
+    {
+        "title": "Why is Bitcoin falling? Price drops 6% below $66,500 amid ETF outflows, institutional selling",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/why-is-bitcoin-falling-price-drops-6-below-66500-amid-etf-outflows-institutional-selling-13939246.html"
+    },
+    {
+        "title": "Gold and silver price today, June 3: Check rates of 24K, 22K gold in Delhi, Mumbai, Kolkata other cities",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-and-silver-price-today-june-3-check-rates-of-24k-22k-gold-in-delhi-mumbai-kolkata-other-cities-13939217.html"
+    },
+    {
+        "title": "Lifelong money lessons every parent should teach their child to build strong financial habits early",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/lifelong-money-lessons-every-parent-should-teach-their-child-to-build-strong-financial-habits-early-13939081.html"
+    },
+    {
+        "title": "How to plan and fund your childâs preschool activity classes without straining your budget",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/how-to-plan-and-fund-your-child-s-preschool-activity-classes-without-straining-your-budget-13939075.html"
+    },
+    {
+        "title": "8th Pay Commission update: Final date for submission of memorandum extended to June 15 - whatâs the latest?",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/8th-pay-commission-update-final-date-for-submission-of-memorandum-extended-to-june-15-what-s-the-latest-13938687.html"
+    },
+    {
+        "title": "See More Planning",
+        "url": "https://www.moneycontrol.com/news/tags/planning.html"
+    },
+    {
+        "title": "Chart of the Day: Credit card spends signal some cooling off in consumption",
+        "url": "https://www.moneycontrol.com/news/opinion/chart-of-the-day-credit-card-spends-signal-some-cooling-off-in-consumption-13935195.html"
+    },
+    {
+        "title": "Airport lounge access on credit cards is getting harder to unlock",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/airport-lounge-access-on-credit-cards-is-getting-harder-to-unlock-13927907.html"
+    },
+    {
+        "title": "Indians are turning travel points into a second wallet: Marriott Bonvoy report",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/from-lounge-access-to-dining-rewards-how-indian-travellers-are-turning-loyalty-into-a-lifestyle-tool-13926935.html"
+    },
+    {
+        "title": "Indiaâs most expensive credit cards: From Grammy tickets to private charters, what these cards really offer",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/india-s-most-expensive-credit-cards-from-grammy-tickets-to-private-charters-what-these-cards-really-offer-13913241.html"
+    },
+    {
+        "title": "From groceries to travel, how Indians are using credit cards differently: SBI Card report",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/from-groceries-to-travel-how-indians-are-using-credit-cards-differently-sbi-card-report-13925152.html"
+    },
+    {
+        "title": "Are Contactless Payments Really Safer Than Chip-and-PIN In 2025?",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/are-contactless-payments-really-safer-than-chip-and-pin-in-2025-13922345.html"
+    },
+    {
+        "title": "How small credit habits gradually shape your credit score and long-term financial profile",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/how-small-credit-habits-gradually-shape-your-credit-score-and-long-term-financial-profile-13921596.html"
+    },
+    {
+        "title": "See More Credit Cards",
+        "url": "https://www.moneycontrol.com/news/tags/credit-cards.html"
+    },
+    {
+        "title": "Suraksha Diagno",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/labslife-sciences-services/surakshadiagno/SDL02"
+    },
+    {
+        "title": "Suraksha Diagnostics: Building muscle for the next leg of growth",
+        "url": "https://www.moneycontrol.com/news/business/moneycontrol-research/suraksha-diagnostics-building-muscle-for-the-next-leg-of-growth-13939308.html"
+    },
+    {
+        "title": "TATA Cons. Prod",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/plantations-teacoffee/tataconsprod/TT"
+    },
+    {
+        "title": "Trade Spotlight: How should you trade Federal Bank, KPIT Technologies, Parag Milk Foods, Route Mobile, PTC Industries, and others on June 3?",
+        "url": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-federal-bank-kpit-technologies-parag-milk-foods-route-mobile-ptc-industries-and-others-on-june-3-13939107.html"
+    },
+    {
+        "title": "JSW Energy",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/power-generationdistribution/jswenergy/JE01"
+    },
+    {
+        "title": "MOTHERSON",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/auto-ancillaries-auto-truckmotorcycle-parts/motherson/MSS01"
+    },
+    {
+        "title": "Trade Spotlight: How should you trade Rain Industries, IFCI, Cemindia Projects, Supriya Lifescience, Thermax, and others on June 1?",
+        "url": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-rain-industries-ifci-cemindia-projects-supriya-lifescience-thermax-and-others-on-june-1-13936932.html"
+    },
+    {
+        "title": "Trade Spotlight: How should you trade Samvardhana Motherson, Siemens, NALCO, RBL Bank, Tata Power, Usha Martin, and others on May 29?",
+        "url": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-samvardhana-motherson-siemens-nalco-rbl-bank-tata-power-usha-martin-and-others-on-may-29-13934997.html"
+    },
+    {
+        "title": "Stock Views",
+        "url": "https://www.moneycontrol.com/news/tags/stocks-views.html"
+    },
+    {
+        "title": "Buzzing Stocks",
+        "url": "https://www.moneycontrol.com/news/tags/stocks-in-news.html"
+    },
+    {
+        "title": "Brokerage Recommendations",
+        "url": "https://www.moneycontrol.com/news/tags/recommendations.html"
+    },
+    {
+        "title": "Mutual Funds Tool",
+        "url": "https://www.moneycontrol.com/mutualfundindia/tools/"
+    },
+    {
+        "title": "Find your Fund",
+        "url": "https://www.moneycontrol.com/mf/find_a_fund/find_a_fund.php"
+    },
+    {
+        "title": "Returns Calculator",
+        "url": "https://www.moneycontrol.com/mf/returns.php"
+    },
+    {
+        "title": "All Schedule",
+        "url": "https://www.moneycontrol.com/stocks/marketinfo/chats/detail_new.php?type=upcoming"
+    },
+    {
+        "title": "Previous Transcripts",
+        "url": "https://www.moneycontrol.com/stocks/marketinfo/chats/archives_new.php"
+    },
+    {
+        "title": "Interviews",
+        "url": "https://www.moneycontrol.com/news/interview/"
+    },
+    {
+        "title": "Daily Voice: Exploration, energy security and ethanol remain key investment themes, says Vallum Capital's Manish Bhandari",
+        "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-exploration-energy-security-and-ethanol-remain-key-investment-themes-says-vallum-capital-s-manish-bhandari-13939103.html"
+    },
+    {
+        "title": "Daily Voice: Why Invescoâs Aditya Khemani is betting big on power stocks despite valuation worries",
+        "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-why-invesco-s-aditya-khemani-is-betting-big-on-power-stocks-despite-valuation-worries-13937961.html"
+    },
+    {
+        "title": "Daily Voice | AI not main trigger; macro stability, earnings revival to steer recovery: Riddhiman Jain",
+        "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-ai-not-main-trigger-macro-stability-earnings-revival-to-steer-recovery-riddhiman-jain-13936918.html"
+    },
+    {
+        "title": "Daily Voice | Narnolia's Shailendra Kumar sees 2HFY27 significantly stronger than 1HFY27 for corporate earnings",
+        "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-narnolia-s-shailendra-kumar-sees-2hfy27-significantly-stronger-than-1hfy27-for-corporate-earnings-13936492.html"
+    },
+    {
+        "title": "Action In Markets Today",
+        "url": "https://www.moneycontrol.com/markets/action-in-markets.html"
+    },
+    {
+        "title": "Mirae Asset Nifty 8-13 yr G-sec ETF",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/etf/miraenifty8-13/MAGS814938"
+    },
+    {
+        "title": "IndiGrid Infrastructure Trust",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/power-generationdistribution/indigridinfra/IIF01"
+    },
+    {
+        "title": "Ugar Sugar Works",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/sugar/ugarsugarwork/USW"
+    },
+    {
+        "title": "Bansal Wire Industries",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/ironsteel/bansalwireind/BWI03"
+    },
+    {
+        "title": "Motilal Oswal Nifty 500 Momentum 50 ETF",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/etf/mon500m50etf/MOMEN25606"
+    },
+    {
+        "title": "RPG Life Sciences",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/rpglife/RPG05"
+    },
+    {
+        "title": "Titan Company",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/titancompany/TI01"
+    },
+    {
+        "title": "Set SMS alerts for market news",
+        "url": "https://investmentwatch.moneycontrol.com/tracker.php?package_id=1"
+    },
+    {
+        "title": "Opinion",
+        "url": "https://www.moneycontrol.com/news/opinion.html"
+    },
+    {
+        "title": "The AI boom gives 1990s IT brands a second crack at youth",
+        "url": "https://www.moneycontrol.com/news/opinion/the-ai-boom-gives-1990s-it-brands-a-second-crack-at-youth-13939961.html"
+    },
+    {
+        "title": "Board Meetings",
+        "url": "#keycatb1"
+    },
+    {
+        "title": "AGM / EGMs",
+        "url": "#keycatb2"
+    },
+    {
+        "title": "Bonus",
+        "url": "#keycatb3"
+    },
+    {
+        "title": "Splits",
+        "url": "#keycatb4"
+    },
+    {
+        "title": "Rights",
+        "url": "#keycatb5"
+    },
+    {
+        "title": "Dividend",
+        "url": "#keycatb6"
+    },
+    {
+        "title": "Shah Foods",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/foodprocessing/shahfoods/SF06"
+    },
+    {
+        "title": "DEE Development",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/ironsteel/deedevelopmentengineers/DDEL"
+    },
+    {
+        "title": "Ideaforge Tech",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/engineering-industrialequipments/ideaforgetechnology/IT07"
+    },
+    {
+        "title": "Kalind",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/finance-investments/kalind/MBP"
+    },
+    {
+        "title": "Binny",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/textiles-spinning-cottonblended/binny/B01"
+    },
+    {
+        "title": "See More Board meetings",
+        "url": "https://www.moneycontrol.com/stocks/marketinfo/meetings.php?opttopic=brdmeeting"
+    },
+    {
+        "title": "Kopran",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/kopran/K01"
+    },
+    {
+        "title": "Odyssey Tech",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/computers-softwaremediumsmall/odysseytechnologies/OT01"
+    },
+    {
+        "title": "Harmony Capital",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/finance-investments/harmonycapitalservices/HCS"
+    },
+    {
+        "title": "Prabhu Steels",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/steel-mediumsmall/prabhusteels/PS09"
+    },
+    {
+        "title": "Mafatlal Ind",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/textiles-compositemills/mafatlalindustries/MI02"
+    },
+    {
+        "title": "See More AGM EGM",
+        "url": "https://www.moneycontrol.com/stocks/marketinfo/agm_egm.php"
+    },
+    {
+        "title": "Anand Rathi",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/finance-investment/anandrathiwealth/ARW"
+    },
+    {
+        "title": "See More Bonus",
+        "url": "https://www.moneycontrol.com/stocks/marketinfo/bonus/index.php"
+    },
+    {
+        "title": "E2E Networks",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/itservicesconsulting/e2enetworks/EN"
+    },
+    {
+        "title": "Mobavenue AI",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/mobavenueaitech/SES01"
+    },
+    {
+        "title": "View All Splits",
+        "url": "https://www.moneycontrol.com/stocks/marketinfo/splits/index.php"
+    },
+    {
+        "title": "View All Rights",
+        "url": "https://www.moneycontrol.com/stocks/marketinfo/rights/index.php"
+    },
+    {
+        "title": "Ashok Leyland",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/auto-lcvshcvs/ashokleyland/AL"
+    },
+    {
+        "title": "Remsons Ind",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/autoancillaries/remsonsindustries/RI10"
+    },
+    {
+        "title": "Monarch Surveyo",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/misccommercialservices/monarchsurveyorsengineeringconsultants/MSE02"
+    },
+    {
+        "title": "Foseco India",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/chemicals/fosecoindia/FI12"
+    },
+    {
+        "title": "Navneet",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/printingstationery/navneeteducation/NP01"
+    },
+    {
+        "title": "See More Dividend",
+        "url": "https://www.moneycontrol.com/stocks/marketinfo/dividends_declared/index.php"
+    },
+    {
+        "title": "Taking Stock: Nifty reclaims 23,400, Sensex ends 304 pts lower; IT drags",
+        "url": "https://www.moneycontrol.com/news/business/markets/taking-stock-nifty-reclaims-23-400-sensex-ends-304-pts-lower-it-drags-13939918.html"
+    },
+    {
+        "title": "Bank Nifty jumps 0.9% after 1,200-point rebound from day's low; PSU banks lead recovery despite IT rout",
+        "url": "https://www.moneycontrol.com/news/business/stocks/bank-nifty-slips-over-1-today-all-14-constituents-trade-in-red-sbi-indusind-among-top-laggards-13939409.html"
+    },
+    {
+        "title": "Fidelity buys Rs 1,906 crore worth of GMR Airports shares from GQG Partners",
+        "url": "https://www.moneycontrol.com/news/business/markets/fidelity-buys-rs-1-906-crore-worth-of-gmr-airports-shares-from-gqg-partners-13940505.html"
+    },
+    {
+        "title": "Fidelity, Goldman Sachs, IMF, Quant MF, WhiteOak Capital among investors buy Rs 2,873 crore worth of Lenskart shares from Softbank",
+        "url": "https://www.moneycontrol.com/news/business/markets/fidelity-goldman-sachs-imf-quant-mf-whiteoak-capital-among-investors-buy-rs-2-873-crore-worth-of-lenskart-shares-from-softbank-13940482.html"
+    },
+    {
+        "title": "Commodities",
+        "url": "https://www.moneycontrol.com/news/tags/commodities.html"
+    },
+    {
+        "title": "Commodity Corner: Crude oil climbs 1% amid middle east tensions; gold eases",
+        "url": "https://www.moneycontrol.com/news/business/commodities/commodity-corner-crude-oil-climbs-1-amid-middle-east-tensions-gold-eases-13939172.html"
+    },
+    {
+        "title": "Commodity Corner: Oil retains gains amid middle east tensions; gold trades steady",
+        "url": "https://www.moneycontrol.com/news/business/commodities/commodity-corner-oil-retains-gains-amid-middle-east-tensions-gold-trades-steady-13938038.html"
+    },
+    {
+        "title": "Commodity Corner: Oil jumps on middle east tensions; gold slips amid stronger dollar",
+        "url": "https://www.moneycontrol.com/news/business/commodities/commodity-corner-oil-jumps-on-middle-east-tensions-gold-slips-amid-stronger-dollar-13936966.html"
+    },
+    {
+        "title": "Startups",
+        "url": "https://www.moneycontrol.com/news/business/startups"
+    },
+    {
+        "title": "Delhi startup asks entire team to take 30% pay cut after Rs 2 crore mistake: 'Is it normal?'",
+        "url": "https://www.moneycontrol.com/news/trends/delhi-startup-asks-entire-team-to-take-30-pay-cut-after-rs-2-crore-mistake-is-it-normal-13938022.html"
+    },
+    {
+        "title": "'Ye decision easy nahi tha': Man quits high-paying Rs 300 crore company job at 40 to start own brand",
+        "url": "https://www.moneycontrol.com/news/trends/ye-decision-easy-nahi-tha-man-quits-high-paying-rs-300-crore-company-job-at-40-to-start-own-brand-13931070.html"
+    },
+    {
+        "title": "Bengaluru startup founder pays himself Rs 50,000 despite having Rs 5 crore in bank",
+        "url": "https://www.moneycontrol.com/news/trends/pay-yourself-rs-24-lakh-bengaluru-startup-founder-pays-himself-rs-50-000-despite-having-rs-5-crore-in-bank-13929761.html"
+    },
+    {
+        "title": "Top Companies in India",
+        "url": "https://www.moneycontrol.com/stocks/marketstats/top100.php"
+    },
+    {
+        "title": "HDFC Bank",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/banks-privatesector/hdfcbank/HDF01"
+    },
+    {
+        "title": "Bharti Airtel",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/telecommunications-service/bhartiairtel/BA08"
+    },
+    {
+        "title": "SBI",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/banks-publicsector/statebankindia/SBI"
+    },
+    {
+        "title": "ICICI Bank",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/banks-privatesector/icicibank/ICI02"
+    },
+    {
+        "title": "See More Top Companies in India",
+        "url": "https://www.moneycontrol.com/stocks/top-companies-in-india/market-capitalisation-bse.html"
+    },
+    {
+        "title": "After the Bell",
+        "url": "/https://www.moneycontrol.com/tv/cnbc-tv18-shows/after-the-bell-2020-09-09.html"
+    },
+    {
+        "title": "Bazaar",
+        "url": "/https://www.moneycontrol.com/tv/cnbc-tv18-shows/bazzar-2021-02-22.html"
+    },
+    {
+        "title": "Bazaar Corporate Radar",
+        "url": "/https://www.moneycontrol.com/tv/cnbc-tv18-shows/bazzar-corporate-2021-02-22.html"
+    },
+    {
+        "title": "Business Lunch",
+        "url": "/https://www.moneycontrol.com/tv/cnbc-tv18-shows/business-lunch-2022-05-31.html"
+    },
+    {
+        "title": "Chart Busters",
+        "url": "/https://www.moneycontrol.com/tv/cnbc-tv18-shows/chart-busters-2021-02-22.html"
+    },
+    {
+        "title": "Closing Bell",
+        "url": "/https://www.moneycontrol.com/tv/cnbc-tv18-shows/closing-bell-2023-08-31.html"
+    },
+    {
+        "title": "Halftime Report",
+        "url": "/https://www.moneycontrol.com/tv/cnbc-tv18-shows/halftime-report-2022-01-31.html"
+    },
+    {
+        "title": "India Business Hour",
+        "url": "/https://www.moneycontrol.com/tv/cnbc-tv18-shows/indian-business-hour-2023-08-29.html"
+    },
+    {
+        "title": "Markets Today",
+        "url": "/https://www.moneycontrol.com/tv/cnbc-tv18-shows/markets-today-with-udayan-2023-08-29.html"
+    },
+    {
+        "title": "Midcap Radar",
+        "url": "/https://www.moneycontrol.com/tv/cnbc-tv18-shows/midcap-radar-2022-05-31.html"
+    },
+    {
+        "title": "Mindmine Mondays",
+        "url": "/https://www.moneycontrol.com/tv/cnbc-tv18-shows/mindmine-mondays-2020-08-10.html"
+    },
+    {
+        "title": "Power Breakfast",
+        "url": "/https://www.moneycontrol.com/tv/cnbc-tv18-shows/power-breakfast-2021-05-19.html"
+    },
+    {
+        "title": "Reporter's Diary",
+        "url": "/https://www.moneycontrol.com/tv/cnbc-tv18-shows/reporter-diary-2022-01-28.html"
+    },
+    {
+        "title": "Trading Hour",
+        "url": "/https://www.moneycontrol.com/tv/cnbc-tv18-shows/trading-hour-2022-05-30.html"
+    },
+    {
+        "title": "What's Hot",
+        "url": "/https://www.moneycontrol.com/tv/cnbc-tv18-shows/whats-hot-2020-07-17.html"
+    },
+    {
+        "title": "Your Stocks",
+        "url": "/https://www.moneycontrol.com/tv/cnbc-tv18-shows/your-stocks-2023-01-30.html"
+    },
+    {
+        "title": "Markets Today",
+        "url": "https://www.cnbctv18.com/live-tv/"
+    },
+    {
+        "title": "West Asia crisis fails to slow deals, AI boom, EVs sale surges | MC Editor's Picks",
+        "url": "https://www.moneycontrol.com/news/podcast/west-asia-crisis-fails-to-slow-deals-ai-boom-evs-sale-surges-mc-editor-s-picks-13936077.html"
+    },
+    {
+        "title": "From Make in India to Global Impact: Indiaâs MedTech Future | Wipro GE Healthcare",
+        "url": "https://www.moneycontrol.com/news/podcast/from-make-in-india-to-global-impact-india-s-medtech-future-wipro-ge-healthcare-13931476.html"
+    },
+    {
+        "title": "Rupee at record low, debt pressure rises, India Inc faces tougher business climate | Editor's Picks",
+        "url": "https://www.moneycontrol.com/news/podcast/rupee-at-record-low-debt-pressure-rises-india-inc-faces-tougher-business-climate-editor-s-picks-13923087.html"
+    },
+    {
+        "title": "Bringing Structure and Reliability to Indiaâs Interiors Market | Srikanth Iyer, Co-Founder and CEO, Homelane | MC Unusual Suspects",
+        "url": "https://www.moneycontrol.com/news/podcast/bringing-structure-and-reliability-to-india-s-interiors-market-srikanth-iyer-co-founder-and-ceo-homelane-mc-unusual-suspects-13920239.html"
+    },
+    {
+        "title": "Tata Sons delays Chandra call, US-Iran war strains arsenal & HDFC Bank reshuffle | Editorâs Picks",
+        "url": "https://www.moneycontrol.com/news/podcast/tata-sons-delays-chandra-call-us-iran-war-strains-arsenal-hdfc-bank-reshuffle-editor-s-picks-13881630.html"
+    },
+    {
+        "title": "Markets",
+        "url": "#markets_wap"
+    },
+    {
+        "title": "Gold Rate",
+        "url": "#gold_rate_wap"
+    },
+    {
+        "title": "Real Estate",
+        "url": "#real_estate_wap"
+    },
+    {
+        "title": "Health",
+        "url": "#health_wap"
+    },
+    {
+        "title": "World",
+        "url": "#world_wap"
+    },
+    {
+        "title": "Trends",
+        "url": "#trends_wap"
+    },
+    {
+        "title": "Netanyahu downplays clash with Trump, says both share goal of disarming Hezbollah",
+        "url": "https://www.moneycontrol.com/world/netanyahu-downplays-clash-with-trump-says-both-share-goal-of-disarming-hezbollah-article-13940504.html"
+    },
+    {
+        "title": "Putin's hometown under attack: Why Ukraine struck St Petersburg ahead of Russia's biggest summit",
+        "url": "https://www.moneycontrol.com/world/putin-s-hometown-under-attack-why-ukraine-struck-st-petersburg-ahead-of-russia-s-biggest-summit-article-13940479.html"
+    },
+    {
+        "title": "Indians take over grocery store in Canada, chant 'Jai Shri Ram' in viral video",
+        "url": "https://www.moneycontrol.com/news/trends/indians-take-over-grocery-store-in-canada-chant-jai-shri-ram-in-viral-video-13940251.html"
+    },
+    {
+        "title": "Anushka Sharma faces backlash for promoting homeopathy: 'Hypocrisy is hard to miss'",
+        "url": "https://www.moneycontrol.com/news/trends/anushka-sharma-faces-backlash-for-promoting-homeopathy-hypocrisy-is-hard-to-miss-13940347.html"
+    },
+    {
+        "title": "grievanceofficer@nw18.com",
+        "url": "mailto:grievanceofficer@nw18.com"
+    },
+    {
+        "title": "Stocks",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/"
+    },
+    {
+        "title": "A",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/A"
+    },
+    {
+        "title": "B",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/B"
+    },
+    {
+        "title": "C",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/C"
+    },
+    {
+        "title": "D",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/D"
+    },
+    {
+        "title": "E",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/E"
+    },
+    {
+        "title": "F",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/F"
+    },
+    {
+        "title": "G",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/G"
+    },
+    {
+        "title": "H",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/H"
+    },
+    {
+        "title": "I",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/I"
+    },
+    {
+        "title": "J",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/J"
+    },
+    {
+        "title": "K",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/K"
+    },
+    {
+        "title": "L",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/L"
+    },
+    {
+        "title": "M",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/M"
+    },
+    {
+        "title": "N",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/N"
+    },
+    {
+        "title": "O",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/O"
+    },
+    {
+        "title": "P",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/P"
+    },
+    {
+        "title": "Q",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/Q"
+    },
+    {
+        "title": "R",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/R"
+    },
+    {
+        "title": "S",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/S"
+    },
+    {
+        "title": "T",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/T"
+    },
+    {
+        "title": "U",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/U"
+    },
+    {
+        "title": "V",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/V"
+    },
+    {
+        "title": "W",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/W"
+    },
+    {
+        "title": "X",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/X"
+    },
+    {
+        "title": "Y",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/Y"
+    },
+    {
+        "title": "Z",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/Z"
+    },
+    {
+        "title": "Others",
+        "url": "https://www.moneycontrol.com/india/stockpricequote/others"
+    },
+    {
+        "title": "LTM Share Price",
+        "url": "https://www.moneycontrol.com/news/business/stocks/ltm-shares-crash-7-today-as-jefferies-questions-ai-growth-targets-despite-management-s-bullish-outlook-13939302.html"
+    },
+    {
+        "title": "RBI MPC Today",
+        "url": "https://www.moneycontrol.com/news/business/banks/rbi-mpc-begins-today-inflation-growth-and-rupee-in-focus-as-rate-hold-looms-13939171.html"
+    },
+    {
+        "title": "IndusInd Bank Share Price",
+        "url": "https://www.moneycontrol.com/news/business/markets/indusind-bank-share-falls-over-2-after-report-of-fresh-whistleblower-complaint-to-pmo-rbi-13939274.html"
+    },
+    {
+        "title": "Business News Live",
+        "url": "https://www.moneycontrol.com/news/business/corporate-business-news-live-updates-india-world-june-3-2026-liveblog-13939144.html"
+    },
+    {
+        "title": "Lenskart Block Deal",
+        "url": "https://www.moneycontrol.com/news/business/stocks/lenskart-block-deal-3-25-equity-stake-sold-for-rs-2-873-crore-in-large-trades-stock-flat-13939264.html"
+    },
+    {
+        "title": "Wipro CEO Srinivas Pallia",
+        "url": "https://www.moneycontrol.com/news/business/wipro-ceo-srinivas-pallia-earns-nearly-7-times-what-chairman-rishad-premji-does-13939228.html"
+    },
+    {
+        "title": "Tokenmaxxing",
+        "url": "https://www.moneycontrol.com/technology/tokenmaxxing-is-a-terrible-idea-snowflake-ceo-sridhar-ramaswamy-article-13938928.html"
+    },
+    {
+        "title": "Silver MCX Price",
+        "url": "https://www.moneycontrol.com/commodity/mcx-silver-price/"
+    },
+    {
+        "title": "Gold MCX Price",
+        "url": "https://www.moneycontrol.com/commodity/mcx-gold-price/"
+    },
+    {
+        "title": "Loans up to 50 Lakhs",
+        "url": "https://www.moneycontrolpay.com/?sso="
+    },
+    {
+        "title": "Fixed Income",
+        "url": "https://www.thefixedincome.com/"
+    },
+    {
+        "title": "ETFs",
+        "url": "https://www.moneycontrol.com/mf/etf/"
+    },
+    {
+        "title": "EMI Calculator",
+        "url": "https://www.moneycontrol.com/personal-finance/tools/emi-calculator.html"
+    },
+    {
+        "title": "Retirement Planning",
+        "url": "https://www.moneycontrol.com/personal-finance/tools/retirement-planning-calculator.html"
+    },
+    {
+        "title": "Gratuity Calculator",
+        "url": "https://www.moneycontrol.com/personal-finance/tools/gratuity-calculator.html"
+    },
+    {
+        "title": "News18",
+        "url": "https://www.news18.com/"
+    },
+    {
+        "title": "Firstpost",
+        "url": "https://www.firstpost.com/"
+    },
+    {
+        "title": "CNBC TV18",
+        "url": "https://www.cnbctv18.com/"
+    },
+    {
+        "title": "News18 Hindi",
+        "url": "https://hindi.news18.com/"
+    },
+    {
+        "title": "Cricketnext",
+        "url": "https://www.news18.com/cricket/"
+    },
+    {
+        "title": "Overdrive",
+        "url": "https://www.overdrive.in/"
+    },
+    {
+        "title": "About Us",
+        "url": "https://www.moneycontrol.com/cdata/aboutus.php"
+    },
+    {
+        "title": "Contact Us",
+        "url": "https://www.moneycontrol.com/cdata/contact.php"
+    },
+    {
+        "title": "Advisory Alert",
+        "url": "https://www.moneycontrol.com/cdata/advisory-alert.php"
+    },
+    {
+        "title": "Advertise with Us",
+        "url": "https://www.moneycontrol.com/advertise-on-moneycontrol.html"
+    },
+    {
+        "title": "Disclaimer",
+        "url": "https://www.moneycontrol.com/cdata/disclaim.php"
+    },
+    {
+        "title": "Privacy Policy",
+        "url": "https://www.moneycontrol.com/cdata/privacypolicy.php"
+    },
+    {
+        "title": "Cookie Policy",
+        "url": "https://www.moneycontrol.com/cdata/gdpr_cookiepolicy.php"
+    },
+    {
+        "title": "Terms & Conditions",
+        "url": "https://www.moneycontrol.com/cdata/termsofuse.php"
+    },
+    {
+        "title": "Financial Terms (Glossary)",
+        "url": "https://www.moneycontrol.com/glossary/"
+    },
+    {
+        "title": "Sitemap",
+        "url": "https://www.moneycontrol.com/sitemap.php"
+    },
+    {
+        "title": "Investors",
+        "url": "https://www.moneycontrol.com/investors/"
+    },
+    {
+        "title": "Portfolio",
+        "url": "https://www.moneycontrol.com/bestportfolio/wealth-management-tool/investments"
+    }
+]
