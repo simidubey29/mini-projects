@@ -1,0 +1,842 @@
+title,url,title_length,word_count
+Close Ad,#,8,2
+English,https://www.moneycontrol.com/,7,1
+Hindi,https://hindi.moneycontrol.com,5,1
+Gujarati,https://gujarati.moneycontrol.com/,8,1
+Loans up to ₹50 Lakhs,https://www.moneycontrolpay.com/,21,5
+HDFC Bank,https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/hdfcbank/HDF01,9,2
+Vodafone Idea,https://www.moneycontrol.com/india/stockpricequote/telecommunication-service-provider/vodafoneidea/IC8,13,2
+Infosys,https://www.moneycontrol.com/india/stockpricequote/computers-software/infosys/IT,7,1
+Suzlon Energy,https://www.moneycontrol.com/india/stockpricequote/power-generationdistribution/suzlonenergy/SE17,13,2
+Ola Electric,https://www.moneycontrol.com/india/stockpricequote/auto-ancillaries-brakes/olaelectricmobility/OEM,12,2
+My Alerts,https://www.moneycontrol.com/my-alerts,9,2
+My Profile,https://www.moneycontrol.com/portfolio-management/user/update_profile,10,2
+My PRO,https://www.moneycontrol.com/promos/pro.php,6,2
+My Portfolio,https://www.moneycontrol.com/india/bestportfoliomanager/investment-tool,12,2
+My Watchlist,https://www.moneycontrol.com/watchlist,12,2
+My Messages,https://mmb.moneycontrol.com/,11,2
+Price Alerts,https://www.moneycontrol.com/alerts/manage-alerts.php,12,2
+Logout,https://www.moneycontrol.com/mcplus/portfolio/logout.php?ref=https://www.moneycontrol.com/mcplus/portfolio/loginportfolio.php,6,1
+Fixed Deposits,https://www.moneycontrol.com/fixed-deposit,14,2
+Credit Cards,https://www.moneycontrol.com/credit-cards,12,2
+Credit Score,https://www.moneycontrol.com/credit-score,12,2
+Loan against Mutual Funds,https://www.moneycontrolpay.com/loan-against-mutual-funds/,25,4
+Android,https://play.google.com/store/apps/details?id=com.divum.MoneyControl&hl=en_IN,7,1
+IOS,https://apps.apple.com/in/app/moneycontrol-markets-news/id408654600,3,1
+Facebook,https://www.facebook.com/moneycontrol,8,1
+Twitter,https://twitter.com/moneycontrolcom,7,1
+Instagram,https://www.instagram.com/moneycontrolcom/,9,1
+LinkedIn,https://www.linkedin.com/company/moneycontrol,8,1
+Network 18,https://www.nw18.com/home,10,2
+Moneycontrol PRO,https://www.moneycontrol.com/pro-top-stories,16,2
+Markets,https://www.moneycontrol.com/stocksmarketsindia/,7,1
+Indian Indices,https://www.moneycontrol.com/markets/indian-indices/,14,2
+All Stats,https://www.moneycontrol.com/stocks/marketstats/index.php,9,2
+Top Gainers,https://www.moneycontrol.com/stocks/market-stats/top-gainers-nse/,11,2
+Top Losers,https://www.moneycontrol.com/stocks/market-stats/top-losers-nse/,10,2
+Only Buyers,https://www.moneycontrol.com/stocks/market-stats/only-buyers-nse/,11,2
+Only Sellers,https://www.moneycontrol.com/stocks/market-stats/only-sellers-nse/,12,2
+52 Week High,https://www.moneycontrol.com/stocks/market-stats/52-week-high-nse/,12,3
+52 Week Low,https://www.moneycontrol.com/stocks/market-stats/52-week-low-nse/,11,3
+Price Shockers,https://www.moneycontrol.com/stocks/market-stats/price-shockers-nse/,14,2
+Volume Shockers,https://www.moneycontrol.com/stocks/market-stats/volume-shockers-nse/,15,2
+Most Active Stocks,https://www.moneycontrol.com/stocks/market-stats/most-active-stocks-nse/,18,3
+Stock Updates,https://www.moneycontrol.com/markets/stockupdates/,13,2
+Global Markets,https://www.moneycontrol.com/markets/global-indices/,14,2
+Technical Trends,https://www.moneycontrol.com/markets/technical-trends/,16,2
+Open Interest Trends,https://www.moneycontrol.com/markets/open-interest-trends/options,20,3
+Trending Stocks,https://www.moneycontrol.com/stocks/market-stats/most-visited-trending-stocks/,15,2
+Unlisted Shares,https://www.moneycontrol.com/markets/unlisted-shares/top-companies/,15,2
+Economic Calendar,https://www.moneycontrol.com/economic-calendar,17,2
+Economic Indicators,https://www.moneycontrol.com/economic-indicators/,19,2
+Fundamental Scanner,https://www.moneycontrol.com/stock-scanner/fundamental/,19,2
+Technical Scanner,https://www.moneycontrol.com/stock-scanner/technical/,17,2
+Earnings,https://www.moneycontrol.com/markets/earnings/,8,1
+Sector Analysis,https://www.moneycontrol.com/markets/sector-analysis,15,2
+IPO,https://www.moneycontrol.com/ipo/,3,1
+US Markets,https://www.moneycontrol.com/us-markets,10,2
+Pre Market,https://www.moneycontrol.com/markets/premarket/,10,2
+F&O,https://www.moneycontrol.com/markets/fno-market-snapshot,3,1
+FII & DII Activity,https://www.moneycontrol.com/markets/fii-dii-data/,18,4
+Corporate Action,https://www.moneycontrol.com/markets/corporate-action/,16,2
+PRO Stock Lists,https://www.moneycontrol.com/pro-stock-lists/,15,3
+Seasonality Analysis,https://www.moneycontrol.com/markets/seasonality-analysis/,20,2
+ETFs,https://www.moneycontrol.com/etfs-exchange-traded-funds/,4,1
+Big Shark Portfolios,https://www.moneycontrol.com/india-investors-portfolio/,20,3
+Stock Ideas,https://www.moneycontrol.com/markets/stock-ideas/,11,2
+Bonds,https://www.moneycontrol.com/bonds/,5,1
+Deals,https://www.moneycontrol.com/markets/stock-deals/,5,1
+Bulk Deals,https://www.moneycontrol.com/markets/stock-deals/bulk-deals/,10,2
+Block Deals,https://www.moneycontrol.com/markets/stock-deals/block-deals/,11,2
+Intraday Large Deals,https://www.moneycontrol.com/markets/stock-deals/large-deals/,20,3
+Commodity,https://www.moneycontrol.com/commodity/,9,1
+Currency,https://www.moneycontrol.com/markets/currencies/,8,1
+Cryptocurrency,https://www.moneycontrol.com/crypto-market/market-movers/top-cryptos/inr,14,1
+News,https://www.moneycontrol.com/news/,4,1
+Elections 2026,https://www.moneycontrol.com/elections/assembly-election/,14,2
+Business,https://www.moneycontrol.com/news/business/,8,1
+Economy,https://www.moneycontrol.com/news/business/economy/,7,1
+Companies,https://www.moneycontrol.com/news/business/companies/,9,1
+Mutual Funds,https://www.moneycontrol.com/news/business/mutual-funds/,12,2
+Personal Finance,https://www.moneycontrol.com/news/business/personal-finance/,16,2
+IPO,https://www.moneycontrol.com/news/business/ipo/,3,1
+Startup,https://www.moneycontrol.com/news/business/startup/,7,1
+Real Estate,https://www.moneycontrol.com/news/business/real-estate/,11,2
+Bank Holidays 2026,https://www.moneycontrol.com/banking/bank-holidays/,18,3
+Banking,https://www.moneycontrol.com/banking/,7,1
+India,https://www.moneycontrol.com/news/india/,5,1
+City,https://www.moneycontrol.com/city/,4,1
+World,https://www.moneycontrol.com/world/,5,1
+Politics,https://www.moneycontrol.com/news/politics/,8,1
+Defence,https://www.moneycontrol.com/defence/,7,1
+Markets,https://www.moneycontrol.com/news/business/markets/,7,1
+Stocks,https://www.moneycontrol.com/news/business/stocks/,6,1
+Technical Analysis,https://www.moneycontrol.com/news/tags/technical-analysis.html,18,2
+Equity Research,https://www.moneycontrol.com/equity-research/,15,2
+Commodities,https://www.moneycontrol.com/news/business/commodities/,11,1
+Gold Rate,https://www.moneycontrol.com/news/gold-rates-today/,9,2
+Silver Rate,https://www.moneycontrol.com/news/silver-rates-today/,11,2
+AQI,https://www.moneycontrol.com/aqi/,3,1
+Earnings,https://www.moneycontrol.com/news/business/earnings/,8,1
+Trends,https://www.moneycontrol.com/news/trends/,6,1
+Opinion,https://www.moneycontrol.com/news/opinion/,7,1
+Explainers,https://www.moneycontrol.com/explainers/,10,1
+MC Buzz,https://www.moneycontrol.com/mc-buzz/,7,2
+MC Features,https://www.moneycontrol.com/features/,11,2
+Personal Tech,https://www.moneycontrol.com/technology/,13,2
+Auto,https://www.moneycontrol.com/automobile/,4,1
+Fintech,https://www.moneycontrol.com/news/fintech/,7,1
+Podcast,https://www.moneycontrol.com/podcast/,7,1
+Photos,https://www.moneycontrol.com/news/photos/,6,1
+Videos,https://www.moneycontrol.com/news/videos/,6,1
+Web Stories,https://www.moneycontrol.com/web-stories/,11,2
+Crypto Dashboard,https://www.moneycontrol.com/cryptocurrency/,16,2
+IFSC Code Finder,https://www.moneycontrol.com/banking/ifsc/,16,3
+Petrol Price in India,https://www.moneycontrol.com/fuel-price/petrol-price-in-india/,21,4
+Diesel Price in India,https://www.moneycontrol.com/fuel-price/diesel-price-in-india/,21,4
+Eco Pulse,https://www.moneycontrol.com/mc-business-index/,9,2
+MC Learn,https://www.moneycontrol.com/mc-learn,8,2
+Entertainment,https://www.moneycontrol.com/entertainment/,13,1
+Sports,https://www.moneycontrol.com/sports/,6,1
+Lifestyle,https://www.moneycontrol.com/lifestyle/,9,1
+Health and Fitness,https://www.moneycontrol.com/health-and-fitness/,18,3
+Education,https://www.moneycontrol.com/education/,9,1
+Jobs,https://www.moneycontrol.com/jobs/,4,1
+Science,https://www.moneycontrol.com/science/,7,1
+Astro,https://www.moneycontrol.com/astrology/,5,1
+Religion,https://www.moneycontrol.com/religion/,8,1
+Travel,https://www.moneycontrol.com/news/trends/travel/,6,1
+Editorâs Picks,https://www.moneycontrol.com/editors-picks/,16,2
+Tech,https://www.moneycontrol.com/news/technology-startups,4,1
+Learning Curve,https://www.moneycontrol.com/courses/,14,2
+Mutual Funds,https://www.moneycontrol.com/mutual-funds/,12,2
+Find Fund,https://www.moneycontrol.com/mutual-funds/find-fund/,9,2
+Top Ranked Funds,https://www.moneycontrol.com/mutual-funds/find-fund/top-rated-schemes/,16,3
+Performance Tracker,https://www.moneycontrol.com/mutual-funds/performance-tracker/returns/large-cap-fund.html?invCatgryId=925732860,19,2
+Gold Loan,https://www.moneycontrolpay.com/gold-loan/,9,2
+NFO,https://www.moneycontrol.com/mutual-funds/new-fund-offers,3,1
+Learn,https://www.moneycontrol.com/mutualfundindia/learn/,5,1
+Returns Calculator,https://www.moneycontrol.com/mutual-funds/sip-planner,18,2
+Lumpsum SIP Balancer,https://www.moneycontrol.com/mutual-funds/tools/lumpsum-sip-balancer,20,3
+Delay Cost Calculator,https://www.moneycontrol.com/mutual-funds/tools/delay-cost-calculator,21,3
+MF Forum,https://www.moneycontrol.com/mutualfundindia/mutual-fund-discussion-forum/,8,2
+Your MF Investment,https://www.moneycontrol.com/personal-finance/portfolio-management/PORTFOLIO/returns,18,3
+MF Prices,https://www.moneycontrol.com/personal-finance/portfolio-management/WATCHLIST/returns,9,2
+Personal Finance,https://www.moneycontrol.com/personal-finance/,16,2
+Investing,https://www.moneycontrol.com/personal-finance/investing/,9,1
+Insurance,https://www.moneycontrol.com/personal-finance/insurance/,9,1
+Banking,https://www.moneycontrol.com/personal-finance/banking/,7,1
+Financial Planning,https://www.moneycontrol.com/personal-finance/financialplanning/,18,2
+Property,https://www.moneycontrol.com/real-estate-property/,8,1
+Tools,https://www.moneycontrol.com/personal-finance/tools/,5,1
+Video,https://www.moneycontrol.com/personal-finance/videos/,5,1
+Ask Expert,https://www.moneycontrol.com/forum-topics/ask-the-expert/,10,2
+Explainer,https://www.moneycontrol.com/personal-finance/explainer/,9,1
+National Pension Scheme,https://www.moneycontrol.com/personal-finance/nps-national-pension-scheme,23,3
+Fixed Deposit Comparison,https://www.moneycontrol.com/fixed-deposit/fd-interest-rates/,24,3
+Fixed Deposit Interest Calculator,https://www.moneycontrol.com/fixed-income/calculator/fixed-deposit-calculator.html,33,4
+Corporate Deposits,https://www.moneycontrol.com/news/tags/company-fixed-deposits.html,18,2
+Income tax Filing Guide,https://www.moneycontrol.com/news/business/personal-finance/income-tax-filing/,23,4
+Income Tax Calculator,https://www.moneycontrol.com/personal-finance/tools/income-tax-calculator,21,3
+LTCG Tax on Property,https://www.moneycontrol.com/personal-finance/tools/capital-gain-tax-calculator.html,20,4
+Loans,https://www.moneycontrol.com/loans/,5,1
+Personal Loan,https://www.moneycontrol.com/loans/personal-loan/,13,2
+Instant Loan,https://www.moneycontrol.com/loans/instant-loan/,12,2
+EMI Calculator,https://www.moneycontrol.com/personal-finance/loans/personal-loan/calculator,14,2
+Personal Loan Articles,https://www.moneycontrol.com/news/tags/personal-loan.html,22,3
+Provident Fund Calculator,https://www.moneycontrol.com/personal-finance/tools/provident-fund-calculator.html,25,3
+Assets Allocation Planning,https://www.moneycontrol.com/personal-finance/tools/asset-allocation-calculator.html,26,3
+Debt Reduction Planner,https://www.moneycontrol.com/personal-finance/tools/debt-reduction-plan-calculator.html,22,3
+Debt Evaluation Calculator,https://www.moneycontrol.com/personal-finance/tools/debt-evaluation-calculator.html,26,3
+Current Expense Calculator,https://www.moneycontrol.com/personal-finance/tools/current-expenses-calculator.html,26,3
+Finance Tracker,https://www.moneycontrol.com/account-aggregator,15,2
+Real Estate : Trends & Analytics,https://www.moneycontrol.com/property-rates/mumbai,32,6
+Gold Price Today,https://www.moneycontrol.com/news/gold-rates-today/?utm_source=mcpf&utm_medium=desktop&utm_campaign=L1PF,16,3
+Upcoming Chat,https://www.moneycontrol.com/news/mgmtinterviews/chats/detail_new.php?type=upcoming,13,2
+Previous Transcripts,https://www.moneycontrol.com/news/mgmtinterviews/chats/archives_new.php,20,2
+All Schedule,https://www.moneycontrol.com/news/mgmtinterviews/chats/detail_new.php,12,2
+Membership Rules,https://mmb.moneycontrol.com/membership-rules/,16,2
+Forum Topics,https://mmb.moneycontrol.com/forum-topics/,12,2
+Ask the Expert,https://mmb.moneycontrol.com/forum-topics/ask-the-expert/,14,3
+Top Boarders,https://mmb.moneycontrol.com/top-boarders/,12,2
+User Profile,javascript:;,12,2
+Latest Threads,https://mmb.moneycontrol.com/forum-topics/latest-threads.html,14,2
+Stocks,https://mmb.moneycontrol.com/forum-topics/stocks-1.html,6,1
+Index,https://mmb.moneycontrol.com/forum-topics/market-view/index-246280.html,5,1
+Gold,https://mmb.moneycontrol.com/forum-topics/commodity/gold-509313.html,4,1
+Personal Finance,https://mmb.moneycontrol.com/forum-topics/personal-finance-5.html,16,2
+Just Posted,https://mmb.moneycontrol.com/forum-topics/market-view/just-posted-509249.html,11,2
+Latest Polls,https://mmb.moneycontrol.com/poll/,12,2
+Historical Polls,https://mmb.moneycontrol.com/poll/historical-polls/,16,2
+Market Sentiments,https://mmb.moneycontrol.com/poll/market-sentiments/,17,2
+FAQs,https://mmb.moneycontrol.com/faq/,4,1
+Code of Conduct,https://mmb.moneycontrol.com/code-of-conduct/,15,3
+Feedback,https://mmb.moneycontrol.com/forum-topics/feedback/about-mmb-160978.html,8,1
+Write to us,mailto:forum@moneycontrol.com,11,3
+Videos,https://www.moneycontrol.com/video-shows/,6,1
+Opening & Closing Bell,https://www.moneycontrol.com/shows/markets-with-moneycontrol/,22,4
+The Tenant,https://www.moneycontrol.com/shows/the-tenant/,10,2
+Drive Report,https://www.moneycontrol.com/shows/drive-report/,12,2
+Podcast on Demand,https://www.moneycontrol.com/news/tags/podcast.html,17,3
+The Week on Dalal Street,https://www.moneycontrol.com/news/podcast/the-week-on-dalal-street,24,5
+Market Minutes,https://www.moneycontrol.com/news/podcast/market-minutes,14,2
+MC Special Podcast,https://www.moneycontrol.com/news/podcast/mc-special-podcast,18,3
+Simply Save,https://www.moneycontrol.com/news/podcast/simply-save,11,2
+Policy Talks,https://www.moneycontrol.com/news/podcast/policy-talks,12,2
+Hindi,https://hindi.moneycontrol.com/tv/,5,1
+Gujarati,https://gujarati.moneycontrol.com/tv/,8,1
+Moneycontrol,https://www.moneycontrol.com,12,1
+Invest in top cryptocurrencies all over the world,https://www.moneycontrol.com/msite/mudrex,49,8
+Invest in Unlisted Shares,https://www.moneycontrol.com/msite/incred-money/,25,4
+#MFSimplified,https://www.moneycontrol.com/msite/mc-explains-mutual-fund-simplified,13,1
+#TheCryptoCapsuleSeries,https://www.moneycontrol.com/msite/binance,23,1
+Get App,https://play.google.com/store/apps/details?id=com.divum.MoneyControl&referrer=utm_source%3Dgoogle_play%26utm_medium%3Dorganic%26utm_campaign%3Dgetappbanner_eng,7,2
+Open in App,https://wz7ux.app.goo.gl/?link=https://www.moneycontrol.com/&utm_source=MC_OpeninApp&utm_medium=MC_WAP&utm_campaign=OpeninApp_Button&apn=com.divum.MoneyControl&ibi=com.moneycontrol.mc&isi=408654600,11,3
+News on WhatsApp,https://wa.me/918375815914?text=I want to receive news updates on WhatsApp,16,3
+Instant Cash up to 50 Lakhs,https://www.moneycontrolpay.com/?utm_source=headbands_web,27,6
+"Zerodha to refund DP charges on transfer-in of stocks; will simplify investment and tax tracking, says Nithin Kamath",https://www.moneycontrol.com/news/business/personal-finance/zerodha-to-refund-dp-charges-on-transfer-in-of-stocks-will-simplify-investment-and-tax-tracking-says-nithin-kamath-13940406.html,116,18
+"Cabinet clears Rs 10,000-crore package to stabilise ATF prices to shield airlines from crude shock",https://www.moneycontrol.com/news/business/cabinet-clear-rs-10-000-crore-package-to-stabilise-atf-prices-to-cushion-airlines-from-iran-war-price-shock-13940231.html,98,15
+"SEBI flags Rs 15.15 lakh crore revenue misstatement in 5 Years, Interim order against Rajesh Exports",https://www.moneycontrol.com/news/business/markets/sebi-flags-rs-15-15-lakh-crore-revenue-misstatement-in-interim-order-against-rajesh-exports-13940424.html,100,16
+Join Us on Telegram,https://t.me/moneycontrolcom,19,4
+Live TV,https://m.moneycontrol.com/live_tv.php,7,2
+Nifty 50,https://www.moneycontrol.com/indian-indices/nifty-50-9.html,8,2
+Sensex,https://www.moneycontrol.com/indian-indices/sensex-4.html,6,1
+MC INTERVIEW,https://www.moneycontrol.com/banking/sbi-will-take-the-lead-in-diversifying-liability-options-says-chairman-cs-setty-article-13940308.html,12,2
+Zepto nears $1 billion quarterly net order value milestone ahead of IPO,https://www.moneycontrol.com/news/business/zepto-nears-1-billion-net-order-value-milestone-ahead-of-ipo-13940410.html,71,12
+"ITC needs to increase cigarette costs by 35%, Motilal Oswal explains why",https://www.moneycontrol.com/news/business/markets/itc-needs-to-increase-cigarette-costs-by-35-motilal-oswal-explains-why-13940357.html,72,12
+See More News,/news/,13,3
+"Need to relook at liabilities, canât rely only on deposits, says SBI Chairman",https://www.moneycontrol.com/news/business/need-to-relook-at-liabilities-can-t-rely-only-on-deposits-says-sbi-chairman-13940524.html,79,13
+SBI Chairman speaks exclusively to Moneycontrol,https://www.moneycontrol.com/news/videos/business/sbi-chairman-speaks-exclusively-to-moneycontrol-13940511.html,47,6
+Trump Tariffs: U.S. Proposes Additional 12.5% Tariffs On India,https://www.moneycontrol.com/world/trump-tariffs-u-s-proposes-additional-12-5-tariffs-on-india-videoshow-13940515.html,62,9
+Trump Says Iran Wants A Deal Despite Fresh US Strikes And Iranian Retaliation,https://www.moneycontrol.com/world/trump-says-iran-wants-a-deal-despite-fresh-us-strikes-and-iranian-retaliation-videoshow-13937766.html,77,13
+"Trump Hits Pause On Iran Deal Again, Demands More Changes",https://www.moneycontrol.com/world/trump-hits-pause-on-iran-deal-again-demands-more-changes-videoshow-13937590.html,57,10
+Anthropic brings Project Glasswing to India and 14 more countries with access to controversial Mythos AI model,https://www.moneycontrol.com/technology/anthropic-brings-project-glasswing-to-india-and-14-more-countries-with-access-to-controversial-mythos-ai-model-article-13940096.html,110,17
+"Cabinet approves Rs 9,585 crore scheme to replace old trucks and buses in Delhi-NCR, auto industry welcomes move",https://www.moneycontrol.com/automobile/cabinet-approves-rs-9585-crore-scheme-to-replace-old-trucks-and-buses-in-delhi-ncr-auto-industry-welcomes-move-article-13940516.html,112,18
+MC EXPLAINER,https://www.moneycontrol.com/news/india/bharatpe-flex-explained-how-the-new-credit-on-upi-product-lets-users-pay-first-and-settle-later-13940494.html,12,2
+"Suryakumar Yadav to be axed as India's T20 captain; Iyer, Tilak Varma among top contenders to replace SKY: Source",https://www.moneycontrol.com/sports/cricket/suryakumar-yadav-to-be-axed-as-india-s-t20-captain-iyer-tilak-varma-among-top-contenders-to-replace-sky-source-article-13940474.html,113,19
+"Bengaluru ORR flooding: Outer Ring Road Companies Association calls for corridor-wide drainage overhaul, real-time response system",https://www.moneycontrol.com/news/india/bengaluru-orr-flooding-outer-ring-road-companies-association-calls-for-corridor-wide-drainage-overhaul-real-time-response-system-13940452.html,130,16
+Dhurandhar The Revenge lands 50 sponsors ahead of JioHotstar debut,https://www.moneycontrol.com/entertainment/dhurandhar-the-revenge-lands-50-sponsors-ahead-of-jiohotstar-debut-article-13940487.html,66,10
+"'It's not over in Iran yet': Netanyahu says Israel, US ready for military action, leaves decision to Trump",https://www.moneycontrol.com/world/it-s-not-over-in-iran-yet-netanyahu-says-israel-us-ready-for-military-action-leaves-decision-to-trump-article-13940481.html,106,18
+More News,#keynwstb1_in_focus,9,2
+Recent News,#keynwstb2_in_the_news,11,2
+India eyes $2 billion tactical drone procurement in major military push: Report,https://www.moneycontrol.com/defence/india-eyes-2-billion-tactical-drone-procurement-in-major-military-push-report-article-13940139.html,79,12
+New Bengal LoP and leader of the rebel camp: Who is Ritabrata Banerjee?,https://www.moneycontrol.com/news/india/new-bengal-lop-and-leader-of-the-rebel-camp-who-is-ritabrata-banerjee-13940422.html,71,13
+"SpaceX, OpenAI and Anthropic IPOs are coming: Can Indian investors participate?",https://www.moneycontrol.com/news/business/personal-finance/spacex-openai-and-anthropic-ipos-are-coming-can-indian-investors-participate-13939808.html,79,11
+"RBI denies selling gold, says holdings unchanged at 880.52 tonnes",https://www.moneycontrol.com/news/business/economy/rbi-rejects-report-of-gold-sale-says-physical-stock-remains-unchanged-at-880-52-tonnes-13939739.html,65,10
+"While large-cap and flexi-cap funds faltered, this category surged 9% in last 3 months",https://www.moneycontrol.com/news/business/personal-finance/while-large-cap-and-flexi-cap-funds-faltered-this-category-surged-9-in-last-3-months-13940150.html,86,14
+21 killed in Delhi's Malviya Nagar hotel fire; several foreign nationals among dead,https://www.moneycontrol.com/city/delhi-restaurant-fire-kills-10-as-massive-blaze-engulfs-multi-storey-building-in-malviya-nagar-article-13939687.html,83,13
+More News,#keynwstb1,9,2
+Recent News,#keynwstb2,11,2
+Vance or Rubio? Trump drops his biggest clue yet about who could lead Republicans after him,https://www.moneycontrol.com/world/vance-or-rubio-trump-drops-his-biggest-clue-yet-about-who-could-lead-republicans-after-him-article-13940463.html,91,16
+TCS shares slide to 6-year low after 9% crash; what lies ahead?,https://www.moneycontrol.com/news/business/markets/tcs-shares-slide-to-6-year-low-after-9-crash-what-lies-ahead-13940159.html,63,12
+S&P 500 falls as deadly US-Iran flareup threatens peace hopes,https://www.moneycontrol.com/news/business/markets/s-p-500-falls-as-deadly-us-iran-flareup-threatens-peace-hopes-13940428.html,61,10
+US proposes 12.5% 'forced labour' tariff on India while others face 10%: Why New Delhi is in higher bracket,https://www.moneycontrol.com/world/us-proposes-12-5-forced-labour-tariff-on-india-while-others-face-10-why-new-delhi-is-in-higher-bracket-explained-article-13939991.html,107,19
+US-India trade deal 99% complete; Sergio Gor to meet Goyal tomorrow as both sides work through final 1% technical hurdles,https://www.moneycontrol.com/news/business/markets/us-india-trade-deal-99-complete-sergio-gor-to-meet-goyal-tomorrow-as-both-sides-work-through-final-1-technical-hurdles-13940193.html,121,20
+"Before cashing out your EPF, understand these important tax consequences",https://www.moneycontrol.com/news/business/personal-finance/before-cashing-out-your-epf-understand-these-important-tax-consequences-13940339.html,72,10
+"TCS, Infosys, Wipro took over 300,000 Microsoft Copilot licences in 6 months",https://www.moneycontrol.com/news/business/information-technology/tcs-infosys-wipro-took-over-300-000-microsoft-copilot-licences-in-6-months-13939791.html,76,12
+T Gnanasekar,http://www.moneycontrol.com/gamechangers/tgnanasekar?utm_source=bottomfive,12,2
+Gujarat to set up separate Service Commissionerate; minister says first such move in country,https://www.moneycontrol.com/news/india/gujarat-to-set-up-separate-service-commissionerate-minister-says-first-such-move-in-country-13940548.html,92,14
+Coal block 'scam': Delhi court discharges Hindalco,https://www.moneycontrol.com/news/business/coal-block-scam-delhi-court-discharges-hindalco-13940547.html,50,7
+Suzlon to diversify beyond wind; pump Rs 500 cr in new arm this fiscal,https://www.moneycontrol.com/news/business/suzlon-to-diversify-beyond-wind-pump-rs-500-cr-in-new-arm-this-fiscal-13940546.html,70,14
+WHO says Ebola response catching up as confirmed DRC cases hit 344,https://www.moneycontrol.com/world/who-says-ebola-response-catching-up-as-confirmed-drc-cases-hit-344-article-13940544.html,66,12
+Oshea Herbals sets Rs 650 crore target amid expansion push,https://www.moneycontrol.com/news/business/oshea-herbals-sets-rs-650-crore-target-amid-expansion-push-13940534.html,58,10
+Owner of Malviya Nagar hotel arrested hours after devastating fire kills 21,https://www.moneycontrol.com/city/owner-of-malviya-nagar-hotel-arrested-hours-after-devastating-fire-kills-21-article-13940539.html,75,12
+"Niharika Chouksey breaks silence on Tumm Se Tumm Tak exit rumours, says âI am not going anywhereâ",https://www.moneycontrol.com/entertainment/niharika-chouksey-breaks-silence-on-tumm-se-tumm-tak-exit-rumours-says-i-am-not-going-anywhere-article-13940538.html,101,17
+"California bank hostage standoff ends after 15 hours; FBI shoots suspect, hostages safe",https://www.moneycontrol.com/world/california-bank-hostage-standoff-ends-after-15-hours-fbi-shoots-suspect-hostages-safe-article-13940535.html,87,13
+"Free bus passes for students, private employment exchange: Shivakumar's first Cabinet decisions as Karnataka CM",https://www.moneycontrol.com/news/india/free-bus-passes-for-students-private-employment-exchange-shivakumar-s-first-cabinet-decisions-as-karnataka-cm-13940527.html,111,15
+Nine residential societies in Ahmedabad affected with contaminated water; 50 fall ill,https://www.moneycontrol.com/city/nine-residential-societies-in-ahmedabad-affected-with-contaminated-water-50-fall-ill-article-13940525.html,85,12
+"Peddi Twitter Review: Ram Charan's performance wins hearts; netizens hail powerful interval, electrifying cricket sequences",https://www.moneycontrol.com/entertainment/peddi-twitter-review-ram-charan-s-performance-wins-hearts-netizens-hail-powerful-interval-electrifying-cricket-sequences-article-13940521.html,123,15
+UP Cabinet approves amendments to Semiconductor Policy 2024,https://www.moneycontrol.com/news/india/up-cabinet-approves-amendments-to-semiconductor-policy-2024-13940520.html,59,8
+Ethiopian Wolf: Africaâs most endangered wolf that eats flower,https://www.moneycontrol.com/science/ethiopian-wolf-africas-most-endangered-wolf-that-eats-flower-visual-story-3690466.html,64,9
+Smooth-coated Otter: Meet endangered otter species of India,https://www.moneycontrol.com/science/smooth-coated-otter-meet-one-of-the-endagered-otter-species-of-india-2-visual-story-3685835.html,59,8
+World Fish Migration Day 2026: 8 fishes migrate to India in Summers,https://www.moneycontrol.com/science/world-fish-migration-day-2026-8-fishes-migrate-to-india-in-summers-visual-story-3680964.html,67,12
+World Bee Day 2026: Meet 10 most poisonous bees of India!,https://www.moneycontrol.com/science/world-bee-day-2026-meet-10-most-poisonous-bees-of-india-visual-story-3678079.html,57,11
+Meet White-tailed Ptarmigan: This bird can change its colour seasonally!,https://www.moneycontrol.com/science/meet-white-tailed-ptarmigan-this-0-5-kg-bird-change-its-colour-according-to-seasons-visual-story-3677911.html,72,10
+Endangered Species Day 2026: Meet 10 endangered animals of India fighting for survival,https://www.moneycontrol.com/science/endangered-species-day-2026-meet-10-endangered-animals-of-india-fighting-for-survival-visual-story-3672692.html,86,13
+Markets end on weak note amid FII selling; rupee extends gains,https://www.moneycontrol.com/news/photos/business/markets/markets-end-on-weak-note-amid-fii-selling-rupee-extends-gains-13936185.html,62,11
+Rishabh Pant's IPL contract 5x more than total prize pool of PSL 2026,https://www.moneycontrol.com/sports/cricket/rishabh-pant-s-ipl-contract-5x-more-than-total-prize-pool-of-psl-2026-photo-gallery-13908385.html,69,13
+"Markets fall for fifth straight week, longest losing streak since August 2025; Rupee at record low",https://www.moneycontrol.com/news/photos/business/markets/markets-fall-for-fifth-straight-week-longest-losing-streak-since-august-2025-rupee-at-record-low-13873081.html,98,16
+Benchmarks flat in volatile week; rupee weakens against dollar,https://www.moneycontrol.com/news/photos/business/markets/benchmarks-flat-in-volatile-week-rupee-weakens-against-dollar-13776595.html,62,9
+Team India's probable playing 11 for T20 World Cup 2026,https://www.moneycontrol.com/sports/cricket/team-india-s-probable-playing-11-for-t20-world-cup-2026-photo-gallery-13737108.html,55,10
+Lionel Messi visits wildlife conservation centre Vantara in Jamnagar | In Pictures,https://www.moneycontrol.com/news/photos/india/lionel-messi-s-visit-to-vantara-wildlife-centre-in-pictures-13728705.html,82,12
+Market climbs to fresh high amid volatility; rupee at record low,https://www.moneycontrol.com/news/photos/business/markets/market-climbs-to-fresh-high-amid-volatility-rupee-at-record-low-13713427.html,64,11
+Modiâs handcrafted diplomacy: Special gifts presented to President Putin | See pics,https://www.moneycontrol.com/world/modi-s-handcrafted-diplomacy-six-special-gifts-presented-to-president-putin-see-pics-photo-gallery-13713276.html,85,12
+The IndiaâRussia arms equation | In Pics,https://www.moneycontrol.com/news/india/the-india-russia-arms-equation-in-pics-13709306.html,42,7
+"Pause in repo rate would be an appropriate decision by MPC, says SBI Chairman",https://www.moneycontrol.com/banking/pause-in-repo-rate-would-be-an-appropriate-decision-by-mpc-says-sbi-chairman-article-13939313.html,77,14
+Anthropic offers Mythos access to organisations in India and other countries,https://www.moneycontrol.com/artificial-intelligence/anthropic-expands-mythos-access-to-150-organisations-across-15-countries-article-13939004.html,76,11
+India's tyre exports defy Trump tariffs to hit a record high in FY26,https://www.moneycontrol.com/automobile/india-s-tyre-exports-defy-trump-tariffs-to-hit-a-record-high-in-fy26-article-13940013.html,68,13
+UAE beats Saudi to emerge India's second-largest crude supplier in May,https://www.moneycontrol.com/news/india/uae-beats-saudi-to-emerge-india-s-second-largest-crude-supplier-in-may-13939682.html,70,11
+"At Rs 400 crore every trading hour, FII secondary market selling in 2026 so far runs at twice the 2025 pace",https://www.moneycontrol.com/news/business/earnings/at-rs-400-crore-every-trading-hour-fii-secondary-market-selling-in-2026-so-far-runs-at-twice-the-2025-pace-13938984.html,107,21
+AI is splitting Dalal Street on IT stocks â and nobody knows who wins yet,https://www.moneycontrol.com/news/business/markets/ai-is-splitting-dalal-street-on-it-stocks-and-nobody-knows-who-wins-yet-13939810.html,75,15
+"AI startup funding falls 10% to $725 million in Jan-May as investors shift to smaller, early-stage bets",https://www.moneycontrol.com/news/business/funding/ai-startup-funding-falls-10-to-725-million-in-jan-may-as-investors-shift-to-smaller-early-stage-bets-13939218.html,103,17
+Why more companies are choosing SEBI's confidential IPO filing route,https://www.moneycontrol.com/news/business/markets/why-more-companies-are-choosing-sebi-s-confidential-ipo-filing-route-13939224.html,68,10
+Government wants AI to write tenders and check them for compliance too,https://www.moneycontrol.com/artificial-intelligence/government-wants-ai-to-write-tenders-and-check-them-for-compliance-too-article-13939324.html,70,12
+"Bengaluru leads India's bus travel boom as more women, Gen Z hit the road",https://www.moneycontrol.com/travel/bengaluru-leads-india-s-bus-travel-boom-as-more-women-gen-z-hit-the-road-article-13939327.html,73,14
+Book Extract | Chinaâs Wars: The Politics And Diplomacy Behind Its Military Coercion,https://www.moneycontrol.com/books/book-extract-china-s-wars-the-politics-and-diplomacy-behind-its-military-coercion-article-13940250.html,86,13
+"'Doctors in Mumbai have BMW, Mercedes, Audi': IIT grad laid off from big tech backs MBBS as safest career",https://www.moneycontrol.com/news/trends/doctors-in-mumbai-have-bmw-mercedes-audi-iit-grad-laid-off-from-big-tech-backs-mbbs-as-safest-career-13940434.html,105,19
+"Gujarat tourists perform garba at landslide site, trigger backlash: 'Money can't buy class'",https://www.moneycontrol.com/news/trends/gujarat-tourists-perform-garba-at-landslide-site-trigger-backlash-money-can-t-buy-class-13940450.html,91,13
+"Long hours, hidden rules, no job satisfaction: Indian woman shares brutal reality of working in South Korea",https://www.moneycontrol.com/news/trends/long-hours-hidden-rules-no-job-satisfaction-indian-woman-shares-brutal-reality-of-working-in-south-korea-13940493.html,107,17
+"When Aamir Khan opened up about his future plans with Gauri Spratt: ""We are really serious about each other...""",https://www.moneycontrol.com/entertainment/when-aamir-khan-opened-up-about-his-future-plans-with-gauri-spratt-we-are-really-serious-about-each-other-article-13940364.html,111,19
+Meet Kovid Boob: JEE Advanced 2026 SC category topper from Nagpur who secured AIR 82 after 3 years of preparation,https://www.moneycontrol.com/education/meet-kovid-boob-jee-advanced-2026-sc-category-topper-from-nagpur-who-secured-air-82-after-3-years-of-preparation-article-13939755.html,113,20
+"Re-NEET Question Paper for Rs 50,000? Telegram channels claim to sell 'Re-NEET' test paper, cybercrime complaint filed in Ahmedabad",https://www.moneycontrol.com/education/re-neet-question-paper-for-rs-50-000-telegram-channels-claim-to-sell-re-neet-test-paper-cybercrime-complaint-filed-in-ahmedabad-article-13939972.html,131,19
+'Edison of India': Meet GD Naidu â a school dropout who built India's first electric motor in 1930,https://www.moneycontrol.com/education/edison-of-india-meet-gd-naidu-a-school-dropout-who-built-india-s-first-electric-motor-in-1930-article-13940148.html,100,18
+"Meet the 'Potato Patch': A giant 1,800-year-old coral in Lakshadweep is size of a football-field",https://www.moneycontrol.com/science/meet-the-potato-patch-a-giant-1-800-year-old-coral-in-lakshadweep-is-size-of-a-football-field-article-13939452.html,96,15
+"Vibhuvana Sankashti Chaturthi 2026: Is this event on June 3 or June 4? Correct vrat date, moonrise time and shubh muhurat",https://www.moneycontrol.com/religion/vibhuvana-sankashti-chaturthi-2026-is-this-event-on-june-3-or-june-4-correct-vrat-date-moonrise-time-and-shubh-muhurat-article-13939557.html,121,21
+"Zohoâs Sridhar Vembu outlines Karuviâs strategy against Chinese power tool imports; says âMatching global quality was...""",https://www.moneycontrol.com/technology/zoho-s-sridhar-vembu-outlines-karuvi-s-strategy-against-chinese-power-tool-imports-says-matching-global-quality-was-article-13939279.html,127,16
+"Apple iPhone 16 price drops to Rs 40,041 in Croma Apple sale; buyers will also get an free Apple charger worth Rs 2,190",https://www.moneycontrol.com/technology/apple-iphone-16-price-drops-to-rs-40-041-in-croma-apple-sale-buyers-will-also-get-an-free-apple-charger-worth-rs-2-190-article-13938746.html,119,23
+"7 best hill stations to visit this summer for peace, cool breeze and zero chaos",https://www.moneycontrol.com/lifestyle/7-best-hill-stations-to-visit-this-summer-for-peace-cool-breeze-and-zero-chaos-article-13938210.html,79,15
+"Your kitchen sponge is quietly releasing microplastics in your dishes, study finds",https://www.moneycontrol.com/health-and-fitness/your-kitchen-sponge-is-quietly-releasing-microplastics-in-your-dishes-study-finds-article-13938237.html,82,12
+"This is the best breakfast for weight loss, according to a gut doctor",https://www.moneycontrol.com/health-and-fitness/this-is-the-best-breakfast-for-weight-loss-according-to-a-gut-doctor-article-13937702.html,69,13
+Sensex,https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-03-06-2026-liveblog-13939139.html,6,1
+US tariffs on India,https://www.moneycontrol.com/world/us-proposes-up-to-12-5-tariff-on-india-59-other-economies-over-forced-labour-article-13939235.html,19,4
+IT shares crash,https://www.moneycontrol.com/news/business/markets/it-index-crashes-3-5-snaps-3-day-rally-amid-profit-booking-tcs-techm-infy-fall-up-to-6-13939287.html,15,3
+Ananya Birla,https://www.moneycontrol.com/lifestyle/fashion/ananya-birla-wears-blazers-80-of-the-time-the-one-styling-trick-that-makes-it-never-look-boring-article-13939453.html,12,2
+DK Shivakumar,https://www.moneycontrol.com/news/india/dk-shivakumar-to-take-oath-as-karnataka-cm-today-state-set-for-leadership-transition-13939194.html,13,2
+Ask the Xpert,https://www.moneycontrol.com/pro-live-advisor/,13,3
+My Alerts,https://www.moneycontrol.com/my-alerts?utm_source=market_action&utm_medium=web&utm_campaign=my_feed_cta,9,2
+My Alerts,https://www.moneycontrol.com/my-alerts?utm_source=market_action&utm_medium=wap&utm_campaign=my_feed_cta,9,2
+NIFTY 50,https://www.moneycontrol.com/indian-indices/cnx-nifty-9.html,8,2
+1 day,#mac1d,5,2
+Advance / Decline (NSE),https://www.moneycontrol.com/stocksmarketsindia/heat-map-advance-decline-ratio-nse-bse,23,4
+Nasdaq,https://www.moneycontrol.com/live-index/nasdaq,6,1
+FTSE,https://www.moneycontrol.com/live-market/ftse,4,1
+India,#inBN,5,1
+United States,#usM,13,2
+TCS,https://www.moneycontrol.com/india/stockpricequote/computers-software/tataconsultancyservices/TCS,3,1
+SBI,https://www.moneycontrol.com/india/stockpricequote/banks-public-sector/statebankindia/SBI,3,1
+Reliance,https://www.moneycontrol.com/india/stockpricequote/refineries/relianceindustries/RI,8,1
+Apollo Hospital,https://www.moneycontrol.com/india/stockpricequote/hospitals-medical-services/apollohospitalsenterprises/AHE,15,2
+TMPV,https://www.moneycontrol.com/india/stockpricequote/automobile-passenger-cars/tatamotorspassengervehicles/TM03,4,1
+Max Healthcare,https://www.moneycontrol.com/india/stockpricequote/hospital-healthcare-services/maxhealthcareinstitute/MHI,14,2
+ICICI Bank,https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/icicibank/ICI02,10,2
+Trent,https://www.moneycontrol.com/india/stockpricequote/retail/trent/T04,5,1
+Interglobe Avi,https://www.moneycontrol.com/india/stockpricequote/transport-logistics/interglobeaviation/IA04,14,2
+Power Grid Corp,https://www.moneycontrol.com/india/stockpricequote/power-generation-distribution/powergridcorporationindia/PGC,15,3
+Tech Mahindra,https://www.moneycontrol.com/india/stockpricequote/computers-software/techmahindra/TM4,13,2
+HCL Tech,https://www.moneycontrol.com/india/stockpricequote/computers-software/hcltechnologies/HCL02,8,2
+Wipro,https://www.moneycontrol.com/india/stockpricequote/computers-software/wipro/W,5,1
+ITC,https://www.moneycontrol.com/india/stockpricequote/diversified/itc/ITC,3,1
+Hourly Gainers,https://www.moneycontrol.com/stocks/marketstats/hourly_gain/bse/curr_hour/index.php,14,2
+Hourly Losers,https://www.moneycontrol.com/stocks/marketstats/hourly_loss/bse/curr_hour/index.php,13,2
+Volume Shockers,https://www.moneycontrol.com/stocks/market-stats/volume-shockers-bse/,15,2
+Price Shockers,https://www.moneycontrol.com/stocks/market-stats/price-shockers-bse/,14,2
+F&O Top Gainers,https://www.moneycontrol.com/stocks/fno/marketstats/futures/gainers/homebody.php?opttopic=&optinst=allfut&sel_mth=all&sort_order=0,15,3
+F&O Top Losers,https://www.moneycontrol.com/stocks/fno/marketstats/futures/losers/homebody.php?opttopic=&optinst=allfut&sel_mth=all&sort_order=0,14,3
+Sector Scan,https://www.moneycontrol.com/stocks/marketstats/sector-scan/bse/today.html,11,2
+Delivery Stats,https://www.moneycontrol.com/india/stockmarket/stock-deliverables/marketstatistics/bse/abrasives.html,14,2
+Data Bank,https://www.moneycontrol.com/stocks/data-bank/standalone/auto-2-3-wheelers.html,9,2
+Top Gainers,https://www.moneycontrol.com/us-markets/market-movers/top-gainers?index=Dow%20jones,11,2
+Walmart,https://www.moneycontrol.com/us-markets/stockpricequote/walmart/WMT,7,1
+Intel,https://www.moneycontrol.com/us-markets/stockpricequote/intel/INTC,5,1
+Amgen,https://www.moneycontrol.com/us-markets/stockpricequote/amgen/AMGN,5,1
+Chevron,https://www.moneycontrol.com/us-markets/stockpricequote/chevron/CVX,7,1
+UnitedHealth,https://www.moneycontrol.com/us-markets/stockpricequote/unitedhealth/UNH,12,1
+Top Losers,https://www.moneycontrol.com/us-markets/market-movers/top-losers?index=Dow%20jones,10,2
+IBM,https://www.moneycontrol.com/us-markets/stockpricequote/ibm/IBM,3,1
+Salesforce.com,https://www.moneycontrol.com/us-markets/stockpricequote/salesforcecom/CRM,14,1
+Microsoft,https://www.moneycontrol.com/us-markets/stockpricequote/microsoft/MSFT,9,1
+Nvidia,https://www.moneycontrol.com/us-markets/stockpricequote/nvidia/NVDA,6,1
+Amazon,https://www.moneycontrol.com/us-markets/stockpricequote/amazon/AMZN,6,1
+Top Companies,https://www.moneycontrol.com/us-markets/market-movers/top-companies-by-market-cap?index=Dow%20jones,13,2
+Apple Inc,https://www.moneycontrol.com/us-markets/stockpricequote/appleinc/AAPL,9,2
+HDFC Flexi Cap Fund - Direct Plan - (G),http://pubads.g.doubleclick.net/gampad/clk?id=7232791411&iu=/1039154/Moneycontrol/MC_Click_Tracker,39,9
+Motilal Oswal Midcap Fund - Direct Plan (G),https://pubads.g.doubleclick.net/gampad/clk?id=6372401001&iu=/1039154/Moneycontrol/MC_Click_Tracker,43,8
+Motilal Oswal Small Cap Fund - Direct Plan - Growth,https://pubads.g.doubleclick.net/gampad/clk?id=7136984791&iu=/1039154/Moneycontrol/MC_Click_Tracker,51,10
+UTI Small Cap Fund - Regular Plan - (G),https://pubads.g.doubleclick.net/gampad/clk?id=7278450473&iu=/1039154/Moneycontrol/MC_Click_Tracker,39,9
+HDFC Small Cap Fund - Direct Plan (G),https://pubads.g.doubleclick.net/gampad/clk?id=7230567519&iu=/1039154/Moneycontrol/MC_Click_Tracker,37,8
+MCX,#keymactb1,3,1
+NCDEX,#keymactb2,5,1
+Gold-Jun 05,https://www.moneycontrol.com/commodity/mcx-gold-price?type=futures&exp=2026-06-05,11,2
+Silver-Jul 03,https://www.moneycontrol.com/commodity/mcx-silver-price?type=futures&exp=2026-07-03,13,2
+Crudeoil-Jun 18,https://www.moneycontrol.com/commodity/mcx-crudeoil-price?type=futures&exp=2026-06-18,15,2
+Naturalgas-Jun 25,https://www.moneycontrol.com/commodity/mcx-naturalgas-price?type=futures&exp=2026-06-25,17,2
+USDINR - Jun 25,https://www.moneycontrol.com/currency/bse-usdinr-price.html#25JUN2026,15,4
+EURINR - Jun 25,https://www.moneycontrol.com/currency/bse-eurinr-price.html#25JUN2026,15,4
+JPYINR - Jun 25,https://www.moneycontrol.com/currency/bse-jpyinr-price.html#25JUN2026,15,4
+GBPINR - Jun 25,https://www.moneycontrol.com/currency/bse-gbpinr-price.html#25JUN2026,15,4
+SAMMAAN CAPITAL LIMITED,https://www.moneycontrol.com/bonds/corporate-bonds/9-2-sammaan-capital-limited-01-aug-2032/INE148I07XN4,23,3
+SAMMAAN CAPITAL LIMITED,https://www.moneycontrol.com/bonds/corporate-bonds/10-03-sammaan-capital-limited-27-dec-2031/INE148I07VA5,23,3
+NATIONAL BANK FOR FINANCING INFRASTRUCTURE AND DEVELOPMENT,https://www.moneycontrol.com/bonds/corporate-bonds/7-74-national-bank-for-financing-infrastructure-development-14-may-2036/INE0KUG08134,58,7
+More News,#mob-keynwstb1,9,2
+Recent News,#mob-keynwstb2,11,2
+"Kriti Sanon shares BTS moment with Shahid Kapoor, Rashmika Mandanna from Cocktail 2 set: '3 kids with dreams in their eyes'",https://www.moneycontrol.com/entertainment/kriti-sanon-shares-bts-moment-with-shahid-kapoor-rashmika-mandanna-from-cocktail-2-set-3-kids-with-dreams-in-their-eyes-article-13940509.html,123,21
+When Shruti Haasan went to school with a fake name and how friends never knew who she was,https://www.moneycontrol.com/entertainment/when-shruti-haasan-went-to-school-with-a-fake-name-and-how-friends-never-knew-who-she-was-article-13940471.html,89,18
+Akshay Kumar pens heartfelt birthday note for Welcome To The Jungle director Ahmed Khan: 'May this film become the biggest gift of your career',https://www.moneycontrol.com/entertainment/akshay-kumar-pens-heartfelt-birthday-note-for-welcome-to-the-jungle-director-ahmed-khan-may-this-film-become-the-biggest-gift-of-your-career-article-13940496.html,143,24
+Sonakshi Sinha shares glimpses of her birthday celebration in UK with husband Zaheer Iqbal,https://www.moneycontrol.com/entertainment/sonakshi-sinha-shares-glimpses-of-her-birthday-celebration-in-uk-with-husband-zaheer-iqbal-article-13940478.html,90,14
+Aamir khan,https://www.moneycontrol.com/entertainment/why-aamir-khan-divorced-his-two-wives-reena-dutta-and-kiran-rao-actor-set-to-marry-with-girlfriend-gauri-spratt-on-july-5-article-13940272.html,10,2
+"Jana Nayagan
+",https://www.moneycontrol.com/entertainment/jana-nayagan-to-miss-june-18-release-cbfc-and-distribution-issues-put-vijay-s-film-on-hold-indefinitely-article-13940224.html,13,2
+"Neetu kapoor
+
+",https://www.moneycontrol.com/entertainment/neetu-kapoor-calls-kapil-sharma-amazing-human-praises-his-performance-in-daadi-ki-shaadi-he-has-done-a-very-good-job-article-13940254.html,14,2
+Jacqueline fernandez,https://www.moneycontrol.com/entertainment/jacqueline-fernandez-appears-before-delhi-court-linked-to-sukesh-chandrashekhar-in-rs-200-crore-money-laundering-case-article-13940243.html,20,2
+"lagaan 
+",https://www.moneycontrol.com/entertainment/aamir-khan-s-lagaan-to-re-release-in-theatres-to-mark-its-25th-anniversary-article-13940282.html,8,1
+B K Hariprasad new Karnataka Congress chief,https://www.moneycontrol.com/news/india/b-k-hariprasad-new-karnataka-congress-chief-13940462.html,43,7
+Major boost to India's air defence with fourth Sudarshan S-400 squadron from Russia,https://www.moneycontrol.com/news/india/major-boost-to-india-s-air-defence-with-fourth-sudarshan-s-400-squadron-from-russia-13940480.html,83,13
+DK Shivakumar swearing in live,https://www.moneycontrol.com/news/india/karnataka-cm-dk-shivakumar-oath-swearing-in-ceremony-live-updates-karnataka-cabinet-ministers-list-liveblog-13939165.html,30,5
+"Mamata Banerjee
+",https://www.moneycontrol.com/news/india/suvendu-is-like-my-dada-mamata-banerjee-s-estranged-brother-babun-slams-tmc-hints-at-bjp-shift-13939170.html,16,2
+"Nishikant Dubey
+
+
+",https://www.moneycontrol.com/news/india/nishikant-dubey-hits-out-at-congress-says-nehru-gandhi-family-deserves-the-titles-of-traitor-deceiver-13939370.html,18,2
+"G Parameshwara
+",https://www.moneycontrol.com/news/india/parameshwara-all-set-to-be-deputy-cm-of-karnataka-13939805.html,15,2
+"A babyâs gut health before age 1 shapes future autism and ADHD risk, finds study",https://www.moneycontrol.com/health-and-fitness/a-baby-s-gut-health-before-age-1-shapes-future-autism-and-adhd-risk-finds-study-article-13940404.html,82,15
+OPINION | The Rising Cost of Healthcare: Why predictability in medical inflationÂ matters for health insuranceÂ ,https://www.moneycontrol.com/news/opinion/the-rising-cost-of-healthcare-why-predictability-in-medical-inflation-matters-for-health-insurance-13940322.html,112,16
+Living with prediabetes? Research finds eating almonds can help boost memory and control blood sugar,https://www.moneycontrol.com/health-and-fitness/living-with-prediabetes-research-finds-eating-almonds-can-help-boost-memory-and-control-blood-sugar-article-13939705.html,100,15
+What is the right way to check your BP at home? 7 common mistakes to avoid,https://www.moneycontrol.com/health-and-fitness/what-is-the-right-way-to-check-your-bp-at-home-7-common-mistakes-to-avoid-article-13939406.html,74,16
+30-minute power walk vs 10 squats: Which one is more effective? Longevity expert Bryan Johnson weighs in,https://www.moneycontrol.com/health-and-fitness/30-minute-power-walk-vs-10-squats-which-one-is-more-effective-longevity-expert-bryan-johnson-weighs-in-article-13939311.html,104,17
+5 clever ways to reuse cooking oil rather than throwing it away,https://www.moneycontrol.com/health-and-fitness/5-clever-ways-to-reuse-cooking-oil-rather-than-throwing-it-away-article-13938736.html,63,12
+"4 muscles that predict how you age, doctor reveals a test cheat sheet to assess your fitness",https://www.moneycontrol.com/health-and-fitness/4-muscles-that-predict-how-you-age-doctor-reveals-a-test-cheat-sheet-to-assess-your-fitness-article-13938707.html,92,17
+Belly fat,https://www.moneycontrol.com/health-and-fitness/what-is-the-best-exercise-for-a-flat-stomach-doctor-reveals-it-s-not-crunches-or-sit-ups-article-13938341.html,9,2
+Gut problems,https://www.moneycontrol.com/health-and-fitness/late-night-snacking-is-one-of-the-biggest-culprits-for-gut-problems-warns-gastroenterologist-article-13938302.html,12,2
+"Forget Goa, Manali, visit these 9 destinations this summer to truly unwind and feel refreshed",https://www.moneycontrol.com/lifestyle/forget-goa-manali-visit-these-9-destinations-this-summer-to-truly-unwind-and-feel-refreshed-article-13940396.html,93,15
+"Most expensive watches sported by celebs during IPL, from Anushka Sharmaâs Cartier to SRKâs Patek Philippe, more",https://www.moneycontrol.com/lifestyle/fashion/most-expensive-watches-sported-by-celebs-during-ipl-from-anushka-sharma-s-cartier-to-srk-s-patek-philippe-more-article-13939785.html,116,17
+'Stop over-scheduling childhood': Educationist reveals the one thing kids actually need to be future-ready,https://www.moneycontrol.com/lifestyle/stop-over-scheduling-childhood-educationist-reveals-the-one-thing-kids-actually-need-to-be-future-ready-article-13939563.html,106,14
+Virat Kohli and Anushka Sharma's ultra-luxurious Alibaug holiday home blends nature with stunning design,https://www.moneycontrol.com/lifestyle/virat-kohli-and-anushka-sharma-s-ultra-luxurious-alibaug-holiday-home-blends-nature-with-stunning-design-article-13939283.html,104,14
+"Quote of the day by Nikhil Kamath: 'Whoever is adding drama, write their name down and just eliminate...'",https://www.moneycontrol.com/lifestyle/quote-of-the-day-by-nikhil-kamath-whoever-is-adding-drama-write-their-name-down-and-just-eliminate-article-13938800.html,105,18
+Scared of lizards and pests in your home? 10 home remedies to try to keep them away,https://www.moneycontrol.com/lifestyle/home-garden/scared-of-lizards-and-pests-in-your-home-10-home-remedies-to-try-to-keep-them-away-article-13938762.html,83,17
+Katrina Kaif ,https://www.moneycontrol.com/lifestyle/beauty/katrina-kaif-flaunts-long-and-shiny-hair-in-her-latest-instagram-post-her-mother-in-laws-homemade-oil-recipe-goes-viral-article-13938672.html,13,2
+"Maharana Pratap
+",https://www.moneycontrol.com/lifestyle/quote-of-the-day-by-maharana-pratap-defeat-comes-only-when-you-accept-it-article-13935360.html,16,2
+African Proverb of the Day: 'A child's lie is like a dead fish in a pond that...'- A lesson on dishonesty and trust,https://www.moneycontrol.com/education/african-proverb-of-the-day-a-child-s-lie-is-like-a-dead-fish-in-a-pond-that-a-lesson-on-dishonesty-and-trust-article-13940344.html,115,23
+"Quote of the day by ancient philosopher, Confucius: 'Everything has beauty, but not everyone...'",https://www.moneycontrol.com/education/quote-of-the-day-by-ancient-philosopher-confucius-everything-has-beauty-but-not-everyone-article-13940271.html,96,14
+NIFT Result 2026 Stage 2 declared at exams.nta.nic.in; direct link here to check scorecards,https://www.moneycontrol.com/education/nift-result-2026-stage-2-declared-at-exams-nta-nic-in-direct-link-here-to-check-scorecards-article-13940260.html,91,14
+"Quote of the day by German-Russian journalist, Richard Sorge: 'This most difficult, daring, and noble ideology...'",https://www.moneycontrol.com/education/quote-of-the-day-by-german-russian-journalist-richard-sorge-this-most-difficult-daring-and-noble-ideology-article-13940238.html,114,16
+"French Proverb Of The Day: 'You have to break the shell to get...'â Timeless lessons on hard work, perseverance and achieving success",https://www.moneycontrol.com/education/french-proverb-of-the-day-you-have-to-break-the-shell-to-get-timeless-lessons-on-hard-work-perseverance-and-achieving-success-article-13940216.html,135,22
+"Quote of the day by Ernest Hemingway: 'When people talk, listen completely. Most...'",https://www.moneycontrol.com/education/quote-of-the-day-by-ernest-hemingway-when-people-talk-listen-completely-most-article-13940111.html,84,13
+CBSE New Chairman,https://www.moneycontrol.com/education/cbse-chairman-change-ias-rahul-singh-out-and-ias-lokhande-prashant-sitaram-in-all-about-the-outgoing-and-incoming-chiefs-article-13939584.html,17,3
+JEE Advanced 2026,https://www.moneycontrol.com/education/jee-advanced-2026-data-leak-risk-teen-ethical-hacker-flags-major-security-flaw-iit-roorkee-rushes-fix-amid-ongoing-exam-tech-crisis-article-13939328.html,17,3
+TECHNOLOGY NEWS,https://www.moneycontrol.com/news/technology/,15,2
+Meta bets on AI agents to turn WhatsApp into business operating layer,https://www.moneycontrol.com/technology/meta-bets-on-ai-agents-to-turn-whatsapp-into-business-operating-layer-article-13940418.html,69,12
+"Bank of America bucks AI job fears with 2,000 summer interns",https://www.moneycontrol.com/artificial-intelligence/bank-of-america-bucks-ai-job-fears-with-2-000-summer-interns-article-13940296.html,60,11
+AI music startup Suno raises over $400 million at $5.4 billion valuation,https://www.moneycontrol.com/artificial-intelligence/ai-music-startup-suno-raises-over-400-million-at-5-4-billion-valuation-article-13940379.html,72,12
+âNobody uses AI better than Meta...â: Jensen Huang backs Zuckerbergâs Meta AI strategy amid valuation debate,https://www.moneycontrol.com/technology/nobody-uses-ai-better-than-meta-jensen-huang-backs-zuckerberg-s-meta-ai-strategy-amid-valuation-debate-article-13940297.html,114,16
+"ChatGPT-maker OpenAI rolls out Codex for every role, tool and workflow",https://www.moneycontrol.com/technology/chatgpt-maker-openai-rolls-out-codex-for-every-role-tool-and-workflow-article-13940291.html,70,11
+"ViewSonic IN05 series interactive displays launched in India with AI classroom tools, Android 16 and 4K panels in three sizes",https://www.moneycontrol.com/technology/viewsonic-in05-series-interactive-displays-launched-in-india-with-ai-classroom-tools-android-16-and-4k-panels-in-three-sizes-article-13940274.html,125,20
+"Samsung Galaxy S25 Edge, the slimmest smartphone, receives Rs 40,000 discount and is now cheaper than Galaxy S26",https://www.moneycontrol.com/technology/samsung-galaxy-s25-edge-the-slimmest-smartphone-receives-rs-40-000-and-is-now-cheaper-than-galaxy-s26-article-13940244.html,112,18
+"Call of Duty Modern Warfare 4
+
+",https://www.moneycontrol.com/technology/call-of-duty-modern-warfare-4-ballistic-authority-and-kill-block-explained-article-13938622.html,31,6
+"Claude Down
+",https://www.moneycontrol.com/technology/anthropic-claude-global-outage-resolved-company-confirms-issue-on-opus-4-6-reveals-what-went-wrong-article-13938947.html,12,2
+"iPhone 18 Pro Max price
+",https://www.moneycontrol.com/technology/iphone-18-pro-max-price-launch-details-camera-and-ai-upgrades-leaked-ahead-of-official-announcement-article-13938297.html,24,5
+"Upcoming smartphones in June 2026
+",https://www.moneycontrol.com/technology/upcoming-smartphones-in-june-2026-motorola-edge-70-pro-xiaomi-17t-redmi-turbo-5-and-more-article-13936898.html,34,5
+"Bengaluru-Vijayawada greenfield highway to transform Kadapa, cut travel time by up to 4 hours",https://www.moneycontrol.com/city/bengaluru-vijayawada-greenfield-highway-to-transform-kadapa-cut-travel-time-by-up-to-4-hours-article-13940507.html,93,14
+"After Delhi fire tragedy, Ranchi steps up safety checks at restaurants and eateries",https://www.moneycontrol.com/city/after-delhi-fire-tragedy-ranchi-steps-up-safety-checks-at-restaurants-and-eateries-article-13940483.html,83,13
+"Fake Amazon call centre targeting US citizens busted in Panchkula; 21 held, crypto wallet seized",https://www.moneycontrol.com/city/fake-amazon-call-centre-targeting-us-citizens-busted-in-panchkula-21-held-crypto-wallet-seized-article-13940431.html,96,15
+"Liberia, Nigeria, Mozambique, Bangladesh citizens among victims of  Delhi's Malviya Nagar hotel fire",https://www.moneycontrol.com/city/liberia-nigeria-mozambique-bangladesh-citizens-among-victims-of-delhis-malviya-nagar-hotel-fire-article-13940408.html,100,13
+Delhi Malviya Nagar Fire: What caused the blaze that killed 21 and what we know so far,https://www.moneycontrol.com/city/delhi-malviya-nagar-fire-what-caused-the-blaze-that-killed-21-and-what-we-know-so-far-article-13940361.html,86,17
+UP Murder,https://www.moneycontrol.com/city/up-woman-s-body-found-with-throat-slit-at-saharanpur-home-traders-shut-market-in-protest-article-13939478.html,9,2
+Malviya Nagar Fire,https://www.moneycontrol.com/city/delhi-restaurant-fire-chilling-video-shows-2-women-jumping-from-malviya-nagar-building-to-escape-flames-article-13939792.html,18,3
+"Twisha Sharma death case
+",https://www.moneycontrol.com/city/twisha-sharma-case-former-judge-giribala-singh-son-samarth-sent-to-judicial-custody-till-june-16-article-13938629.html,25,4
+"Khan Sir coaching attack
+",https://www.moneycontrol.com/city/khan-sir-coaching-attack-police-say-no-evidence-of-firing-what-happened-and-who-are-the-rivals-blamed-article-13939476.html,25,4
+Viral video shows Tim David smoking cigar at Narendra Modi Stadium after IPL triumph - WATCH,https://www.moneycontrol.com/sports/cricket/ipl/viral-video-shows-tim-david-smoking-cigar-at-narendra-modi-stadium-after-ipl-triumph-watch-article-13940435.html,92,16
+Sachin Tendulkar explains what went wrong for Punjab Kings in IPL 2026: 'They focused more on...',https://www.moneycontrol.com/sports/cricket/ipl/sachin-tendulkar-explains-what-went-wrong-for-punjab-kings-in-ipl-2026-they-focused-more-on-article-13940402.html,97,16
+Four players of Indian origin follow Vikash Dhorasoo's footsteps in FIFA World Cup 2026,https://www.moneycontrol.com/sports/football/fifa-world-cup-2026/four-players-of-indian-origin-follow-vikash-dhorasoo-s-footsteps-in-fifa-world-cup-2026-article-13940383.html,87,14
+IIM Indore to conduct study on Vaibhav Sooryavanshi: 'We want to understand...',https://www.moneycontrol.com/sports/cricket/ipl/iim-indore-to-conduct-study-on-vaibhav-sooryavanshi-we-want-to-understand-article-13940345.html,79,12
+The return of Satwiksairaj Rankireddy and Chirag Shetty - Sport always gives you a second chance,https://www.moneycontrol.com/sports/the-return-of-satwiksairaj-rankireddy-and-chirag-shetty-sport-always-gives-you-a-second-chance-article-13940330.html,96,16
+"Ek Bihari, sab pe bhari: Details of Virat Kohli's pep talk to Vaibhav Sooryavanshi after IPL final finally revealed",https://www.moneycontrol.com/sports/cricket/ipl/ek-bihari-sab-pe-bhari-details-of-virat-kohli-s-pep-talk-to-vaibhav-sooryavanshi-after-ipl-final-finally-revealed-article-13940235.html,115,19
+"Shaheen Afridi
+",https://www.moneycontrol.com/sports/cricket/shaheen-afridi-matches-legendary-duo-wasim-akram-and-waqar-younis-achieves-unique-feat-against-australia-article-13940060.html,15,2
+"Sairaj Bahutule
+",https://www.moneycontrol.com/sports/cricket/who-is-sairaj-bahutule-india-s-new-spin-bowling-coach-appointed-by-bcci-article-13938914.html,16,2
+"Vaibhav Sooryavanshi
+
+",https://www.moneycontrol.com/sports/cricket/ipl/rs-1-5-to-2-crore-for-endorsements-vaibhav-sooryavanshi-spikes-fee-by-almost-double-post-ipl-2026-report-article-13938686.html,22,2
+Virat kohli,https://www.moneycontrol.com/sports/cricket/ipl/virat-kohli-is-a-huge-name-in-australia-australian-deputy-pm-cites-rcb-s-ipl-triumph-to-highlight-bilateral-ties-article-13938428.html,11,2
+"Auqib Nabi 
+",https://www.moneycontrol.com/sports/cricket/auqib-nabi-among-7-picked-to-bowl-in-india-nets-ahead-of-afghanistan-test-article-13938567.html,12,2
+BharatPe Flex explained: How this credit-on-UPI product works and who should use it,https://www.moneycontrol.com/news/business/personal-finance/bharatpe-flex-explained-how-this-credit-on-upi-product-works-and-who-should-use-it-13940506.html,83,13
+Can you apply for a credit card in India without income proof?,https://www.moneycontrol.com/news/business/personal-finance/can-you-apply-for-a-credit-card-in-india-without-income-proof-13940359.html,62,12
+A single missed EMI can hurt your credit profile faster than you think,https://www.moneycontrol.com/news/business/personal-finance/a-single-missed-emi-can-hurt-your-credit-profile-faster-than-you-think-13940352.html,70,13
+ITR 2026: 6 benefits of filing your income tax return before the dealine of 31st July,https://www.moneycontrol.com/news/business/personal-finance/itr-2026-6-benefits-of-filing-your-income-tax-return-before-the-dealine-of-31st-july-13929236.html,85,16
+Travelling abroad often? Zero forex credit cards may save more money than forex cards,https://www.moneycontrol.com/news/business/personal-finance/travelling-abroad-often-zero-forex-credit-cards-may-save-more-money-than-forex-cards-13940213.html,85,14
+EPF Interest Rate,https://www.moneycontrol.com/news/business/personal-finance/epfo-maintains-8-25-interest-rate-on-epf-deposits-for-2025-26-13848349.html,17,3
+Gold Price Today,https://www.moneycontrol.com/news/business/personal-finance/gold-prices-climb-nearly-1-as-us-israel-iran-tensions-intensify-key-factors-investors-should-monitor-13848914.html,16,3
+What do cats do when they are happy? Science reveals it's more than just a 'purr...',https://www.moneycontrol.com/science/what-do-cats-do-when-they-are-happy-science-reveals-it-s-more-than-just-a-purr-article-13940276.html,84,16
+'The Red Light Dance': Rare red sprites caught 'dancing' over Tibetan Storms; but how is this possible?,https://www.moneycontrol.com/science/the-red-light-dance-rare-red-sprites-caught-dancing-over-tibetan-storms-but-how-is-this-possible-article-13940201.html,103,17
+"Heatwave 2026: First India now Europe, what's driving the 'extreme heat' across continents?",https://www.moneycontrol.com/science/heatwave-2026-first-india-now-europe-what-s-driving-the-extreme-heat-across-continents-article-13938704.html,91,13
+"World Environment Day 2026: What's so special about this global event, just 3 days away?",https://www.moneycontrol.com/science/world-environment-day-2026-what-s-so-special-about-this-global-event-just-3-days-away-article-13938430.html,88,15
+"Is Mount Everest safe? Inside the 7,900m trash crisis after Record 2026 climbing season",https://www.moneycontrol.com/science/is-mount-everest-safe-inside-the-7-900m-trash-crisis-after-record-2026-climbing-season-article-13938255.html,87,14
+Remarkable Comeback! BNHS helps recover more than 700 'endangered vultures' in India,https://www.moneycontrol.com/science/remarkable-comeback-bnhs-helps-recover-more-than-700-endangered-vultures-in-india-article-13937663.html,84,12
+Chandra Grahan 2026 ,https://www.moneycontrol.com/science/chandra-grahan-2026-live-updates-total-lunar-eclipse-blood-moon-timings-and-city-wise-visibility-in-india-liveblog-13848824.html,20,3
+Total Lunar Eclipse ,https://www.moneycontrol.com/science/last-total-lunar-eclipse-until-2029-arrives-tomorrow-why-you-should-not-miss-this-night-sky-event-article-13848164.html,20,3
+Artemis 2 launch live,https://www.moneycontrol.com/science/nasa-artemis-2-launch-live-updates-moon-mission-countdown-photos-videos-livestreaming-april-1-liveblog-13876757.html,21,4
+Jupiter Juno,https://www.moneycontrol.com/science/final-missing-auroral-footprint-from-jupiter-s-moons-found-by-juno-article-13519651.html,12,2
+TRAVEL NEWS,https://www.moneycontrol.com/travel/,11,2
+Europe can wait: Southeast Asia is winning as Indians rethink foreign holidays,https://www.moneycontrol.com/travel/europe-can-wait-southeast-asia-is-winning-as-indians-rethink-foreign-holidays-article-13938481.html,78,12
+"MakeMyTrip, Ixigo, Yatra count on domestic travel to offset West Asia turmoil",https://www.moneycontrol.com/travel/makemytrip-ixigo-yatra-count-on-domestic-travel-to-offset-west-asia-turmoil-article-13931480.html,77,12
+Rising fuel costs spark fresh momentum for electric buses in Indiaâs travel market,https://www.moneycontrol.com/travel/rising-fuel-costs-spark-fresh-momentum-for-electric-buses-in-india-s-travel-market-article-13929397.html,84,13
+"PM Modiâs domestic tourism pitch spurs surge in staycations, experiential travel",https://www.moneycontrol.com/news/business/real-estate/pm-modi-s-domestic-tourism-pitch-spurs-surge-in-staycations-experiential-travel-13927814.html,82,11
+"AI vs AI: ixigo, MakeMyTrip and Yatra race to reinvent travel booking",https://www.moneycontrol.com/travel/ai-vs-ai-ixigo-makemytrip-and-yatra-race-to-reinvent-travel-booking-article-13927591.html,69,12
+ixigo's profit jumps to Rs 32 crore in Q4 FY26 despite Middle East crisis,https://www.moneycontrol.com/travel/ixigo-s-profit-jumps-to-rs-32-crore-in-q4-fy26-despite-middle-east-crisis-article-13926902.html,73,14
+IndiGo Flight Status Today,https://www.moneycontrol.com/travel/indigo-flight-status-today-december-22-full-list-of-cancelled-and-delayed-flights-across-delhi-mumbai-kolkata-and-other-cities-article-13736966.html,26,4
+New Visa Bond Rule ,https://www.moneycontrol.com/travel/new-us-visa-bond-rule-may-require-tourists-to-pay-up-to-15-000-starting-august-2025-article-13390554.html,19,4
+UNESCO World Heritage,https://www.moneycontrol.com/travel/unesco-world-heritage-railways-in-india-historic-train-routes-you-must-experience-article-13390438.html,21,3
+Gangaikonda Cholapuram,https://www.moneycontrol.com/travel/why-gangaikonda-cholapuram-was-chosen-for-india-s-new-rs-1-000-coin-history-and-significance-article-13390842.html,22,2
+Mumbai Places to Visit,https://www.moneycontrol.com/travel/10-iconic-attractions-in-mumbai-that-never-gets-old-photo-gallery-13390958.html,22,4
+Community Views,https://mmb.moneycontrol.com/forum-topics/commodity-12.html,15,2
+NHPC,https://mmb.moneycontrol.com/forum-topics/stocks/nhpc-509082.html,4,1
+Hold with patience. 30 percent upmove in 6 months for sure.,https://mmb.moneycontrol.com/forum-topics/stocks/nhpc/thread-message-115564840-117364840.html,59,11
+sadana,https://mmb.moneycontrol.com/sadana-user-profile-736164616e61.html,6,1
+Apollo Hospital,https://mmb.moneycontrol.com/forum-topics/stocks/apollo-hospital-4161.html,15,2
+Apollo hospital buy 8290 targt 8500 this week join poojawealth on tele...,https://mmb.moneycontrol.com/forum-topics/stocks/apollo-hospital/thread-message-115564839-117364839.html,73,12
+Poojawealth0134,https://mmb.moneycontrol.com/poojawealth0134-user-profile-34507648324b787a784f.html,15,1
+Reliance,https://mmb.moneycontrol.com/forum-topics/stocks/reliance-322.html,8,1
+Reliance best time to buy 1314 expecting targt 1400 by friday join poo...,https://mmb.moneycontrol.com/forum-topics/stocks/reliance/thread-message-115564837-117364837.html,73,13
+Ambareesh Baliga,https://www.moneycontrol.com/gamechangers/ambareeshbaliga?utm_source=mc_hp,16,2
+Sudarshan Sukhani,https://www.moneycontrol.com/gamechangers/?utm_source=mc_hp,17,2
+T Gnanasekar,https://www.moneycontrol.com/gamechangers/tgnanasekar?utm_source=mc_hp,12,2
+Mecklai Financial,https://www.moneycontrol.com/gamechangers/mecklai?utm_source=mc_hp,17,2
+C. K. Narayan,https://www.moneycontrol.com/gamechangers/cknarayan?utm_source=mc_hp,13,3
+World,https://www.moneycontrol.com/news/world/,5,1
+CBS fires Scott Pelley from â60 Minutesâ after he confronted new boss,https://www.moneycontrol.com/world/cbs-fires-scott-pelley-from-60-minutes-after-he-confronted-new-boss-article-13940059.html,73,12
+"WATCH: Israeli Airstrikes Hit Tyre, Lebanon; Hospital Staff Wounded Despite Ceasefire",https://www.moneycontrol.com/world/watch-israeli-airstrikes-hit-tyre-lebanon-hospital-staff-wounded-despite-ceasefire-videoshow-13937913.html,85,11
+Did Iran Use A Chinese Missile To Shoot Down A US F-15? New Report Raises Questions | US-IRAN WAR,https://www.moneycontrol.com/world/did-iran-use-a-chinese-missile-to-shoot-down-a-us-f-15-new-report-raises-questions-us-iran-war-videoshow-13937892.html,97,19
+Companies,https://www.moneycontrol.com/news/tags/business.html,9,1
+SMR Jewels IPO manages to sail through supported by QIB; check listing and allotment dates,https://www.moneycontrol.com/news/business/ipo/smr-jewels-ipo-manages-to-sail-through-supported-by-qib-check-listing-and-allotment-dates-13940448.html,90,15
+"Merritronix IPO attracts robust demand, subscribed over 293 times on final day; check GMP, allotment, listing dates",https://www.moneycontrol.com/news/business/ipo/merritronix-ipo-attracts-robust-demand-subscribed-over-293-times-on-final-day-check-gmp-allotment-listing-dates-13940319.html,115,17
+"Pfizer launches new myeloma therapy in India, targeting patients with limited options",https://www.moneycontrol.com/news/business/pfizer-launches-new-myeloma-therapy-in-india-targeting-patients-with-limited-options-13940360.html,85,12
+Economy,https://www.moneycontrol.com/news/tags/economy.html,7,1
+Moneycontrol Pro Panorama | Waiting,https://www.moneycontrol.com/news/business/economy/moneycontrol-pro-panorama-waiting-13939623.html,35,5
+OPINION | Maritime disruptions are emerging as Indiaâs key risk,https://www.moneycontrol.com/news/opinion/maritime-disruptions-are-emerging-as-india-s-key-risk-13939885.html,65,10
+OPINION | WhatÂ boardsÂ mustÂ do toÂ strengthenÂ taxÂ strategyÂ todayÂ ,https://www.moneycontrol.com/news/opinion/what-boards-must-do-to-strengthen-tax-strategy-today-13939794.html,71,11
+TVK allocates lone Rajya Sabha seat to Congress,https://www.moneycontrol.com/news/india/tvk-allocates-lone-rajya-sabha-seat-to-congress-13940454.html,47,8
+Setback for Mamata camp: Expelled TMC rebel Ritabrata Banerjee gets LoP status in Bengal assembly,https://www.moneycontrol.com/news/india/setback-for-mamata-camp-expelled-tmc-rebel-ritabrata-banerjee-gets-lop-status-in-bengal-assembly-13940336.html,97,15
+"Karnataka power shift: After years in the shadows, DK Shivakumar finally gets his moment in the sun",https://www.moneycontrol.com/news/india/karnataka-power-shift-after-years-in-the-shadows-dk-shivakumar-finally-gets-his-moment-in-the-sun-13940294.html,99,17
+Gold Rate,#gold_rate,9,2
+Real Estate,#real_estate,11,2
+Health,#health,6,1
+"Reports of gold sale by RBI to save forex reserves false, says CNBC-TV18",https://www.moneycontrol.com/news/business/economy/reports-of-gold-sale-by-rbi-to-save-forex-reserves-false-says-cnbc-tv18-13939408.html,72,13
+"Gold rebounds Rs 1,050 on firm global cues; silver rises Rs 1,300",https://www.moneycontrol.com/news/business/personal-finance/gold-rebounds-rs-1-050-on-firm-global-cues-silver-rises-rs-1-300-13938804.html,65,12
+Gold holds decline as traders weigh confusion over US-Iran talks,https://www.moneycontrol.com/news/business/gold-holds-decline-as-traders-weigh-confusion-over-us-iran-talks-13937990.html,64,10
+Gold falls nearly 2% with inflation worries rising on Middle East conflict,https://www.moneycontrol.com/news/business/commodities/gold-falls-nearly-2-with-inflation-worries-rising-on-middle-east-conflict-13937858.html,74,12
+Show More News,https://www.moneycontrol.com/news/tags/gold-prices.html,14,3
+"Over 1.15 lakh housing, commercial units available in UP: RERA advises buyers against hasty decisions",https://www.moneycontrol.com/news/business/real-estate/over-1-15-lakh-housing-commercial-units-available-in-up-rera-advises-buyers-against-hasty-decisions-13940445.html,101,15
+From private elevators to concierge services: Indiaâs billionaire boom fuels demand for bespoke homes,https://www.moneycontrol.com/news/business/real-estate/from-private-elevators-to-concierge-services-india-s-billionaire-boom-fuels-demand-for-bespoke-homes-13938828.html,103,14
+Can your builder shrink or commercialise the clubhouse you paid for? The rules explained,https://www.moneycontrol.com/news/business/real-estate/can-your-builder-shrink-or-commercialise-the-clubhouse-you-paid-for-the-rules-explained-13938760.html,88,14
+Radhakishan Damani-linked firm leases Worli apartment to Sanjay Ghodawat Group for Rs 27 lakh per month,https://www.moneycontrol.com/news/business/real-estate/radhakishan-damani-linked-firm-leases-worli-apartment-to-sanjay-ghodawat-group-for-rs-27-lakh-per-month-13937672.html,103,16
+"Godrej Properties buys 23-acre land in Greater Noida, eyes Rs 7,000 crore revenue from new housing project",https://www.moneycontrol.com/news/business/real-estate/godrej-properties-buys-23-acre-land-in-greater-noida-eyes-rs-7-000-crore-revenue-from-new-housing-project-13937684.html,106,17
+Show More News,https://www.moneycontrol.com/news/health-and-fitness/,14,3
+Open IPOs,#keyiposctb1,9,2
+Upcoming IPOs,#keyiposctb2,13,2
+Listed IPOs,#keyiposctb3,11,2
+Closed IPOs,#keyiposctb4,11,2
+CMR Green Technologies Ltd,https://www.moneycontrol.com/ipo/cmr-green-technologies-ltd-cgtl-ipodetail,26,4
+Liotech Industries Ltd,https://www.moneycontrol.com/ipo/liotech-industries-ltd-lil06-ipodetail,22,3
+Merritronix,https://www.moneycontrol.com/ipo/merritronix-ml16-ipodetail,11,1
+SMR Jewels,https://www.moneycontrol.com/ipo/smr-jewels-sjl-ipodetail,10,2
+See More Open IPOs,https://www.moneycontrol.com/ipo/open-ipos/,18,4
+GenXAI Analytics Ltd,https://www.moneycontrol.com/ipo/genxai-analytics-ltd-gal01-ipodetail,20,3
+Hexagon Nutrition Ltd,https://www.moneycontrol.com/ipo/hexagon-nutrition-ltd-hnl01-ipodetail,21,3
+UHM Vacation Ltd,https://www.moneycontrol.com/ipo/uhm-vacation-ltd-uvl-ipodetail,16,3
+Vahh Chemicals Ltd,https://www.moneycontrol.com/ipo/vahh-chemicals-ltd-vcl05-ipodetail,18,3
+See More Upcoming IPOs,https://www.moneycontrol.com/ipo/upcoming-ipos/,22,4
+Rajnandini Fashion India,https://www.moneycontrol.com/india/stockpricequote/textilesapparel/rajnandinifashionindia/RFI01,24,3
+Yaashvi Jewellers,https://www.moneycontrol.com/india/stockpricequote/diamondjewellery/yaashvijewellers/Y,17,2
+Harikanta Overseas,https://www.moneycontrol.com/india/stockpricequote/textilesapparel/harikantaoverseas/HOL,18,2
+M R Maniveni Foods,https://www.moneycontrol.com/india/stockpricequote/food-processing/mrmanivenifoods/MFL11,18,4
+Bio Medica Laboratories,https://www.moneycontrol.com/india/stockpricequote/pharmaceuticalsdrugs/biomedicalaboratories/BMLL,23,3
+See More Listed IPOs,https://www.moneycontrol.com/ipo/listed-ipos/,20,4
+Aureate Tradde Ltd,https://www.moneycontrol.com/ipo/aureate-tradde-ltd-atl06-ipodetail,18,3
+Check,https://in.mpms.mufg.com/Initial_Offer/public-issues.html,5,1
+See More Closed IPOs,https://www.moneycontrol.com/ipo/closed-ipos/,20,4
+All Schedule,https://m.moneycontrol.com/chat_more.php?flag=upcoming,12,2
+Previous Transcripts,https://m.moneycontrol.com/chat_more.php?flag=transcript,20,2
+Mutual Funds,#keypfactb1,12,2
+Insurance,#keypfactb2,9,1
+Fixed Income,#keypfactb3,12,2
+Tax,#keypfactb4,3,1
+Investing,#keypfactb5,9,1
+Property,#keypfactb6,8,1
+Commodities,#keypfactb7,11,1
+Retirement,#keypfactb8,10,1
+Loans,#keypfactb9,5,1
+Planning,#keypfactb10,8,1
+Credit Cards,#keypfactb11,12,2
+Profit-sharing PMS vs flat-fee PMS: Which option works better for investors?,https://www.moneycontrol.com/news/business/personal-finance/profit-sharing-pms-vs-flat-fee-pms-which-option-works-better-for-investors-13938865.html,76,11
+"Gold, equity or debt? Check how fund managers of top multi-asset funds are taking different calls",https://www.moneycontrol.com/news/business/personal-finance/not-all-multi-asset-funds-diversify-the-same-way-here-s-how-the-top-performers-are-positioned-13939077.html,97,16
+"How much SIP do you need to build Rs 1 crore in 5, 10 and 20 years?Â ",https://www.moneycontrol.com/news/business/personal-finance/how-much-sip-do-you-need-to-build-rs-1-crore-in-5-10-and-20-years-13937740.html,69,17
+Are the best Multicap funds the most aggressive?,https://www.moneycontrol.com/news/business/personal-finance/are-the-best-multicap-funds-the-most-aggressive-13936894.html,48,8
+Govt launches common landing portal for unclaimed financial assets,https://www.moneycontrol.com/news/business/personal-finance/govt-launches-common-landing-portal-for-unclaimed-financial-assets-13936071.html,66,9
+5 money mistakes people make in their 20s,https://www.moneycontrol.com/news/business/personal-finance/5-money-mistakes-people-make-in-their-20s-13935733.html,41,8
+"Fixed income looks attractive now but invest gradually, says Axis Mutual Fund's Devang Shah",https://www.moneycontrol.com/news/business/personal-finance/fixed-income-looks-attractive-now-but-invest-gradually-says-axis-mutual-fund-s-devang-shah-13935375.html,91,14
+See More Mutual Funds,https://www.moneycontrol.com/news/tags/mf-experts.html,21,4
+ACKO strengthens leadership team ahead of IPO plans,https://www.moneycontrol.com/news/business/ipo/acko-strengthens-leadership-team-ahead-of-ipo-plans-13940310.html,51,8
+Why Indiaâs top general insurance CEOs are quitting and why the sector may benefit,https://www.moneycontrol.com/news/business/companies/why-india-s-top-general-insurance-ceos-are-quitting-and-why-the-sector-may-benefit-13939953.html,84,14
+"General Insuran Consolidated March 2026 Net Sales at Rs 13,018.27 crore, down 1.44% Y-o-Y",https://www.moneycontrol.com/news/business/earnings/general-insuran-consolidated-march-2026-net-sales-at-rs-13018-27-crore-down-1-44-y-o-y-13939439.html,89,14
+41% of Indians say financial goals cause stress: ManipalCigna study,https://www.moneycontrol.com/news/business/personal-finance/41-of-indians-say-financial-goals-cause-stress-manipalcigna-study-13938555.html,67,10
+Indiaâs motor insurance story flips as mandatory third-party cover beats own-damage growth,https://www.moneycontrol.com/banking/india-s-motor-insurance-story-flips-as-mandatory-third-party-cover-beats-own-damage-growth-article-13938501.html,92,12
+"Trade Spotlight: How should you trade Adani Energy Solutions, AIA Engineering, NALCO, Infosys, Zydus Lifesciences, APL Apollo Tubes and others on June 2?",https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-adani-energy-solutions-aia-engineering-nalco-infosys-zydus-lifesciences-apl-apollo-tubes-and-others-on-june-2-13937964.html,153,23
+"LIC pivots to fintech, shelves health insurance plan to expand distribution",https://www.moneycontrol.com/banking/lic-pivots-to-fintech-shelves-health-insurance-plan-to-expand-distribution-article-13937723.html,75,11
+See More Insurance,https://www.moneycontrol.com/news/insurance-291-1-next-0.html,18,3
+"Fixed income finds new relevance as investors chase stability, yield",https://www.moneycontrol.com/news/business/markets/fixed-income-finds-new-relevance-as-investors-chase-stability-yield-13933028.html,68,10
+Municipal bond market gains traction as cities eye new-age infra financing models,https://www.moneycontrol.com/news/business/markets/municipal-bond-market-gains-traction-as-cities-eye-new-age-infra-financing-models-13931995.html,81,12
+Fixed income mutual funds can offer better liquidity and yields than FDs: Basant Bafna of Mirae Asset,https://www.moneycontrol.com/news/business/personal-finance/fixed-income-mutual-funds-can-offer-better-liquidity-and-yields-than-fds-basant-bafna-13931925.html,101,17
+"InvIT fundraising could top Rs 25,000 cr in 2026 as investors rush to safety of yield products",https://www.moneycontrol.com/news/business/ipo/invit-fundraising-could-top-rs-25-000-cr-in-2026-as-investors-rush-to-safety-of-yield-products-13890737.html,94,17
+Women above 60: Fixed income investment - Safe bets for 2025,https://www.moneycontrol.com/news/photos/business/personal-finance/women-above-60-fixed-income-investment-safe-bets-for-2025-13457296.html,60,11
+How to fix fixed income allocations amid rate cuts? Focus on real rates,https://www.moneycontrol.com/news/opinion/how-to-fix-fixed-income-allocations-amid-rate-cuts-focus-on-real-rates-13390316.html,71,13
+Fixed income strategies in a 'lower for longer' rate environment,https://www.moneycontrol.com/news/opinion/fixed-income-strategies-in-a-lower-for-longer-rate-environment-13189036.html,64,10
+How is Bond Public Issue Beneficial and why invest in it?,https://www.moneycontrol.com/news/videos/business/how-is-bond-public-issue-beneficial-and-why-invest-in-it-12995728.html,57,11
+See More Fixed Income,https://www.moneycontrol.com/news/fixed-income-experts-310.html,21,4
+The unintended consequences of the RBIâs balance sheet use,https://www.moneycontrol.com/news/opinion/the-unintended-consequences-of-the-rbi-s-balance-sheet-use-13936958.html,60,9
+India bond investors tap soaring swap rates to juice returns,https://www.moneycontrol.com/news/business/india-bond-investors-tap-soaring-swap-rates-to-juice-returns-13929435.html,60,10
+Bond selloff threatens to knock AI stock frenzy off course,https://www.moneycontrol.com/news/business/bond-selloff-threatens-to-knock-ai-stock-frenzy-off-course-13921189.html,58,10
+Global bond selloff worsens as rising oil prices spook investors,https://www.moneycontrol.com/news/business/global-bond-selloff-worsens-as-rising-oil-prices-spook-investors-13920787.html,64,10
+Will West Asia keep the bond market addicted to the RBI?,https://www.moneycontrol.com/news/opinion/will-west-asia-keep-the-bond-market-addicted-to-the-rbi-13896994.html,56,11
+A transparent states' borrowing plan is just a small blessing for the bond market,https://www.moneycontrol.com/news/opinion/a-transparent-states-borrowing-plan-is-just-a-small-blessing-for-the-bond-market-13883003.html,81,14
+Three signs that policy rate cut transmission is likely over,https://www.moneycontrol.com/news/opinion/three-signs-that-policy-rate-cut-transmission-is-likely-over-13857790.html,60,10
+Rupee under pressure: How the West Asia war is forcing RBI's hand on bonds,https://www.moneycontrol.com/news/opinion/rupee-under-pressure-how-the-west-asia-war-is-forcing-rbi-s-hand-on-bonds-13855357.html,74,14
+See More Investing,https://www.moneycontrol.com/news/investing-298.html,18,3
+OPINION | Indiaâs VDA Tax Framework: From tax clarity to competitive design,https://www.moneycontrol.com/news/opinion/india-s-vda-tax-framework-from-tax-clarity-to-competitive-design-13939275.html,77,12
+ITR 2026: Still Waiting For Form 16? Know The June 15 Deadline And Filing Risks,https://www.moneycontrol.com/news/videos/business/personal-finance/itr-2026-still-waiting-for-form-16-know-the-june-15-deadline-and-filing-risks-13938710.html,79,15
+ITR filing: How can non-salaried persons claim House Rent Allowance?,https://www.moneycontrol.com/news/business/personal-finance/itr-filing-how-can-non-salaried-persons-claim-house-rent-allowance-13938779.html,68,10
+Bonus credited? Here's how to make the most of it before it disappears,https://www.moneycontrol.com/news/business/personal-finance/from-shopping-to-sips-how-to-put-your-bonus-to-better-use-13938418.html,70,13
+Can both husband and wife claim LTCG tax benefits if only one paid for the property?,https://www.moneycontrol.com/news/business/personal-finance/can-both-husband-and-wife-claim-ltcg-tax-benefits-if-only-one-paid-for-the-property-13938536.html,84,16
+RBI MPC this week: Why staying short in debt funds may be the smarter move,https://www.moneycontrol.com/news/business/personal-finance/rbi-mpc-this-week-why-staying-short-in-debt-funds-may-be-the-smarter-move-13938189.html,74,15
+See More Tax,https://www.moneycontrol.com/news/tax-292.html,12,3
+"Dhruv Consultan Consolidated March 2026 Net Sales at Rs 8.32 crore, down 69.85% Y-o-Y",https://www.moneycontrol.com/news/business/earnings/dhruv-consultan-consolidated-march-2026-net-sales-at-rs-8-32-crore-down-69-85-y-o-y-13940133.html,85,14
+"Shristi Infra Consolidated March 2026 Net Sales at Rs 15.59 crore, down 62.29% Y-o-Y",https://www.moneycontrol.com/news/business/earnings/shristi-infra-consolidated-march-2026-net-sales-at-rs-15-59-crore-down-62-29-y-o-y-13939856.html,84,14
+"PVP Ventures Consolidated March 2026 Net Sales at Rs 41.44 crore, up 117.8% Y-o-Y",https://www.moneycontrol.com/news/business/earnings/pvp-ventures-consolidated-march-2026-net-sales-at-rs-41-44-crore-up-117-8-y-o-y-13939782.html,81,14
+"Ravinder Height Consolidated March 2026 Net Sales at Rs 0.01 crore, down 90.27% Y-o-Y",https://www.moneycontrol.com/news/business/earnings/ravinder-height-consolidated-march-2026-net-sales-at-rs-0-01-crore-down-90-27-y-o-y-13939639.html,85,14
+"Emami Realty  Consolidated March 2026 Net Sales at Rs 73.09 crore, up 435.06% Y-o-Y",https://www.moneycontrol.com/news/business/earnings/emami-realty-consolidated-march-2026-net-sales-at-rs-73-09-crore-up-435-06-y-o-y-13939442.html,83,14
+KFG actor Yash and his wife Radhika Pandit buy beachfront Alibag land for Rs 24 Crore,https://www.moneycontrol.com/entertainment/kfg-actor-yash-and-his-wife-radhika-pandit-buy-beachfront-alibag-land-for-rs-24-crore-article-13938972.html,85,16
+See More Property,https://www.moneycontrol.com/news/tags/real-estate.html,17,3
+"Gold declines Rs 2,500 to Rs 1.6 lakh/10g amid fresh US-Iran tensions",https://www.moneycontrol.com/news/business/commodities/gold-declines-rs-2-500-to-rs-1-6-lakh-10g-amid-fresh-us-iran-tensions-13937792.html,69,12
+Domestic gold tracks global rally despite import duty hike; weak demand limits impact,https://www.moneycontrol.com/news/business/personal-finance/domestic-gold-tracks-global-rally-despite-import-duty-hike-weak-demand-limits-impact-13937754.html,85,13
+See More Commodities,https://www.moneycontrol.com/news/commodities-news-94.html,20,3
+Your retirement home can generate monthly income. Hereâs how senior citizens can do it,https://www.moneycontrol.com/news/business/personal-finance/your-retirement-home-can-generate-monthly-income-here-s-how-senior-citizens-can-do-it-13937664.html,88,14
+NPS or Mutual Funds? Which Builds Better Retirement Income? | Explained,https://www.moneycontrol.com/news/videos/business/personal-finance/nps-or-mutual-funds-which-builds-better-retirement-income-13933663.html,71,11
+Personal Finance | Five things to note about retirement planning,https://www.moneycontrol.com/news/business/markets/personal-finance-five-things-to-note-about-retirement-planning-13932605.html,64,10
+Can the new NPS retirement income scheme beat the systematic withdrawal plan option for retirees after 60?,https://www.moneycontrol.com/news/business/personal-finance/nps-retirement-income-can-new-ris-beat-slw-option-for-retirees-after-60-13928181.html,106,17
+"âHad just Rs 23,712â: Woman who chose travelling in her 40s regrets not planning for retirement",https://www.moneycontrol.com/news/trends/had-just-rs-23-712-woman-who-chose-travelling-in-her-40s-regrets-not-planning-for-retirement-13929589.html,99,16
+"Retirement may end employment, but financial responsibilities continue for decades",https://www.moneycontrol.com/news/business/personal-finance/retirement-may-end-employment-but-financial-responsibilities-continue-for-decades-13926979.html,82,10
+Fix your EPS records before itâs too late: Small errors can cost you your pension,https://www.moneycontrol.com/news/business/personal-finance/fix-your-eps-records-before-it-s-too-late-small-errors-can-cost-you-your-pension-13925403.html,83,15
+EPF savings: Ignoring your EPS record can quietly cut your retirement income,https://www.moneycontrol.com/news/business/personal-finance/epf-savings-ignoring-your-eps-record-can-quietly-cut-your-retirement-income-13925375.html,76,12
+See More Retirement,https://www.moneycontrol.com/news/tags/retirement.html,19,3
+Bank lending in India hits two-year high as companies skip bonds,https://www.moneycontrol.com/banking/bank-lending-in-india-hits-two-year-high-as-companies-skip-bonds-article-13939815.html,64,11
+Will the RBI raise interest rates in the June policy meeting amid global uncertainty? What borrowers should know,https://www.moneycontrol.com/news/business/personal-finance/will-the-rbi-raise-interest-rates-in-the-june-policy-meeting-amid-global-uncertainty-what-borrowers-should-know-13934668.html,112,18
+Overseas education is expensive. Hereâs how young earners can start planning early,https://www.moneycontrol.com/news/business/personal-finance/overseas-education-is-expensive-here-s-how-young-earners-can-start-planning-early-13932801.html,84,12
+Buying a house with family sounds smart until these money problems begin,https://www.moneycontrol.com/news/business/personal-finance/buying-a-house-with-family-sounds-smart-until-these-money-problems-begin-13932794.html,72,12
+Personal Loan Vs. Credit Card Loan: Which Is More Affordable For Emergency Spending In 2025?,https://www.moneycontrol.com/news/business/personal-finance/personal-loan-vs-credit-card-loan-which-is-more-affordable-for-emergency-spending-in-2025-13927641.html,92,15
+Can AI-Based Loan Approvals Provide You With A Better Sanction Amount?,https://www.moneycontrol.com/news/business/personal-finance/can-ai-based-loan-approvals-provide-you-with-a-better-sanction-amount-13924923.html,70,11
+Applying for too many credit cards? Hereâs how it can quietly affect your credit report,https://www.moneycontrol.com/news/business/personal-finance/applying-for-too-many-credit-cards-here-s-how-it-can-quietly-affect-your-credit-report-13927924.html,89,15
+Indiaâs gold loan boom is no longer just a south India story,https://www.moneycontrol.com/news/business/economy/india-s-gold-loan-boom-is-no-longer-just-a-south-india-story-13927900.html,62,12
+See More Loans,https://www.moneycontrol.com/news/loans-294.html,14,3
+Deepak Shenoy highlights two key Nasdaq-100 rule changes ahead of SpaceX IPO,https://www.moneycontrol.com/news/business/personal-finance/deepak-shenoy-highlights-two-key-nasdaq-100-rule-changes-ahead-of-spacex-ipo-13939896.html,76,12
+"Sold a flat for Rs 34 lakh, but tax records show Rs 80 lakh value? Here's what it could mean",https://www.moneycontrol.com/news/business/personal-finance/how-does-capital-gains-tax-apply-when-selling-a-flat-with-stamp-duty-valuation-higher-than-purchase-price-13939575.html,92,20
+"Why is Bitcoin falling? Price drops 6% below $66,500 amid ETF outflows, institutional selling",https://www.moneycontrol.com/news/business/personal-finance/why-is-bitcoin-falling-price-drops-6-below-66500-amid-etf-outflows-institutional-selling-13939246.html,93,14
+"Gold and silver price today, June 3: Check rates of 24K, 22K gold in Delhi, Mumbai, Kolkata other cities",https://www.moneycontrol.com/news/business/personal-finance/gold-and-silver-price-today-june-3-check-rates-of-24k-22k-gold-in-delhi-mumbai-kolkata-other-cities-13939217.html,104,19
+Lifelong money lessons every parent should teach their child to build strong financial habits early,https://www.moneycontrol.com/news/business/personal-finance/lifelong-money-lessons-every-parent-should-teach-their-child-to-build-strong-financial-habits-early-13939081.html,99,15
+How to plan and fund your childâs preschool activity classes without straining your budget,https://www.moneycontrol.com/news/business/personal-finance/how-to-plan-and-fund-your-child-s-preschool-activity-classes-without-straining-your-budget-13939075.html,92,14
+8th Pay Commission update: Final date for submission of memorandum extended to June 15 - whatâs the latest?,https://www.moneycontrol.com/news/business/personal-finance/8th-pay-commission-update-final-date-for-submission-of-memorandum-extended-to-june-15-what-s-the-latest-13938687.html,109,18
+See More Planning,https://www.moneycontrol.com/news/tags/planning.html,17,3
+Chart of the Day: Credit card spends signal some cooling off in consumption,https://www.moneycontrol.com/news/opinion/chart-of-the-day-credit-card-spends-signal-some-cooling-off-in-consumption-13935195.html,75,13
+Airport lounge access on credit cards is getting harder to unlock,https://www.moneycontrol.com/news/business/personal-finance/airport-lounge-access-on-credit-cards-is-getting-harder-to-unlock-13927907.html,65,11
+Indians are turning travel points into a second wallet: Marriott Bonvoy report,https://www.moneycontrol.com/news/business/personal-finance/from-lounge-access-to-dining-rewards-how-indian-travellers-are-turning-loyalty-into-a-lifestyle-tool-13926935.html,78,12
+"Indiaâs most expensive credit cards: From Grammy tickets to private charters, what these cards really offer",https://www.moneycontrol.com/news/business/personal-finance/india-s-most-expensive-credit-cards-from-grammy-tickets-to-private-charters-what-these-cards-really-offer-13913241.html,109,16
+"From groceries to travel, how Indians are using credit cards differently: SBI Card report",https://www.moneycontrol.com/news/business/personal-finance/from-groceries-to-travel-how-indians-are-using-credit-cards-differently-sbi-card-report-13925152.html,89,14
+Are Contactless Payments Really Safer Than Chip-and-PIN In 2025?,https://www.moneycontrol.com/news/business/personal-finance/are-contactless-payments-really-safer-than-chip-and-pin-in-2025-13922345.html,64,9
+How small credit habits gradually shape your credit score and long-term financial profile,https://www.moneycontrol.com/news/business/personal-finance/how-small-credit-habits-gradually-shape-your-credit-score-and-long-term-financial-profile-13921596.html,89,13
+See More Credit Cards,https://www.moneycontrol.com/news/tags/credit-cards.html,21,4
+Suraksha Diagno,https://www.moneycontrol.com/india/stockpricequote/labslife-sciences-services/surakshadiagno/SDL02,15,2
+Suraksha Diagnostics: Building muscle for the next leg of growth,https://www.moneycontrol.com/news/business/moneycontrol-research/suraksha-diagnostics-building-muscle-for-the-next-leg-of-growth-13939308.html,64,10
+TATA Cons. Prod,https://www.moneycontrol.com/india/stockpricequote/plantations-teacoffee/tataconsprod/TT,15,3
+"Trade Spotlight: How should you trade Federal Bank, KPIT Technologies, Parag Milk Foods, Route Mobile, PTC Industries, and others on June 3?",https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-federal-bank-kpit-technologies-parag-milk-foods-route-mobile-ptc-industries-and-others-on-june-3-13939107.html,140,22
+JSW Energy,https://www.moneycontrol.com/india/stockpricequote/power-generationdistribution/jswenergy/JE01,10,2
+MOTHERSON,https://www.moneycontrol.com/india/stockpricequote/auto-ancillaries-auto-truckmotorcycle-parts/motherson/MSS01,9,1
+"Trade Spotlight: How should you trade Rain Industries, IFCI, Cemindia Projects, Supriya Lifescience, Thermax, and others on June 1?",https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-rain-industries-ifci-cemindia-projects-supriya-lifescience-thermax-and-others-on-june-1-13936932.html,131,19
+"Trade Spotlight: How should you trade Samvardhana Motherson, Siemens, NALCO, RBL Bank, Tata Power, Usha Martin, and others on May 29?",https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-samvardhana-motherson-siemens-nalco-rbl-bank-tata-power-usha-martin-and-others-on-may-29-13934997.html,133,21
+Stock Views,https://www.moneycontrol.com/news/tags/stocks-views.html,11,2
+Buzzing Stocks,https://www.moneycontrol.com/news/tags/stocks-in-news.html,14,2
+Brokerage Recommendations,https://www.moneycontrol.com/news/tags/recommendations.html,25,2
+Mutual Funds Tool,https://www.moneycontrol.com/mutualfundindia/tools/,17,3
+Find your Fund,https://www.moneycontrol.com/mf/find_a_fund/find_a_fund.php,14,3
+Returns Calculator,https://www.moneycontrol.com/mf/returns.php,18,2
+All Schedule,https://www.moneycontrol.com/stocks/marketinfo/chats/detail_new.php?type=upcoming,12,2
+Previous Transcripts,https://www.moneycontrol.com/stocks/marketinfo/chats/archives_new.php,20,2
+Interviews,https://www.moneycontrol.com/news/interview/,10,1
+"Daily Voice: Exploration, energy security and ethanol remain key investment themes, says Vallum Capital's Manish Bhandari",https://www.moneycontrol.com/news/business/markets/daily-voice-exploration-energy-security-and-ethanol-remain-key-investment-themes-says-vallum-capital-s-manish-bhandari-13939103.html,121,16
+Daily Voice: Why Invescoâs Aditya Khemani is betting big on power stocks despite valuation worries,https://www.moneycontrol.com/news/business/markets/daily-voice-why-invesco-s-aditya-khemani-is-betting-big-on-power-stocks-despite-valuation-worries-13937961.html,100,15
+"Daily Voice | AI not main trigger; macro stability, earnings revival to steer recovery: Riddhiman Jain",https://www.moneycontrol.com/news/business/markets/daily-voice-ai-not-main-trigger-macro-stability-earnings-revival-to-steer-recovery-riddhiman-jain-13936918.html,102,16
+Daily Voice | Narnolia's Shailendra Kumar sees 2HFY27 significantly stronger than 1HFY27 for corporate earnings,https://www.moneycontrol.com/news/business/markets/daily-voice-narnolia-s-shailendra-kumar-sees-2hfy27-significantly-stronger-than-1hfy27-for-corporate-earnings-13936492.html,111,15
+Action In Markets Today,https://www.moneycontrol.com/markets/action-in-markets.html,23,4
+Mirae Asset Nifty 8-13 yr G-sec ETF,https://www.moneycontrol.com/india/stockpricequote/etf/miraenifty8-13/MAGS814938,35,7
+IndiGrid Infrastructure Trust,https://www.moneycontrol.com/india/stockpricequote/power-generationdistribution/indigridinfra/IIF01,29,3
+Ugar Sugar Works,https://www.moneycontrol.com/india/stockpricequote/sugar/ugarsugarwork/USW,16,3
+Bansal Wire Industries,https://www.moneycontrol.com/india/stockpricequote/ironsteel/bansalwireind/BWI03,22,3
+Motilal Oswal Nifty 500 Momentum 50 ETF,https://www.moneycontrol.com/india/stockpricequote/etf/mon500m50etf/MOMEN25606,39,7
+RPG Life Sciences,https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/rpglife/RPG05,17,3
+Titan Company,https://www.moneycontrol.com/india/stockpricequote/miscellaneous/titancompany/TI01,13,2
+Set SMS alerts for market news,https://investmentwatch.moneycontrol.com/tracker.php?package_id=1,30,6
+Opinion,https://www.moneycontrol.com/news/opinion.html,7,1
+The AI boom gives 1990s IT brands a second crack at youth,https://www.moneycontrol.com/news/opinion/the-ai-boom-gives-1990s-it-brands-a-second-crack-at-youth-13939961.html,57,12
+Board Meetings,#keycatb1,14,2
+AGM / EGMs,#keycatb2,10,3
+Bonus,#keycatb3,5,1
+Splits,#keycatb4,6,1
+Rights,#keycatb5,6,1
+Dividend,#keycatb6,8,1
+Shah Foods,https://www.moneycontrol.com/india/stockpricequote/foodprocessing/shahfoods/SF06,10,2
+DEE Development,https://www.moneycontrol.com/india/stockpricequote/ironsteel/deedevelopmentengineers/DDEL,15,2
+Ideaforge Tech,https://www.moneycontrol.com/india/stockpricequote/engineering-industrialequipments/ideaforgetechnology/IT07,14,2
+Kalind,https://www.moneycontrol.com/india/stockpricequote/finance-investments/kalind/MBP,6,1
+Binny,https://www.moneycontrol.com/india/stockpricequote/textiles-spinning-cottonblended/binny/B01,5,1
+See More Board meetings,https://www.moneycontrol.com/stocks/marketinfo/meetings.php?opttopic=brdmeeting,23,4
+Kopran,https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/kopran/K01,6,1
+Odyssey Tech,https://www.moneycontrol.com/india/stockpricequote/computers-softwaremediumsmall/odysseytechnologies/OT01,12,2
+Harmony Capital,https://www.moneycontrol.com/india/stockpricequote/finance-investments/harmonycapitalservices/HCS,15,2
+Prabhu Steels,https://www.moneycontrol.com/india/stockpricequote/steel-mediumsmall/prabhusteels/PS09,13,2
+Mafatlal Ind,https://www.moneycontrol.com/india/stockpricequote/textiles-compositemills/mafatlalindustries/MI02,12,2
+See More AGM EGM,https://www.moneycontrol.com/stocks/marketinfo/agm_egm.php,16,4
+Anand Rathi,https://www.moneycontrol.com/india/stockpricequote/finance-investment/anandrathiwealth/ARW,11,2
+See More Bonus,https://www.moneycontrol.com/stocks/marketinfo/bonus/index.php,14,3
+E2E Networks,https://www.moneycontrol.com/india/stockpricequote/itservicesconsulting/e2enetworks/EN,12,2
+Mobavenue AI,https://www.moneycontrol.com/india/stockpricequote/miscellaneous/mobavenueaitech/SES01,12,2
+View All Splits,https://www.moneycontrol.com/stocks/marketinfo/splits/index.php,15,3
+View All Rights,https://www.moneycontrol.com/stocks/marketinfo/rights/index.php,15,3
+Ashok Leyland,https://www.moneycontrol.com/india/stockpricequote/auto-lcvshcvs/ashokleyland/AL,13,2
+Remsons Ind,https://www.moneycontrol.com/india/stockpricequote/autoancillaries/remsonsindustries/RI10,11,2
+Monarch Surveyo,https://www.moneycontrol.com/india/stockpricequote/misccommercialservices/monarchsurveyorsengineeringconsultants/MSE02,15,2
+Foseco India,https://www.moneycontrol.com/india/stockpricequote/chemicals/fosecoindia/FI12,12,2
+Navneet,https://www.moneycontrol.com/india/stockpricequote/printingstationery/navneeteducation/NP01,7,1
+See More Dividend,https://www.moneycontrol.com/stocks/marketinfo/dividends_declared/index.php,17,3
+"Taking Stock: Nifty reclaims 23,400, Sensex ends 304 pts lower; IT drags",https://www.moneycontrol.com/news/business/markets/taking-stock-nifty-reclaims-23-400-sensex-ends-304-pts-lower-it-drags-13939918.html,72,12
+"Bank Nifty jumps 0.9% after 1,200-point rebound from day's low; PSU banks lead recovery despite IT rout",https://www.moneycontrol.com/news/business/stocks/bank-nifty-slips-over-1-today-all-14-constituents-trade-in-red-sbi-indusind-among-top-laggards-13939409.html,103,17
+"Fidelity buys Rs 1,906 crore worth of GMR Airports shares from GQG Partners",https://www.moneycontrol.com/news/business/markets/fidelity-buys-rs-1-906-crore-worth-of-gmr-airports-shares-from-gqg-partners-13940505.html,75,13
+"Fidelity, Goldman Sachs, IMF, Quant MF, WhiteOak Capital among investors buy Rs 2,873 crore worth of Lenskart shares from Softbank",https://www.moneycontrol.com/news/business/markets/fidelity-goldman-sachs-imf-quant-mf-whiteoak-capital-among-investors-buy-rs-2-873-crore-worth-of-lenskart-shares-from-softbank-13940482.html,130,20
+Commodities,https://www.moneycontrol.com/news/tags/commodities.html,11,1
+Commodity Corner: Crude oil climbs 1% amid middle east tensions; gold eases,https://www.moneycontrol.com/news/business/commodities/commodity-corner-crude-oil-climbs-1-amid-middle-east-tensions-gold-eases-13939172.html,75,12
+Commodity Corner: Oil retains gains amid middle east tensions; gold trades steady,https://www.moneycontrol.com/news/business/commodities/commodity-corner-oil-retains-gains-amid-middle-east-tensions-gold-trades-steady-13938038.html,81,12
+Commodity Corner: Oil jumps on middle east tensions; gold slips amid stronger dollar,https://www.moneycontrol.com/news/business/commodities/commodity-corner-oil-jumps-on-middle-east-tensions-gold-slips-amid-stronger-dollar-13936966.html,84,13
+Startups,https://www.moneycontrol.com/news/business/startups,8,1
+Delhi startup asks entire team to take 30% pay cut after Rs 2 crore mistake: 'Is it normal?',https://www.moneycontrol.com/news/trends/delhi-startup-asks-entire-team-to-take-30-pay-cut-after-rs-2-crore-mistake-is-it-normal-13938022.html,92,18
+'Ye decision easy nahi tha': Man quits high-paying Rs 300 crore company job at 40 to start own brand,https://www.moneycontrol.com/news/trends/ye-decision-easy-nahi-tha-man-quits-high-paying-rs-300-crore-company-job-at-40-to-start-own-brand-13931070.html,100,19
+"Bengaluru startup founder pays himself Rs 50,000 despite having Rs 5 crore in bank",https://www.moneycontrol.com/news/trends/pay-yourself-rs-24-lakh-bengaluru-startup-founder-pays-himself-rs-50-000-despite-having-rs-5-crore-in-bank-13929761.html,82,14
+Top Companies in India,https://www.moneycontrol.com/stocks/marketstats/top100.php,22,4
+HDFC Bank,https://www.moneycontrol.com/india/stockpricequote/banks-privatesector/hdfcbank/HDF01,9,2
+Bharti Airtel,https://www.moneycontrol.com/india/stockpricequote/telecommunications-service/bhartiairtel/BA08,13,2
+SBI,https://www.moneycontrol.com/india/stockpricequote/banks-publicsector/statebankindia/SBI,3,1
+ICICI Bank,https://www.moneycontrol.com/india/stockpricequote/banks-privatesector/icicibank/ICI02,10,2
+See More Top Companies in India,https://www.moneycontrol.com/stocks/top-companies-in-india/market-capitalisation-bse.html,31,6
+After the Bell,/https://www.moneycontrol.com/tv/cnbc-tv18-shows/after-the-bell-2020-09-09.html,14,3
+Bazaar,/https://www.moneycontrol.com/tv/cnbc-tv18-shows/bazzar-2021-02-22.html,6,1
+Bazaar Corporate Radar,/https://www.moneycontrol.com/tv/cnbc-tv18-shows/bazzar-corporate-2021-02-22.html,22,3
+Business Lunch,/https://www.moneycontrol.com/tv/cnbc-tv18-shows/business-lunch-2022-05-31.html,14,2
+Chart Busters,/https://www.moneycontrol.com/tv/cnbc-tv18-shows/chart-busters-2021-02-22.html,13,2
+Closing Bell,/https://www.moneycontrol.com/tv/cnbc-tv18-shows/closing-bell-2023-08-31.html,12,2
+Halftime Report,/https://www.moneycontrol.com/tv/cnbc-tv18-shows/halftime-report-2022-01-31.html,15,2
+India Business Hour,/https://www.moneycontrol.com/tv/cnbc-tv18-shows/indian-business-hour-2023-08-29.html,19,3
+Markets Today,/https://www.moneycontrol.com/tv/cnbc-tv18-shows/markets-today-with-udayan-2023-08-29.html,13,2
+Midcap Radar,/https://www.moneycontrol.com/tv/cnbc-tv18-shows/midcap-radar-2022-05-31.html,12,2
+Mindmine Mondays,/https://www.moneycontrol.com/tv/cnbc-tv18-shows/mindmine-mondays-2020-08-10.html,16,2
+Power Breakfast,/https://www.moneycontrol.com/tv/cnbc-tv18-shows/power-breakfast-2021-05-19.html,15,2
+Reporter's Diary,/https://www.moneycontrol.com/tv/cnbc-tv18-shows/reporter-diary-2022-01-28.html,16,2
+Trading Hour,/https://www.moneycontrol.com/tv/cnbc-tv18-shows/trading-hour-2022-05-30.html,12,2
+What's Hot,/https://www.moneycontrol.com/tv/cnbc-tv18-shows/whats-hot-2020-07-17.html,10,2
+Your Stocks,/https://www.moneycontrol.com/tv/cnbc-tv18-shows/your-stocks-2023-01-30.html,11,2
+Markets Today,https://www.cnbctv18.com/live-tv/,13,2
+"West Asia crisis fails to slow deals, AI boom, EVs sale surges | MC Editor's Picks",https://www.moneycontrol.com/news/podcast/west-asia-crisis-fails-to-slow-deals-ai-boom-evs-sale-surges-mc-editor-s-picks-13936077.html,82,16
+From Make in India to Global Impact: Indiaâs MedTech Future | Wipro GE Healthcare,https://www.moneycontrol.com/news/podcast/from-make-in-india-to-global-impact-india-s-medtech-future-wipro-ge-healthcare-13931476.html,83,14
+"Rupee at record low, debt pressure rises, India Inc faces tougher business climate | Editor's Picks",https://www.moneycontrol.com/news/podcast/rupee-at-record-low-debt-pressure-rises-india-inc-faces-tougher-business-climate-editor-s-picks-13923087.html,99,16
+"Bringing Structure and Reliability to Indiaâs Interiors Market | Srikanth Iyer, Co-Founder and CEO, Homelane | MC Unusual Suspects",https://www.moneycontrol.com/news/podcast/bringing-structure-and-reliability-to-india-s-interiors-market-srikanth-iyer-co-founder-and-ceo-homelane-mc-unusual-suspects-13920239.html,132,19
+"Tata Sons delays Chandra call, US-Iran war strains arsenal & HDFC Bank reshuffle | Editorâs Picks",https://www.moneycontrol.com/news/podcast/tata-sons-delays-chandra-call-us-iran-war-strains-arsenal-hdfc-bank-reshuffle-editor-s-picks-13881630.html,99,16
+Markets,#markets_wap,7,1
+Gold Rate,#gold_rate_wap,9,2
+Real Estate,#real_estate_wap,11,2
+Health,#health_wap,6,1
+World,#world_wap,5,1
+Trends,#trends_wap,6,1
+"Netanyahu downplays clash with Trump, says both share goal of disarming Hezbollah",https://www.moneycontrol.com/world/netanyahu-downplays-clash-with-trump-says-both-share-goal-of-disarming-hezbollah-article-13940504.html,81,12
+Putin's hometown under attack: Why Ukraine struck St Petersburg ahead of Russia's biggest summit,https://www.moneycontrol.com/world/putin-s-hometown-under-attack-why-ukraine-struck-st-petersburg-ahead-of-russia-s-biggest-summit-article-13940479.html,96,14
+"Indians take over grocery store in Canada, chant 'Jai Shri Ram' in viral video",https://www.moneycontrol.com/news/trends/indians-take-over-grocery-store-in-canada-chant-jai-shri-ram-in-viral-video-13940251.html,78,14
+Anushka Sharma faces backlash for promoting homeopathy: 'Hypocrisy is hard to miss',https://www.moneycontrol.com/news/trends/anushka-sharma-faces-backlash-for-promoting-homeopathy-hypocrisy-is-hard-to-miss-13940347.html,83,12
+grievanceofficer@nw18.com,mailto:grievanceofficer@nw18.com,25,1
+Stocks,https://www.moneycontrol.com/india/stockpricequote/,6,1
+A,https://www.moneycontrol.com/india/stockpricequote/A,1,1
+B,https://www.moneycontrol.com/india/stockpricequote/B,1,1
+C,https://www.moneycontrol.com/india/stockpricequote/C,1,1
+D,https://www.moneycontrol.com/india/stockpricequote/D,1,1
+E,https://www.moneycontrol.com/india/stockpricequote/E,1,1
+F,https://www.moneycontrol.com/india/stockpricequote/F,1,1
+G,https://www.moneycontrol.com/india/stockpricequote/G,1,1
+H,https://www.moneycontrol.com/india/stockpricequote/H,1,1
+I,https://www.moneycontrol.com/india/stockpricequote/I,1,1
+J,https://www.moneycontrol.com/india/stockpricequote/J,1,1
+K,https://www.moneycontrol.com/india/stockpricequote/K,1,1
+L,https://www.moneycontrol.com/india/stockpricequote/L,1,1
+M,https://www.moneycontrol.com/india/stockpricequote/M,1,1
+N,https://www.moneycontrol.com/india/stockpricequote/N,1,1
+O,https://www.moneycontrol.com/india/stockpricequote/O,1,1
+P,https://www.moneycontrol.com/india/stockpricequote/P,1,1
+Q,https://www.moneycontrol.com/india/stockpricequote/Q,1,1
+R,https://www.moneycontrol.com/india/stockpricequote/R,1,1
+S,https://www.moneycontrol.com/india/stockpricequote/S,1,1
+T,https://www.moneycontrol.com/india/stockpricequote/T,1,1
+U,https://www.moneycontrol.com/india/stockpricequote/U,1,1
+V,https://www.moneycontrol.com/india/stockpricequote/V,1,1
+W,https://www.moneycontrol.com/india/stockpricequote/W,1,1
+X,https://www.moneycontrol.com/india/stockpricequote/X,1,1
+Y,https://www.moneycontrol.com/india/stockpricequote/Y,1,1
+Z,https://www.moneycontrol.com/india/stockpricequote/Z,1,1
+Others,https://www.moneycontrol.com/india/stockpricequote/others,6,1
+LTM Share Price,https://www.moneycontrol.com/news/business/stocks/ltm-shares-crash-7-today-as-jefferies-questions-ai-growth-targets-despite-management-s-bullish-outlook-13939302.html,15,3
+RBI MPC Today,https://www.moneycontrol.com/news/business/banks/rbi-mpc-begins-today-inflation-growth-and-rupee-in-focus-as-rate-hold-looms-13939171.html,13,3
+IndusInd Bank Share Price,https://www.moneycontrol.com/news/business/markets/indusind-bank-share-falls-over-2-after-report-of-fresh-whistleblower-complaint-to-pmo-rbi-13939274.html,25,4
+Business News Live,https://www.moneycontrol.com/news/business/corporate-business-news-live-updates-india-world-june-3-2026-liveblog-13939144.html,18,3
+Lenskart Block Deal,https://www.moneycontrol.com/news/business/stocks/lenskart-block-deal-3-25-equity-stake-sold-for-rs-2-873-crore-in-large-trades-stock-flat-13939264.html,19,3
+Wipro CEO Srinivas Pallia,https://www.moneycontrol.com/news/business/wipro-ceo-srinivas-pallia-earns-nearly-7-times-what-chairman-rishad-premji-does-13939228.html,25,4
+Tokenmaxxing,https://www.moneycontrol.com/technology/tokenmaxxing-is-a-terrible-idea-snowflake-ceo-sridhar-ramaswamy-article-13938928.html,12,1
+Silver MCX Price,https://www.moneycontrol.com/commodity/mcx-silver-price/,16,3
+Gold MCX Price,https://www.moneycontrol.com/commodity/mcx-gold-price/,14,3
+Loans up to 50 Lakhs,https://www.moneycontrolpay.com/?sso=,20,5
+Fixed Income,https://www.thefixedincome.com/,12,2
+ETFs,https://www.moneycontrol.com/mf/etf/,4,1
+EMI Calculator,https://www.moneycontrol.com/personal-finance/tools/emi-calculator.html,14,2
+Retirement Planning,https://www.moneycontrol.com/personal-finance/tools/retirement-planning-calculator.html,19,2
+Gratuity Calculator,https://www.moneycontrol.com/personal-finance/tools/gratuity-calculator.html,19,2
+News18,https://www.news18.com/,6,1
+Firstpost,https://www.firstpost.com/,9,1
+CNBC TV18,https://www.cnbctv18.com/,9,2
+News18 Hindi,https://hindi.news18.com/,12,2
+Cricketnext,https://www.news18.com/cricket/,11,1
+Overdrive,https://www.overdrive.in/,9,1
+About Us,https://www.moneycontrol.com/cdata/aboutus.php,8,2
+Contact Us,https://www.moneycontrol.com/cdata/contact.php,10,2
+Advisory Alert,https://www.moneycontrol.com/cdata/advisory-alert.php,14,2
+Advertise with Us,https://www.moneycontrol.com/advertise-on-moneycontrol.html,17,3
+Disclaimer,https://www.moneycontrol.com/cdata/disclaim.php,10,1
+Privacy Policy,https://www.moneycontrol.com/cdata/privacypolicy.php,14,2
+Cookie Policy,https://www.moneycontrol.com/cdata/gdpr_cookiepolicy.php,13,2
+Terms & Conditions,https://www.moneycontrol.com/cdata/termsofuse.php,18,3
+Financial Terms (Glossary),https://www.moneycontrol.com/glossary/,26,3
+Sitemap,https://www.moneycontrol.com/sitemap.php,7,1
+Investors,https://www.moneycontrol.com/investors/,9,1
+Portfolio,https://www.moneycontrol.com/bestportfolio/wealth-management-tool/investments,9,1
