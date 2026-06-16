@@ -1,0 +1,3 @@
+Buy groceries
+Complete Python project
+Practice SQL
