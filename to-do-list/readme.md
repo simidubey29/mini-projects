@@ -55,7 +55,7 @@ git clone https://github.com/simidubey29/mini-project/to-do-list.git
 ### Move to Project Directory
 
 ```bash
-cd python-todo-list-app
+cd python to-do-list
 ```
 
 ### Run the Application
