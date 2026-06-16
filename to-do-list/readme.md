@@ -49,7 +49,7 @@ to-do-list/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/simidubey29/mini-project/to-do-list.git
+git clone https://github.com/simidubey29/mini-projects/to-do-list.git
 ```
 
 ### Move to Project Directory
