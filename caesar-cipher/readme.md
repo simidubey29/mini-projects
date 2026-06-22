@@ -1,42 +1,27 @@
-# 🔐 Caesar Cipher Encryption & Decryption
+# 🔐 Secret Message Encryptor
 
-A beginner-friendly Python project that encrypts and decrypts text using the **Caesar Cipher** technique. This project demonstrates string manipulation, loops, functions, and basic cryptography concepts.
+A simple Python project that allows users to **encrypt and decrypt secret messages** using a custom **2-digit passcode**. The message can only be read by someone who knows the correct passcode.
 
----
-
-## 📌 Features
-
-- Encrypt any text
-- Decrypt encrypted text
-- Supports uppercase and lowercase letters
-- Preserves spaces, numbers, and symbols
-- Simple menu-driven interface
+This project demonstrates basic encryption concepts, user input handling, string manipulation, and SHA-256 passcode verification.
 
 ---
 
-## 🧠 How It Works
+## ✨ Features
 
-The Caesar Cipher shifts each alphabet letter by a fixed number of positions.
-
-Example (Shift = 3):
-
-A → D
-
-B → E
-
-X → A
-
-Y → B
-
-Z → C
+- 🔒 Encrypt secret messages
+- 🔑 Create your own 2-digit passcode
+- 🛡️ Passcode verification using SHA-256 hashing
+- 🔓 Decrypt messages only with the correct passcode
+- 📝 Preserves spaces, numbers, and special characters
+- 💻 Simple menu-driven console application
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
 
 ```
-Caesar-Cipher/
-│── caesar_cipher.py
+Secret-Message-Encryptor/
+│── secret_message_encryptor.py
 │── README.md
 │── screenshots/
 │     └── output.png
@@ -44,41 +29,109 @@ Caesar-Cipher/
 
 ---
 
+## 🚀 How It Works
+
+### Encryption
+
+1. Run the program.
+2. Select **Encrypt Message**.
+3. Enter your secret message.
+4. Create a 2-digit passcode.
+5. The program encrypts your message.
+6. Share the encrypted message and passcode with your friend.
+
+### Decryption
+
+1. Run the program.
+2. Select **Decrypt Message**.
+3. Enter the encrypted message.
+4. Enter the passcode hash.
+5. Enter the correct passcode.
+6. If the passcode matches, the original message is displayed.
+
+---
+
 ## ▶️ How to Run
 
+### Clone the repository
+
 ```bash
-python caesar_cipher.py
+git clone https://github.com/yourusername/Secret-Message-Encryptor.git
+```
+
+### Open the project folder
+
+```bash
+cd Secret-Message-Encryptor
+```
+
+### Run the program
+
+```bash
+python secret_message_encryptor.py
 ```
 
 ---
 
 ## 💻 Sample Output
 
-### Encrypt
+### Encrypt Message
 
 ```
-Enter text: Hello World
-Shift: 3
+==================================================
+        SECRET MESSAGE ENCRYPTOR
+==================================================
 
-Encrypted:
-Khoor Zruog
-```
+1. Encrypt Message
+2. Decrypt Message
+3. Exit
 
-### Decrypt
+Choose an option (1-3): 1
 
-```
-Enter text: Khoor Zruog
-Shift: 3
+Enter your secret message:
+Meet me tomorrow at 7 PM
 
-Decrypted:
-Hello World
+Create a 2-digit passcode (10-99): 25
+
+==================================================
+ENCRYPTED MESSAGE
+==================================================
+Jxxm fx mhfhkkhp tm 7 EB
+
+Passcode Hash:
+8e296a067a37563370ded05f5a3bf3ec...
+
+Share this encrypted message and your passcode.
 ```
 
 ---
 
-## 🛠 Technologies Used
+### Decrypt Message
+
+```
+Choose an option (1-3): 2
+
+Enter encrypted message:
+Jxxm fx mhfhkkhp tm 7 EB
+
+Enter passcode hash:
+8e296a067a37563370ded05f5a3bf3ec...
+
+Enter passcode:
+25
+
+==================================================
+ORIGINAL MESSAGE
+==================================================
+Meet me tomorrow at 7 PM
+```
+
+---
+
+## 🛠️ Technologies Used
 
 - Python 3
+- hashlib (Built-in Library)
 
 ---
 
@@ -86,38 +139,48 @@ Hello World
 
 - Functions
 - Loops
-- String Manipulation
-- ASCII (`ord()` and `chr()`)
 - Conditional Statements
+- String Manipulation
+- ASCII Values (`ord()` & `chr()`)
+- SHA-256 Hashing
+- User Input Validation
+
+---
+
+## 🎯 Learning Outcomes
+
+By building this project, you will learn:
+
+- Basic encryption techniques
+- Password verification using hashing
+- How Caesar Cipher works
+- Python functions
+- Error handling
+- Menu-driven applications
 
 ---
 
 ## 🚀 Future Improvements
 
-- Brute-force decryption mode
-- File encryption
-- GUI with Tkinter
-- Custom encryption keys
-- Save encrypted messages
+- 📂 Encrypt and decrypt text files
+- 🖥️ GUI using Tkinter
+- 🌐 Web version using Flask
+- 🔐 AES/Fernet encryption for real security
+- 📋 Copy encrypted message to clipboard
+- 💾 Save encrypted messages automatically
 
 ---
 
-## 📸 Screenshot
 
-Add a screenshot of the program output inside the `screenshots` folder.
 
-Example:
-
-```
-screenshots/output.png
-```
-
----
-
-## 👩‍💻 Author
+## 👨‍💻 Author
 
 **Simi Dubey**
 
 Aspiring Data Scientist | Python | SQL | Power BI | Machine Learning
 
-If you like this project, consider giving it a ⭐ on GitHub!
+---
+
+## ⭐ Support
+
+If you found this project useful, please consider giving it a **⭐ Star** on GitHub!
